@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
+	<Entry>
+		<zType/>
+		<English/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_REPAIR</zType>
+		<English>Repairs</English>
+		<French>Réparations</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MONARCH</zType>
+		<English>Monarch~a Monarch~Monarchs</English>
+		<French>Monarque~un Monarque~Monarques</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GOVERNOR</zType>
+		<English>Governor~a Governor~Governors</English>
+		<French>Gouverneur~un Gouverneur~Gouverneurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WALLS</zType>
+		<English>Walls</English>
+		<French>Murailles</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MOAT</zType>
+		<English>Moat~a Moat~Moats</English>
+		<French>Douve~une Douve~Douves</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TOWERS</zType>
+		<English>Towers</English>
+		<French>Tours</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TREASURY_1</zType>
+		<English>Treasury I~a Treasury I~Treasuries I</English>
+		<French>Trésorerie I~un Trésorerie I~Trésoreries I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TREASURY_2</zType>
+		<English>Treasury II~a Treasury II~Treasuries II</English>
+		<French>Trésorerie II~un Trésorerie II~Trésoreries II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TREASURY_3</zType>
+		<English>Treasury III~a Treasury III~Treasuries III</English>
+		<French>Trésorerie III~un Trésorerie III~Trésoreries III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TREASURY_4</zType>
+		<English>Treasury IV~a Treasury IV~Treasuries IV</English>
+		<French>Trésorerie IV~un Trésorerie IV~Trésoreries IV</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORUM_1</zType>
+		<English>Forum I~a Forum I~Forums I</English>
+		<French>Forum I~un Forum I~Forum I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORUM_2</zType>
+		<English>Forum II~a Forum II~Forums II</English>
+		<French>Forum II~un Forum II~Forum II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORUM_3</zType>
+		<English>Forum III~a Forum III~Forums III</English>
+		<French>Forum III~un Forum III~Forum III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORUM_4</zType>
+		<English>Forum IV~a Forum IV~Forums IV</English>
+		<French>Forum IV~un Forum IV~Forum IV</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ARCHIVE_1</zType>
+		<English>Archive I~an Archive I~Archives I</English>
+		<French>Archives I~des Archives I~Archives I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ARCHIVE_2</zType>
+		<English>Archive II~an Archive II~Archives II</English>
+		<French>Archives II~des Archives II~Archives II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ARCHIVE_3</zType>
+		<English>Archive III~an Archive III~Archives III</English>
+		<French>Archives III~des Archives III~Archives III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ARCHIVE_4</zType>
+		<English>Archive IV~an Archive IV~Archives IV</English>
+		<French>Archives IV~des Archives IV~Archives IV</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE_1</zType>
+		<English>Decree I~a Decree I~Decrees I</English>
+		<French>Décret I~un Décret I~Décrets I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE_2</zType>
+		<English>Decree II~a Decree II~Decrees II</English>
+		<French>Décret II~un Décret II~Décrets II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE_3</zType>
+		<English>Decree III~a Decree III~Decrees III</English>
+		<French>Décret III~un Décret III~Décrets III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DECREE_4</zType>
+		<English>Decree IV~a Decree IV~Decrees IV</English>
+		<French>Décret IV~un Décret IV~Décrets IV</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL</zType>
+		<English>Festival~a Festival~Festivals</English>
+		<French>Festival~un Festival~Festivals</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL_1</zType>
+		<English>Festival I~a Festival I~Festivals I</English>
+		<French>Festival I~un Festival I~Festivals I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL_2</zType>
+		<English>Festival II~a Festival II~Festivals II</English>
+		<French>Festival II~un Festival II~Festivals II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL_3</zType>
+		<English>Festival III~a Festival III~Festivals III</English>
+		<French>Festival III~un Festival III~Festivals III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FESTIVAL_4</zType>
+		<English>Festival IV~a Festival IV~Festivals IV</English>
+		<French>Festival IV~un Festival IV~Festivals IV</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY</zType>
+		<English>Inquiry~an Inquiry~Inquiries</English>
+		<French>Enquête~une Enquête~Enquêtes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY_1</zType>
+		<English>Inquiry I~an Inquiry I~Inquiries I</English>
+		<French>Enquête I~une Enquête I~Enquêtes I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY_2</zType>
+		<English>Inquiry II~an Inquiry II~Inquiries II</English>
+		<French>Enquête II~une Enquête II~Enquêtes II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY_3</zType>
+		<English>Inquiry III~an Inquiry III~Inquiries III</English>
+		<French>Enquête III~une Enquête III~Enquêtes III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_INQUIRY_4</zType>
+		<English>Inquiry IV~an Inquiry IV~Inquiries IV</English>
+		<French>Enquête IV~une Enquête IV~Enquêtes IV</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT</zType>
+		<English>Hunt~a Hunt~Hunts</English>
+		<French>Chasse~une Chasse~Chasses</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_1</zType>
+		<English>Hunt I~a Hunt I~Hunts I</English>
+		<French>Chasse I~une Chasse I~Chasses I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_2</zType>
+		<English>Hunt II~a Hunt II~Hunts II</English>
+		<French>Chasse II~une Chasse II~Chasses II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_3</zType>
+		<English>Hunt III~a Hunt III~Hunts III</English>
+		<French>Chasse III~une Chasse III~Chasses III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HUNT_4</zType>
+		<English>Hunt IV~a Hunt IV~Hunts IV</English>
+		<French>Chasse IV~une Chasse IV~Chasses IV</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS</zType>
+		<English>Olympiad~an Olympiad~Olympiads</English>
+		<French>Olympiade~une Olympiade~Olympiades</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS_1</zType>
+		<English>Olympiad~an Olympiad I~Olympiads I</English>
+		<French>Olympiade I~une Olympiade I~Olympiades I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS_2</zType>
+		<English>Olympiad II~an Olympiad II~Olympiads II</English>
+		<French>Olympiade II~une Olympiade II~Olympiades II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS_3</zType>
+		<English>Olympiad III~an Olympiad III~Olympiads III</English>
+		<French>Olympiade III~une Olympiade III~Olympiades III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OLYMPICS_4</zType>
+		<English>Olympiad IV~an Olympiad IV~Olympiads IV</English>
+		<French>Olympiade IV~une Olympiade IV~Olympiades IV</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY</zType>
+		<English>Convoy~a Convoy~Convoys</English>
+		<French>Convoi~un Convoi~Convois</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY_1</zType>
+		<English>Convoy I~a Convoy I~Convoys I</English>
+		<French>Convoi I~un Convoi I~Convois I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY_2</zType>
+		<English>Convoy II~a Convoy II~Convoys II</English>
+		<French>Convoi II~un Convoi II~Convois II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY_3</zType>
+		<English>Convoy III~a Convoy III~Convoys III</English>
+		<French>Convoi III~un Convoi III~Convois III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONVOY_4</zType>
+		<English>Convoy IV~a Convoy IV~Convoys IV</English>
+		<French>Convoi IV~un Convoi IV~Convois IV</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COUNCIL_1</zType>
+		<English>Council I~a Council I~Councils I</English>
+		<French>Conseil I~un Conseil I~Conseils I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COUNCIL_2</zType>
+		<English>Council II~a Council II~Councils II</English>
+		<French>Conseil II~un Conseil II~Conseils II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COUNCIL_3</zType>
+		<English>Council III~a Council III~Councils III</English>
+		<French>Conseil III~un Conseil III~Conseils III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_COUNCIL_4</zType>
+		<English>Council IV~a Council IV~Councils IV</English>
+		<French>Conseil IV~un Conseil IV~Conseils IV</French>
+	</Entry>
+</Root>
