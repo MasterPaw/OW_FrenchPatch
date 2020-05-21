@@ -1,0 +1,14 @@
+# Installation et utilisation
+
+Téléchargez ces fichiers et mettez les dans  D:\User\Documents\my games\OldWorld\Test\Mods ou D:\User\Documents\my games\OldWorld\Mods (ou similaire). 
+Lancez Old World, préparez une nouvelle partie et allez dans Advanced Setup (Configuration Avancée) pour trouver le mod et l'activer.
+Démarrez la partie et allez dans Options -> UI -> Languages -> French (France) et cliquez sur Save.
+
+Prêt à jouer en français !
+
+Si vous voulez charger une partie existante vous devrez probablement lancez une nouvelle partie en activant le mod puis chargez votre sauvegarde afin que le mod soit activé.
+
+# Attention
+
+Quand vous démarrez Old World, le jeu va chercher la dernière langue utilisée. si celle-ci est le français, parce qu'il n'est pas encore inclus dans le jeu de base et que les mods n'auront pas été chargés, Old World ne le trouvera pas. Il va donc changer la langue pour DEBUG.
+Ceci va causer le texte de ne pas être localisé (traduit) tant que vous ne changerez pas la langue en Anglais (ou Français après avoir activé le mod).
