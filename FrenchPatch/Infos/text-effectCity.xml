@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<!--Name-->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_BASE</zType>
+		<French>Fonder</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CAPITAL</zType>
+		<French>Capital</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_SEAT</zType>
+		<French>Siège familial</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CONNECTED</zType>
+		<French>Lié</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DAMAGED</zType>
+		<French>Endommagé</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_HOLY_CITY</zType>
+		<French>Ville sainte</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FRESH_WATER</zType>
+		<French>Accès à l'eau douce</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CITIZEN</zType>
+		<French>Citoyen</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_POPULATION</zType>
+		<French>Population</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LUXURY</zType>
+		<French>Luxe</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_AMBITION_CAPITAL</zType>
+		<French>Ambitions accomplies</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LEGACY_CAPITAL</zType>
+		<French>Legs accomplis</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_LANDOWNERS</zType>
+		<French>Propriétaires</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_LANDOWNERS_SEAT</zType>
+		<French>Propriétaires</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CHAMPIONS</zType>
+		<French>Champions</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CHAMPIONS_SEAT</zType>
+		<French>Champions</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN</zType>
+		<French>Hommes d'État</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT</zType>
+		<French>Hommes d'État</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_STATESMEN_SEAT_DECREE</zType>
+		<French>Décret</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_PATRONS</zType>
+		<French>Mécènes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_PATRONS_SEAT</zType>
+		<French>Mécènes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CLERICS</zType>
+		<French>Clercs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CLERICS_SEAT</zType>
+		<French>Clercs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES</zType>
+		<French>Sages</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES_SEAT</zType>
+		<French>Sages</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_SAGES_SEAT_INQUIRY</zType>
+		<French>Enquête</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_TRADERS</zType>
+		<French>Commerçants</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_TRADERS_SEAT</zType>
+		<French>Commerçants</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_ARTISANS</zType>
+		<French>Artisans</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_ARTISANS_SEAT</zType>
+		<French>Artisans</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_RIDERS</zType>
+		<French>Cavaliers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_RIDERS_SEAT</zType>
+		<French>Cavaliers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS</zType>
+		<French>Chasseurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT</zType>
+		<French>Chasseurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_HUNTERS_SEAT_HUNT</zType>
+		<French>Chasse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CULTURE_DEVELOPING</zType>
+		<French>Développement</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CULTURE_STRONG</zType>
+		<French>Forte</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CULTURE_LEGENDARY</zType>
+		<French>Légendaire</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE</zType>
+		<French>Capable</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE_CAPITAL</zType>
+		<French>Capable</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_JUST</zType>
+		<French>Le juste</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_JUST_CAPITAL</zType>
+		<French>Le juste</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_GOOD</zType>
+		<French>Le bon</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_GOOD_CAPITAL</zType>
+		<French>Le bon</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_STRONG</zType>
+		<French>Le fort</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_STRONG_CAPITAL</zType>
+		<French>Le fort</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_NOBLE</zType>
+		<French>Le noble</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_NOBLE_CAPITAL</zType>
+		<French>Le noble</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_GLORIOUS</zType>
+		<French>Le glorieux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_GLORIOUS_CAPITAL</zType>
+		<French>Le glorieux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_MAGNIFICENT</zType>
+		<French>Le magnifique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_MAGNIFICENT_CAPITAL</zType>
+		<French>Le magnifique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_GREAT</zType>
+		<French>Le grand</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_DIFFICULTY_GREAT_CAPITAL</zType>
+		<French>Le grand</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HAMLET</zType>
+		<French>Hameau</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_VILLAGE</zType>
+		<French>Village</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_TOWN</zType>
+		<French>Ville</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_BARRACKS</zType>
+		<French>Caserne</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_RANGE</zType>
+		<French>Plantation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_1</zType>
+		<French>Marché</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_2</zType>
+		<French>Épicier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MARKET_3</zType>
+		<French>Foire</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_1</zType>
+		<French>Bibliothèque</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_2</zType>
+		<French>Académie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIBRARY_3</zType>
+		<French>Université</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_1</zType>
+		<French>Tribunal</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_2</zType>
+		<French>Ministère</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COURTHOUSE_3</zType>
+		<French>Palais</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_1</zType>
+		<French>Garnison</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_2</zType>
+		<French>Bastion</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GARRISON_3</zType>
+		<French>Citadelle</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_FIRE</zType>
+		<French>Sanctuaire de feu</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_UNDERWORLD</zType>
+		<French>Sanctuaire des enfers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HEALING</zType>
+		<French>Sanctuaire de guérison</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_SHRINE_HUNTING</zType>
+		<French>Sanctuaire de la chasse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
+		<French>L'Adur Burzen-Mihr</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_JUDAISM</zType>
+		<French>Le Temple de Salomon</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_CHRISTIANITY</zType>
+		<French>L'église du Saint-Sépulcre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
+		<French>Le Cao'an</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+		<French>La grande ziggourat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ORACLE</zType>
+		<French>L'Oracle</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HANGING_GARDENS_ALL</zType>
+		<French>Les jardins suspendus</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_NECROPOLIS</zType>
+		<French>La nécropole</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_NECROPOLIS_ALL</zType>
+		<French>La nécropole</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ISHTAR_GATE</zType>
+		<French>La porte d'Ishtar</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIGHTHOUSE</zType>
+		<French>Le grand phare</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_LIGHTHOUSE_COAST</zType>
+		<French>Le grand phare</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_APADANA_STATE</zType>
+		<French>L'Apadana</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MAUSOLEUM_ALL</zType>
+		<French>Le mausolée</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ACROPOLIS</zType>
+		<French>L'Acropolis</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ACROPOLIS_ALL</zType>
+		<French>L'Acropolis</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COLOSSUS</zType>
+		<French>Le Colosse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_COLOSSUS_ALL</zType>
+		<French>Le Colosse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MUSAEUM</zType>
+		<French>Le Musaeum</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MUSAEUM_ALL</zType>
+		<French>Le Musaeum</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_CIRCUS_MAXIMUS_ALL</zType>
+		<French>Le Circus Maximus</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_PANTHEON</zType>
+		<French>Le Pantheon</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_PANTHEON_STATE</zType>
+		<French>Le Pantheon</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_HAGIA_SOPHIA_ALL</zType>
+		<French>La basilique Sainte-Sophie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GRAND_BAZAAR_ALL</zType>
+		<French>Le Grand Bazaar</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_THEATER</zType>
+		<French>Théâtres</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MARKET</zType>
+		<French>Marchés</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_LIBRARY</zType>
+		<French>Bibliothèques</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_COURTHOUSE</zType>
+		<French>Palais de justice</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_HOLY_SITE</zType>
+		<French>Site sacré</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_MYTHOLOGY</zType>
+		<French>Monastère de la mythologie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_VENERATION</zType>
+		<French>Monastère de la vénération</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_MONASTERY_LEGALISM</zType>
+		<French>Monastère du légalisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE</zType>
+		<French>Temple</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE_REVELATION</zType>
+		<French>Temple de la révélation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_TEMPLE_GNOSTICISM</zType>
+		<French>Temple du gnosticisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL</zType>
+		<French>Cathédrale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_REDEMPTION</zType>
+		<French>Cathédrale de la rédemption</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_DUALISM</zType>
+		<French>Cathédrale du dualisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENTCLASS_CATHEDRAL_ENLIGHTENMENT</zType>
+		<French>Cathédrale de la Lumières</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_SLAVERY</zType>
+		<French>Esclavage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_FREEDOM</zType>
+		<French>Liberté</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_CENTRALIZATION</zType>
+		<French>Centralisation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_TYRANNY</zType>
+		<French>Tyrannie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_SERFDOM</zType>
+		<French>Servage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_MONOTHEISM</zType>
+		<French>Monothéisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_POLYTHEISM</zType>
+		<French>Polythéisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_PROFESSIONAL_ARMY</zType>
+		<French>Armée professionnelle</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_TOLERANCE</zType>
+		<French>Tolerance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_ORTHODOXY</zType>
+		<French>Orthodoxie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_GUILDS</zType>
+		<French>Guildes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_ELITES</zType>
+		<French>Elites</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_PHILOSOPHY</zType>
+		<French>Philosophie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_ICONOGRAPHY</zType>
+		<French>Iconographie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_CALLIGRAPHY</zType>
+		<French>Calligraphie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_ISOLATIONISM</zType>
+		<French>Isolationnisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_TRADE_LEAGUE</zType>
+		<French>Ligue commerciale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_ASCETICISM</zType>
+		<French>Ascétisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_HOLY_WAR</zType>
+		<French>La guerre sainte</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_DIVINE_RULE</zType>
+		<French>Règle divine</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_SECULARISM</zType>
+		<French>Laïcité</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_COIN_DEBASEMENT</zType>
+		<French>Dégradation monétaire</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_ASSYRIA</zType>
+		<French>Assyri</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_BABYLONIA</zType>
+		<French>Babylone</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_CARTHAGE</zType>
+		<French>Carthage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_EGYPT</zType>
+		<French>Egypte</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_GREECE</zType>
+		<French>Grèce</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_ROME</zType>
+		<French>Rome</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_NATION_PERSIA</zType>
+		<French>Perse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_FURIOUS</zType>
+		<French>Furieux (Family)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_ANGRY</zType>
+		<French>En colère (Family)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_UPSET</zType>
+		<French>Dérangé (Family)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_PLEASED</zType>
+		<French>Heureux (Family)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONFAMILY_FRIENDLY</zType>
+		<French>Amical (Family)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_FURIOUS</zType>
+		<French>Furieux (Religion)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_ANGRY</zType>
+		<French>En colère (Religion)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_UPSET</zType>
+		<French>Dérangé (Religion)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_PLEASED</zType>
+		<French>Heureux (Religion)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_OPINIONRELIGION_FRIENDLY</zType>
+		<French>Amical (Religion)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_MONARCH</zType>
+		<French>Monarque</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_GOVERNOR</zType>
+		<French>Gouverneur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_WALLS</zType>
+		<French>Murs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_MOAT</zType>
+		<French>Douves</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_TOWERS</zType>
+		<French>Tours</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY</zType>
+		<French>Trésorerie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY_1</zType>
+		<French>Trésorerie I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY_2</zType>
+		<French>Trésorerie II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY_3</zType>
+		<French>Trésorerie III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_TREASURY_4</zType>
+		<French>Trésorerie IV</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_FORUM</zType>
+		<French>Forum</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_FORUM_1</zType>
+		<French>Forum I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_FORUM_2</zType>
+		<French>Forum II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_FORUM_3</zType>
+		<French>Forum III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_FORUM_4</zType>
+		<French>Forum IV</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE</zType>
+		<French>Archive</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE_1</zType>
+		<French>Archive I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE_2</zType>
+		<French>Archive II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE_3</zType>
+		<French>Archive III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_ARCHIVE_4</zType>
+		<French>Archive IV</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_FESTIVAL</zType>
+		<French>Festival</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_INQUIRY</zType>
+		<French>Investigation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_HUNT</zType>
+		<French>Chasse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_OLYMPICS</zType>
+		<French>Jeux olympiques</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_CONVOY</zType>
+		<French>Convoi</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_SWORD_CULT</zType>
+		<French>Epée culte</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_SWORD_CULT_TITHE</zType>
+		<French>Épée culte de la dîme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_HOSTILE_GARRISON</zType>
+		<French>Garnison hostile</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_PUBLIC_MURAL</zType>
+		<French>Peinture murale publique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_TRIUMPH</zType>
+		<French>Triomphe</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_PURPLE_DYE</zType>
+		<French>Teinture pourpre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_PROPAGANDA</zType>
+		<French>Propagande</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_CHILD_LABOR</zType>
+		<French>Travail des enfants</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_CORRUPTION_REFORM</zType>
+		<French>Réforme de la corruption</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_ROYAL_INSCRIPTIONS</zType>
+		<French>Inscriptions en argile royale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_IMPERIAL_NECROPOLIS</zType>
+		<French>Nécropole impériale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_FORCED_DEPORTATIONS</zType>
+		<French>Déportations forcées</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_GLADIATORS</zType>
+		<French>Gladiateurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_PLAYS</zType>
+		<French>Pièces dramatiques</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_MERCHANT_TOWN</zType>
+		<French>Ville marchande</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_OUTBREAK</zType>
+		<French>Épidémie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_LUXURIOUS_DELIGHTS</zType>
+		<French>Délices luxueux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_MIDWIFERY</zType>
+		<French>Obstétrique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_PERSIA</zType>
+		<French>Commerce avec la Perse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
+		<French>Organisez un festin annuel pour les invités persans</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_ROME</zType>
+		<French>Commerce avec Rome</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_BABYLONIA</zType>
+		<French>Commerce avec Babylone</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_TRADE_CARTHAGE</zType>
+		<French>Commerce avec Carthage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_ADVANCED_TRADE_CARTHAGE</zType>
+		<French>Commerce avancé avec Carthage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_NEIGHBORS_INTERNATIONAL_TRADE</zType>
+		<French>Accord de commerce international</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_MISTHOPHORIA</zType>
+		<French>Misthophoria</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_GRAIN_DOLE</zType>
+		<French>Ration gratuite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_FOREIGN_FIGHTERS</zType>
+		<French>Combattants étrangers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_WAR_COUNCIL</zType>
+		<French>Conseil de guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_SEWER_SYSTEM</zType>
+		<French>Système de canalisation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_CASE_HARDENING</zType>
+		<French>Cémentation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_TURPAN_WELLS</zType>
+		<French>Puits de turpan</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_NATIONAL_HOLIDAY</zType>
+		<French>Fête nationale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_SCIENTIFIC_METHOD</zType>
+		<French>Méthode scientifique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_PROTECTION_EDICTS</zType>
+		<French>Édits de protection</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_HORREUM</zType>
+		<French>Horreum entrepôt</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_AVESTA_TREASURY</zType>
+		<French>Trésor d'Avesta</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_DISEASED_SETTLERS</zType>
+		<French>Citoyens malades</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_TERRACE_LOVE_SHRINE</zType>
+		<French>Sanctuaire d'amour de Ziggurat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_TERRACE_WISDOM_SHRINE</zType>
+		<French>Sanctuaire de la sagesse de Ziggurat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_TERRACE_WAR_SHRINE</zType>
+		<French>Sanctuaire de guerre de Ziggurat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_CONSULAR_TRIBUNES</zType>
+		<French>Tribunaux consulaires</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RELIGION_JUDAISM</zType>
+		<French>Judaism</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RELIGION_JUDAISM_STATE</zType>
+		<French>Judaism</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RELIGION_ZOROASTRIANISM</zType>
+		<French>Zoroastrianism</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RELIGION_ZOROASTRIANISM_STATE</zType>
+		<French>Zoroastrianism</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RELIGION_CHRISTIANITY</zType>
+		<French>Christianisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RELIGION_CHRISTIANITY_STATE</zType>
+		<French>Christianisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RELIGION_MANICHAEISM</zType>
+		<French>Manichéisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RELIGION_MANICHAEISM_STATE</zType>
+		<French>Manichéisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_ORE</zType>
+		<French>Minerai</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_SALT</zType>
+		<French>Sel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_GEM</zType>
+		<French>Gemme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_HORSE</zType>
+		<French>Cheval</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_CAMEL</zType>
+		<French>Chameau</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_ELEPHANT</zType>
+		<French>Elephant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_FUR</zType>
+		<French>Fourrure</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_INCENSE</zType>
+		<French>Encens</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_WINE</zType>
+		<French>Vin</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_OLIVE</zType>
+		<French>Olive</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_DYE</zType>
+		<French>Teinture</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_PEARL</zType>
+		<French>Perle</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_SCROLLS</zType>
+		<French>Manuscrit</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_RESOURCE_FOOD_STAPLE</zType>
+		<French>Aliment de base</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_FARMER</zType>
+		<French>Fermier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_WOODCUTTER</zType>
+		<French>Bûcheron</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_STONECUTTER</zType>
+		<French>Tailleur de pierre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_MINER</zType>
+		<French>Mineur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_1</zType>
+		<French>Apprentie Médecin</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_2</zType>
+		<French>Maître médecin</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_3</zType>
+		<French>Ancien médecin</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_1</zType>
+		<French>Apprentie Acolyte</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_2</zType>
+		<French>Maître Acolyte</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_3</zType>
+		<French>Ancien Acolyte</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_MONK_1</zType>
+		<French>Apprentie Moine</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_MONK_2</zType>
+		<French>Maître Moine</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_MONK_3</zType>
+		<French>Ancien Moine</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_PRIEST_1</zType>
+		<French>Apprentie Prêtre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_PRIEST_2</zType>
+		<French>Maître Prêtre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_PRIEST_3</zType>
+		<French>Ancien Prêtre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_BISHOP_1</zType>
+		<French>Apprentie Évêque</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_BISHOP_2</zType>
+		<French>Maître Évêque</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_BISHOP_3</zType>
+		<French>Ancien Évêque</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_POET_1</zType>
+		<French>Apprentie Poète</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_POET_2</zType>
+		<French>Maître Poète</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_POET_3</zType>
+		<French>Ancien Poète</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_1</zType>
+		<French>Apprentie Commerçant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_2</zType>
+		<French>Maître Commerçant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_3</zType>
+		<French>Ancien Commerçant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_1</zType>
+		<French>Apprentie Philosophe</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_2</zType>
+		<French>Maître Philosophe</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_3</zType>
+		<French>Ancien Philosophe</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_1</zType>
+		<French>Apprentie Scribe</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_2</zType>
+		<French>Maître Scribe</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_3</zType>
+		<French>Ancien Scribe</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_OFFICER_1</zType>
+		<French>Apprentie Officier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_OFFICER_2</zType>
+		<French>Maître Officier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_OFFICER_3</zType>
+		<French>Ancien Officier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_RURAL</zType>
+		<French>Spécialiste rural</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_APPRENTICE</zType>
+		<French>Apprentie Spécialiste</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_MASTER</zType>
+		<French>Maître Spécialiste</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SPECIALIST_ELDER</zType>
+		<French>Ancien Spécialiste</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
+		<French>Chef orateur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</zType>
+		<French>Chef de chantier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_COMMANDER_ARCHETYPE_ALL</zType>
+		<French>Commandant chef</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ZEALOT_ARCHETYPE_STATE</zType>
+		<French>Chef Fanatique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ROBUST</zType>
+		<French>Robuste</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_VIGILANT</zType>
+		<French>Vigilant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_STRICT</zType>
+		<French>Strict</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_DRILLMASTER</zType>
+		<French>Instructeur militaire</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_KEEN</zType>
+		<French>Enthousiaste</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_EQUESTRIAN</zType>
+		<French>Équestre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_AFFABLE</zType>
+		<French>Affable</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_WARLIKE</zType>
+		<French>Belliqueux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ELOQUENT</zType>
+		<French>Eloquent</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_INSPIRED</zType>
+		<French>Inspiré</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_INTELLIGENT</zType>
+		<French>Intelligent</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_PROSPEROUS</zType>
+		<French>Prospère</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_FRUGAL</zType>
+		<French>Frugal</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_RIGHTEOUS</zType>
+		<French>Vertueux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CRUEL</zType>
+		<French>Cruel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CARELESS</zType>
+		<French>Négligent</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SLOTHFUL</zType>
+		<French>Paresseux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_UNCOUTH</zType>
+		<French>Grossier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_FOOLISH</zType>
+		<French>Insensé</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_EXTRAVAGANT</zType>
+		<French>Extravagant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CORRUPT</zType>
+		<French>Corrompu</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_DEBAUCHED</zType>
+		<French>Débauché</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ANGLER</zType>
+		<French>Pêcheur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_PLANTER</zType>
+		<French>Jardinière</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_FORESTER</zType>
+		<French>Forestier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_DELVER</zType>
+		<French>Explorateurs </French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SMELTER</zType>
+		<French>Forgeur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_HERDER</zType>
+		<French>Berger</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_MISERABLE</zType>
+		<French>Miserable</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_MOURNING</zType>
+		<French>Deuil</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SOLDIER</zType>
+		<French>Soldat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_UNIT_CARAVAN</zType>
+		<French>Caravane</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ENEMY_OF_THE_STATE</zType>
+		<French>Ennemi d'État</French>
+	</Entry>
+	<!--Source-->
+	<Entry>
+		<zType>TEXT_EFFECTCITY_SEAT_SOURCE</zType>
+		<French>Siège</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_CAPITAL_SOURCE</zType>
+		<French>Capitale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</zType>
+		<French>Religion d'État</French>
+	</Entry>
+</Root>
