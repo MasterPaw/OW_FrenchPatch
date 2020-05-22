@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/effectPlayer.xml-->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_BASE</zType>
+		<French>Base</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_AMBITION</zType>
+		<French>Ambition</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LEGACY</zType>
+		<French>Héritage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_ABLE</zType>
+		<French>Le Compétent</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_JUST</zType>
+		<French>Le Juste</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GOOD</zType>
+		<French>Le Bon</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_STRONG</zType>
+		<French>Le Fort</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_NOBLE</zType>
+		<French>Le Noble</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GLORIOUS</zType>
+		<French>Le Glorieux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_MAGNIFICENT</zType>
+		<French>Le Magnifique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_DIFFICULTY_GREAT</zType>
+		<French>Le Géni</French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_PYRAMIDS</zType>
+    <French>Les pyramides</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_GREAT_ZIGGURAT</zType>
+    <French>La Grande Ziggourat</French>
+  </Entry>
+  <Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_ORACLE</zType>
+		<French>L'Oracle</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_HANGING_GARDENS</zType>
+		<French>Les Jardins Suspendus</French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_NECROPOLIS</zType>
+    <French>La Nécropolis</French>
+  </Entry>
+  <Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_LIGHTHOUSE</zType>
+		<French>Le Grand Phare</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_APADANA</zType>
+		<French>L'Apadana</French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_MAUSOLEUM</zType>
+    <French>Le Mausolée</French>
+  </Entry>
+  <Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_ACROPOLIS</zType>
+		<French>L'Acropole</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_COLOSSUS</zType>
+		<French>Le Colosse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_MUSAEUM</zType>
+		<French>Le Musaeum</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
+		<French>Le Circus Maximus</French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_PANTHEON</zType>
+    <French>Le Pantheon</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_HAGIA_SOPHIA</zType>
+    <French>La Basilique Sainte-Sophie</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTPLAYER_IMPROVEMENT_GRAND_BAZAAR</zType>
+    <French>Le Grand Bazaar</French>
+  </Entry>
+  <Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_SLAVERY</zType>
+		<French>Esclavage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_FREEDOM</zType>
+		<French>Liberté</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CENTRALIZATION</zType>
+		<French>Centralisation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_VASSALAGE</zType>
+		<French>Vassalité</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TYRANNY</zType>
+		<French>Tyrannie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION</zType>
+		<French>Constitution</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION_DECREE</zType>
+		<French>Décret dans la Capitale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_EPICS</zType>
+		<French>L'Epopée</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_EXPLORATION</zType>
+		<French>Exploration</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_COLONIZATION</zType>
+		<French>Colonisation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_SERFDOM</zType>
+		<French>Servage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_MONOTHEISM</zType>
+		<French>Monothéisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_POLYTHEISM</zType>
+		<French>Polythéisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_PROFESSIONAL_ARMY</zType>
+		<French>Armée Professionnelle</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_VOLUNTEERS</zType>
+		<French>Bénévoles</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TOLERANCE</zType>
+		<French>Tolerance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ORTHODOXY</zType>
+		<French>Orthodoxie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_GUILDS</zType>
+		<French>Guildes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ELITES</zType>
+		<French>Elites</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_PHILOSOPHY</zType>
+		<French>Philosophie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ENGINEERING</zType>
+		<French>Ingénierie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ICONOGRAPHY</zType>
+		<French>Iconographie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_CALLIGRAPHY</zType>
+		<French>Calligraphie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ISOLATIONISM</zType>
+		<French>Isolationnisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TRADE_LEAGUE</zType>
+		<French>Ligue Commerciale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY</zType>
+		<French>Convoi</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_ASCETICISM</zType>
+		<French>Ascétisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_HOLY_WAR</zType>
+		<French>La Guerre Sainte</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_DIVINE_RULE</zType>
+		<French>Règle Divine</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_SECULARISM</zType>
+		<French>Laïcité</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_COIN_DEBASEMENT</zType>
+		<French>Dégradation Monétaire</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_LAW_MONETARY_REFORM</zType>
+		<French>Réforme Monétaire</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_ASSYRIA</zType>
+		<French>Assyrie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_BABYLONIA</zType>
+		<French>Babylone</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_CARTHAGE</zType>
+		<French>Carthage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_EGYPT</zType>
+		<French>Egypte</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_GREECE</zType>
+		<French>Grèce</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_GREECE_OLYMPICS</zType>
+		<French>Olympique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_ROME</zType>
+		<French>Rome</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_NATION_PERSIA</zType>
+		<French>Perse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_RELIGION_JUDAISM</zType>
+		<French>Mythologie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_RELIGION_ZOROASTRIANISM</zType>
+		<French>Zoroastrisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_RELIGION_CHRISTIANITY</zType>
+		<French>Christianisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_RELIGION_MANICHAEISM</zType>
+		<French>Manichéisme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TECH_LABOR_FORCE</zType>
+		<French>Routes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_TACTICIAN_ARCHETYPE</zType>
+		<French>Chef Tacticien</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_JUDGE_ARCHETYPE</zType>
+		<French>Chef Juge</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ORATOR_ARCHETYPE</zType>
+		<French>Chef Orateur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE</zType>
+		<French>Chef Universitaire</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHOLAR_ARCHETYPE_INQUIRY</zType>
+		<French>Enquête dans la Capitale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_BUILDER_ARCHETYPE</zType>
+		<French>Chef de Chantier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SCHEMER_ARCHETYPE</zType>
+		<French>Chef Comploteur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_COMMANDER_ARCHETYPE</zType>
+		<French>Commandant en Chef</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ZEALOT_ARCHETYPE</zType>
+		<French>Chef Fanatique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_DIPLOMAT_ARCHETYPE</zType>
+		<French>Chef Diplomate</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_HERO_ARCHETYPE</zType>
+		<French>Chef de Héros</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_MISERABLE</zType>
+		<French>Misérable</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_DRUNK</zType>
+		<French>Ivre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_ROMANTIC</zType>
+		<French>Romantique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_MOURNING</zType>
+		<French>Deuil</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_CUNNING</zType>
+		<French>Ruse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_SOLDIER</zType>
+		<French>Soldat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_TRAIT_DEALMAKER</zType>
+		<French>Négociateur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_Civisme</zType>
+		<French>Civisme Faible</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_Civisme</zType>
+		<French>Civisme Moyen</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_Civisme</zType>
+		<French>Civisme Haut</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_Civisme</zType>
+		<French>Civisme Très Haut</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_Entraînement</zType>
+		<French>Entraînement Faible</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_Entraînement</zType>
+		<French>Entraînement Moyen</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_Entraînement</zType>
+		<French>Entraînement Haut</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_Entraînement</zType>
+		<French>Entraînement Très Haut</French>
+	</Entry>
+</Root>
