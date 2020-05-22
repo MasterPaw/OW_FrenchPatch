@@ -360,7 +360,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_MAUSOLEUM_ALL</zType>
-		<French>Le mausolée</French>
+		<French>Le Mausolée</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ACROPOLIS</zType>
@@ -988,7 +988,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_STONECUTTER</zType>
-		<French>Tailleur de pierre</French>
+		<French>Tailleur de Pierre</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_MINER</zType>
@@ -996,19 +996,19 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_1</zType>
-		<French>Apprentie Médecin</French>
+		<French>Apprenti Docteur</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_2</zType>
-		<French>Maître médecin</French>
+		<French>Maître Docteur</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_DOCTOR_3</zType>
-		<French>Ancien médecin</French>
+		<French>Ancien Docteur</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_1</zType>
-		<French>Apprentie Acolyte</French>
+		<French>Apprenti Acolyte</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_ACOLYTE_2</zType>
@@ -1020,7 +1020,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_MONK_1</zType>
-		<French>Apprentie Moine</French>
+		<French>Apprenti Moine</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_MONK_2</zType>
@@ -1032,7 +1032,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_PRIEST_1</zType>
-		<French>Apprentie Prêtre</French>
+		<French>Apprenti Prêtre</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_PRIEST_2</zType>
@@ -1044,7 +1044,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_BISHOP_1</zType>
-		<French>Apprentie Évêque</French>
+		<French>Apprenti Évêque</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_BISHOP_2</zType>
@@ -1056,7 +1056,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_POET_1</zType>
-		<French>Apprentie Poète</French>
+		<French>Apprenti Poète</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_POET_2</zType>
@@ -1068,7 +1068,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_1</zType>
-		<French>Apprentie Commerçant</French>
+		<French>Apprenti Commerçant</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SHOPKEEPER_2</zType>
@@ -1080,7 +1080,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_1</zType>
-		<French>Apprentie Philosophe</French>
+		<French>Apprenti Philosophe</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_PHILOSOPHER_2</zType>
@@ -1092,7 +1092,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_1</zType>
-		<French>Apprentie Scribe</French>
+		<French>Apprenti Scribe</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_SCRIBE_2</zType>
@@ -1104,7 +1104,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_OFFICER_1</zType>
-		<French>Apprentie Officier</French>
+		<French>Apprenti Officier</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_OFFICER_2</zType>
@@ -1120,7 +1120,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_APPRENTICE</zType>
-		<French>Apprentie Spécialiste</French>
+		<French>Apprenti Spécialiste</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_SPECIALIST_MASTER</zType>

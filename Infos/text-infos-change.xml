@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!-- InfoEventOption -->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<!-- InfoLanguage -->
+	<Entry>
+		<zType>TEXT_LANGUAGE_ENGLISH</zType>
+		<English>English (US)</English>
+		<French>Anglais (US)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_LANGUAGE_DEBUG</zType>
+		<English>Text Debug</English>
+		<French>Debug Text</French>
+	</Entry>
+</Root>
