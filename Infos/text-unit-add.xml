@@ -1,0 +1,287 @@
+<Root>
+	<!--Name-->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SETTLER</zType>
+		<French>Colon~un Colon~Colons</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_WORKER</zType>
+		<French>Ouvrier~un Ouvrier~Ouvriers</French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_UNIT_SCOUT</zType>
+    <French>Éclaireur~un Éclaireur~Éclaireurs</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UNIT_CARAVAN</zType>
+    <French>Caravane~une Caravane~Caravanes</French>
+  </Entry>
+  <Entry>
+		<zType>TEXT_UNIT_RELIGION_DISCIPLE</zType>
+		<French>Disciple {UNIT-RELIGION,1}~Disciple {UNIT-RELIGION,2}~Disciples {UNIT-RELIGION,1}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_MILITIA</zType>
+		<French>Milice~une Milice~Milices</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LEVY</zType>
+		<French>Conscrit~un Conscrit~Conscrits</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_WARRIOR</zType>
+		<French>Guerrier~un Guerrier~Guerriers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_MACEMAN</zType>
+		<French>Soldat avec masse~un Soldat avec masse~Soldats avec masse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SPEARMAN</zType>
+		<French>Lancier~un Lancier~Lanciers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_AXEMAN</zType>
+		<French>Soldat avec hache~un Soldat avec hache~Soldats avec hache</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SWORDSMAN</zType>
+		<French>Épéiste~un Épéiste~Épéistes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_PIKEMAN</zType>
+		<French>Piquier~un Piquier~Piquiers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SLINGER</zType>
+		<French>Frondeur~un Frondeur~Frondeurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_ARCHER</zType>
+		<French>Archer~un Archer~Archers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LONGBOWMAN</zType>
+		<French>Archer Long~un Archer Long~Archers Longs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CROSSBOWMAN</zType>
+		<French>Arbalétrier~un Arbalétrier~Arbalétriers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_POLYBOLOS</zType>
+		<French>Polybolos~un Polybolos~Polyboloi</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CHARIOT</zType>
+		<French>Char~un Char~Chars</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HORSEMAN</zType>
+		<French>Cavalier~un Cavalier~Cavaliers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CATAPHRACT</zType>
+		<French>Cataphracte~un Cataphracte~Cataphractes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HORSE_ARCHER</zType>
+		<French>Archer à Cheval~un Archer à Cheval~Archers à Cheval</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CAMEL_ARCHER</zType>
+		<French>Archer à Chameau~un Archer à Chameau~Archers à Chameau</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_WAR_ELEPHANT</zType>
+		<French>Éléphant de Guerre~un Éléphant de Guerre~Éléphants de Guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_BALLISTA</zType>
+		<French>Balliste~une Balliste~Ballistes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CATAPULT</zType>
+		<French>Catapulte~une Catapulte~Catapultes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_ONAGER</zType>
+		<French>Onagre~une Onagre~Onagres</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_BIREME</zType>
+		<French>Birème~une Birème~Birèmes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_TRIREME</zType>
+		<French>Trirème~un Trirème~Trirèmes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_DROMON</zType>
+		<French>Dromon~un Dromon~Dromons</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_BATTERING_RAM</zType>
+		<French>Bélier~un Bélier~Béliers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SIEGE_TOWER</zType>
+		<French>Tour de Siège~une Tour de Siège~Tours de Siège</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_AKKADIAN_ARCHER</zType>
+		<French>Archer Akkadian~un Archer Akkadian~Archers Akkadian</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CIMMERIAN_ARCHER</zType>
+		<French>Archer Cimmérien~un Archer Cimmérien~Archers Cimmérien</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_AFRICAN_ELEPHANT</zType>
+		<French>Éléphants Africain~un Éléphant Africain~Éléphants Africains</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_TURRETED_ELEPHANT</zType>
+		<French>Éléphant à Tour~un Éléphant à Tour~Éléphants à Tour</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LIGHT_CHARIOT</zType>
+		<French>Char Léger~un Char Léger~Chars Léger</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_KUSHITE_CAVALRY</zType>
+		<French>Cavalerie Koushite~une Cavalerie Koushite~Cavaleries Koushites</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HOPLITE</zType>
+		<French>Hoplite~un Hoplite~Hoplites</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_PHALANGITE</zType>
+		<French>Phalange~un Phalange~Phalanges</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_PALTON_CAVALRY</zType>
+		<French>Cavalerie Palton~une Cavalerie Palton~Cavaleries Palton</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CATAPHRACT_ARCHER</zType>
+		<French>Cataphracte Archer~un Cataphracte Archer~Cataphractes Archers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HASTATUS</zType>
+		<French>Hastatus~un Hastatus~Hastati</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LEGIONARY</zType>
+		<French>Légionnaire~un Légionnaire~Légionnaires</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_RAIDER_1</zType>
+		<French>Pillard~un Pillard~Pillards</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SKIRMISHER_1</zType>
+		<French>Escarmoucheur~un Escarmoucheur~Escarmoucheurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NOMAD_RAIDER_1</zType>
+		<French>Pillard Nomade~un Pillard Nomade~Pillards Nomades</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NOMAD_SKIRMISHER_1</zType>
+		<French>Escarmoucheur Nomade~un Escarmoucheur Nomade~Escarmoucheurs Nomade</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_RAIDER_2</zType>
+		<French>Pillard d'Élite~un Pillard d'Élite~Pillards d'Élite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_SKIRMISHER_2</zType>
+		<French>Escarmoucheur d'Élite~un Escarmoucheur d'Élite~Escarmoucheurs d'Élite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NOMAD_RAIDER_2</zType>
+		<French>Pillard Nomade d'Élite~un Pillard Nomade d'Élite~Pillards Nomades d'Élite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NOMAD_SKIRMISHER_2</zType>
+		<French>Escarmoucheur Nomade d'Élite~un Escarmoucheur Nomade d'Élite~Escarmoucheurs Nomades d'Élite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_WARLORD_1</zType>
+		<French>Seigneur de Guerre~un Seigneur de Guerre~Seigneur de Guerres</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_JAVELINEER_1</zType>
+		<French>Javelinier~un Javelinier~Javeliniers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NOMAD_WARLORD_1</zType>
+		<French>Seigneur de Guerre Nomade~un Seigneur de Guerre Nomade~Seigneurs de Guerre Nomades</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_GAESATA_1</zType>
+		<French>Gaesata~un Gaesata~Gaesatae</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HUSCARL_1</zType>
+		<French>Huscarl~un Huscarl~Huscarls</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CLUBTHROWER_1</zType>
+		<French>Lanceur de Gourdin~un Lanceur de Gourdin~Lanceurs de Gourdin</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_PELTAST_1</zType>
+		<French>Peltast~un Peltast~Peltasts</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_AMAZON_CAVALRY_1</zType>
+		<French>Cavalerie Amazone~unz Cavalerie Amazone~Cavaleries Amazones</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LIBYAN_CAVALRY_1</zType>
+		<French>Cavalerie Libyenne~une Cavalerie Libyenne~Cavaleries Libyennes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_WARLORD_2</zType>
+		<French>Seigneur de Guerre d'Élite~un Seigneur de Guerre d'Élite~Seigneurs de Guerre d'Élite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_JAVELINEER_2</zType>
+		<French>Javelinier d'Élite ~un Javelinier d'Élite~Javeliniers d'Élite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_NOMAD_WARLORD_2</zType>
+		<French>Seigneur de Guerre Nomade d'Élite~un Seigneur de Guerre Nomade d'Élite~Seigneurs de Guerre Nomades d'Élite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_GAESATA_2</zType>
+		<French>Gaesata d'Élite~un Gaesata d'Élite~Gaesatae d'Élite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_HUSCARL_2</zType>
+		<French>Huscarl d'Élite~un Huscarl d'Élite~Huscarls d'Élite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_CLUBTHROWER_2</zType>
+		<French>Lanceur de Gourdin d'Élite~un Lanceur de Gourdin d'Élite~Lanceur de Gourdins d'Élite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_PELTAST_2</zType>
+		<French>Peltast d'Élite~un Peltast d'Élite~Peltasts d'Élite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_AMAZON_CAVALRY_2</zType>
+		<French>Cavalerie Amazone d'Élite~une Cavalerie Amazone d'Élite~Cavaleries Amazone d'Élite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNIT_LIBYAN_CAVALRY_2</zType>
+		<French>Cavalerie Libyenne d'Élite~une Cavalerie Libyenne d'Élite~Cavaleries Libyenne d'Élite</French>
+	</Entry>
+</Root>
