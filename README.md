@@ -15,7 +15,13 @@ Start the game and go into Options -> UI -> Languages -> French (France) and sav
 
 Ready to play in French !
 
-If you want to load an existing game you probably still need to launch a new game with mod and then load your save so that the mod is enabled.
+If you want to load an existing game you need to:
+Setup a new game
+Go in Advanced Setup
+Enable the mod
+Go back into Main menu
+Load a game and choose your save
+Launch it and set the language in options
 
 # Be aware
 
