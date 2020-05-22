@@ -1,0 +1,200 @@
+<Root>
+	<!-- Title -->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_KING</zType>
+		<French><![CDATA[<masculine_0>Roi<feminine>Reine<end> {0_name}]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_KING_CONSORT</zType>
+		<French><![CDATA[<masculine_0>Roi Consort<feminine>Reine Consort<end> {0_name}]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_TITLE_KING_DOWAGER</zType>
+		<French><![CDATA[<masculine_0>Roi douairière<feminine>Reine douairière<end> {0_name}]]></French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_PRINCE</zType>
+    <French><![CDATA[<masculine_0>Prince<feminine>Princesse<end> {0_name}]]></French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_PRINCE_CONSORT</zType>
+    <French><![CDATA[<masculine_0>Prince Consort<feminine>Princesse Consort<end> {0_name}]]></French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_DUKE</zType>
+    <French><![CDATA[<masculine_0>Duc<feminine>Duchesse<end> {0_name}]]></French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_DUKE_CONSORT</zType>
+    <French><![CDATA[<masculine_0>Duc Consort<feminine>Duchesse Consort<end> {0_name}]]></French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_COUNCIL</zType>
+    <French>{0_title} {1_name}</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_GENERAL</zType>
+    <French>Gen. {0_name}</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_TITLE_GOVERNOR</zType>
+    <French>Gov. {0_name}</French>
+  </Entry>
+  <!-- Relation -->
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_YOU</zType>
+		<French>Vous!</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_SPOUSE</zType>
+		<French><![CDATA[Votre <masculine_0>Mari<feminine>Femme<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_CHILD</zType>
+		<French><![CDATA[Votre <masculine_0>Fils<feminine>Fille<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_GRANDCHILD</zType>
+		<French><![CDATA[Votre <masculine_0>Petit fils<feminine>Petite fille<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_DESCENDANT</zType>
+		<French>Votre descendant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_PARENT</zType>
+		<French><![CDATA[Votre <masculine_0>Père<feminine>Mère<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_GRANDPARENT</zType>
+		<French><![CDATA[Votre <masculine_0>Grand-père<feminine>Grand-mère<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_ANCESTOR</zType>
+		<French>Vos ancestre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_SIBLING</zType>
+		<French><![CDATA[Votre <masculine_0>Frère<feminine>Soeur<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_SIBLING_IN_LAW</zType>
+		<French><![CDATA[Votre <masculine_0>Beau-frère<feminine>Belle-soeur<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_HALF_SIBLING</zType>
+		<French><![CDATA[Votre <masculine_0>Demi-frère<feminine>Demi-soeur<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_COUSIN</zType>
+		<French>Votre Cousin</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_AUNT_UNCLE</zType>
+		<French><![CDATA[Votre <masculine_0>Oncle<feminine>Tante<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_NIECE_NEPHEW</zType>
+		<French><![CDATA[Votre <masculine_0>Neuveu<feminine>Nièce<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_CHILD_IN_LAW</zType>
+		<French><![CDATA[Votre <masculine_0>Beau fils<feminine>Belle-fille<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_PARENT_IN_LAW</zType>
+		<French><![CDATA[Votre <masculine_0>Beau-père<feminine>Belle-mère<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_STEPCHILD</zType>
+		<French><![CDATA[Votre <masculine_0>Beau-fils<feminine>Belle-fille<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_RELATION_STEPPARENT</zType>
+		<French><![CDATA[Votre <masculine_0>Beau-père<feminine>Belle-mère<end>]]></French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_RELATION_RELATIVE</zType>
+    <French>Votre famille</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CHARACTER_RELATION_IN_LAW</zType>
+    <French>Votre belle-famille</French>
+  </Entry>
+  <!-- Heir -->
+	<Entry>
+		<zType>TEXT_CHARACTER_HEIR_ORDER_1</zType>
+		<French>Héritier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_HEIR_ORDER_2</zType>
+		<French>Deuxième héritier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_HEIR_ORDER_3</zType>
+		<French>Troisième héritier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_HEIR_ORDER_4</zType>
+		<French>Quatrième héritier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_HEIR_ORDER_X</zType>
+		<French>Successeur éloigné</French>
+	</Entry>
+	<!-- Misc -->
+	<Entry>
+		<zType>TEXT_CHARACTER_DEAD</zType>
+		<French><![CDATA[<icon>skull</icon> {0_name}]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_HAS_COGNOMEN</zType>
+		<French>{0_name} {1_cognomen}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_GOVERNOR_OF</zType>
+		<French>Governeur de {0_city}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_GENERAL_OF</zType>
+		<French>Général de {0_unit}</French>
+	</Entry>
+	<!-- Name -->
+	<Entry>
+		<zType>TEXT_CHARACTER_FULL_NAME_EXTRA</zType>
+		<French> ({0_data})</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_NAME_WITH_CREST</zType>
+		<French>{0_name} {1_crest}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_FIRST_AND_LAST_NAME</zType>
+		<French>{0_firstname} {1_lastname}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_NAME_WITH_SUFFIX</zType>
+		<French>{0_name} {1_suffix}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_OF_NATION</zType>
+		<French>{0_name} de {1_nation}</French>
+	</Entry>
+	<!--Game Text-->
+	<Entry>
+		<zType>TEXT_CHARACTER_NEW_RULER</zType>
+		<French><![CDATA[Notre ancien souverain est mort. Commence maintenant le règne de {0_newLeader}. Longue vie au <masculine_0>Roi<feminine>Reine<end>!]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_HAS_DIED</zType>
+		<French>{0_character} est mort!</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_CHARACTER_LEADER_NEW_COGNOMEN</zType>
+		<French><![CDATA[<comment variable 0 est leader aux fins du genre>Vous êtes maintenant connu sous le nom de {1_cognomen}!]]></French>
+	</Entry>
+</Root>
