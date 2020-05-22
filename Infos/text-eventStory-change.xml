@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<French/>
+		<French/>
+	</Entry>
+	<Entry beginGroup="Tutorial">
+		<zType>TEXT_EVENTSTORY_VICTORY_POINTS</zType>
+		<French>(Victoire par Points)
+
+Votre court s'incline de respect devant vous et vous êtes accueilli par les cris de joie de votre peuple. Vous surpassez n'importe qu'elle personne d'/de {PLAYER-0}, une véritable légende de votre époque, une personnalité dont le nom restera inscrit dans les annales de l'Histoire.
+
+Félicitations.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_WARRIOR_SELECTED</zType>
+		<French>Le link(UNIT_WARRIOR) est la première Unitée de link(UNITTRAIT_MELEE) disponible pour votre Nation. Les Unitées de link(UNITTRAIT_MELEE) formeront le coeur de votre armée, vous protégeant des Tribus et des Nations ennemies.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VICTORY_AMBITION</zType>
+		<French>(Victoire par Ambitions)
+
+Votre court s'incline de respect devant vous et vous êtes accueilli par les cris de joie de votre peuple. Vous surpassez n'importe qu'elle personne d'/de {PLAYER-0}, une véritable légende de votre époque, une personnalité dont le nom restera inscrit dans les annales de l'Histoire.
+
+Félicitations.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VICTORY_TIME</zType>
+		<French>(Victoire par Temps)
+
+Votre court s'incline de respect devant vous et vous êtes accueilli par les cris de joie de votre peuple. Vous surpassez n'importe qu'elle personne d'/de {PLAYER-0}, une véritable légende de votre époque, une personnalité dont le nom restera inscrit dans les annales de l'Histoire.
+
+Félicitations.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VICTORY_CONQUEST</zType>
+		<French>(Victoire par Conquête)
+
+Votre court s'incline de respect devant vous et vous êtes accueilli par les cris de joie de votre peuple. Vous surpassez n'importe qu'elle personne d'/de {PLAYER-0}, une véritable légende de votre époque, une personnalité dont le nom restera inscrit dans les annales de l'Histoire.
+
+Félicitations.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GAME_LOSS</zType>
+		<French>Votre court se regroupe une dernière fois... afin de discuter de la tragédie de notre défaite. Nous avons fait de notre mieux pour servir et protéger le peuple d'/de {PLAYER-0}, mais certaines nations ne sont pas faites pour écrire l'Histoire.
+
+Peut-être la prochaine fois...</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_INTRO</zType>
+		<French>En tant que dirigeant d'une jeune nation, vous devez mener votre peuple à la prospérité.
+
+Sélectionnez votre link(UNIT_SETTLER) et établissez la Capitale de votre nation. Vous devrez alors choisir quelle Famille dirigera votre Capitale, bénéficiant alors des bonus spécifiques de cette Famille.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCOUT_SELECTED</zType>
+		<French>Les link(UNIT_SCOUT,2) sont d'incroyables explorateurs et peuvent voir plus loin dans l'inconnu. Ils peuvent également se cacher dans les link(VEGETATION_TREES), faisant d'eux des unités indispensables pour détecter en premier les invasions ennemies.
+
+Envoyez votre link(UNIT_SCOUT) explorer et chercher de nouveaux Sites de Ville et explorer les mystérieuses link(IMPROVEMENT_ANCIENT_RUINS,2).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_ORDERS</zType>
+		<French>Les link(YIELD_ORDERS) sont une mécanique importante de Old World. Les Unités peuvent se déplacer plusieurs fois par tour mais chaque déplacement consomme un Ordericon(YIELD_ORDERS). D'autres actions, telles que attaquer ou construire, consomme également des link(YIELD_ORDERS).
+
+Vos link(YIELD_ORDERS) restants sont affichés dans le coin inférieur gauche de votre écran. Nous recommandons que vous sélectionniez tout d'abord votre link(UNIT_WORKER), comme ça vous pouvez commencer à améliorer vos terres avant d'avoir dépensé tous vos link(YIELD_ORDERS) pour le tour.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SECOND_CITY</zType>
+		<French>Votre Capitale vient de finir d'entraîner un nouveau Colon ! Les link(UNIT_SETTLER,2) sont la clé pour étendre votre empire en fondant de nouvelles Villes. Emmenez ce link(UNIT_SETTLER) à un Site de Ville proche pour y établir une nouvelle Ville.
+
+Quand vous fonderez votre Ville vous devrez choisir à quelle Famille vous souhaitez l'attribuer. Cette Famille offrira de puissant bonus à la Ville, alors réfléchissez-y bien avant d'effectuer votre sélection.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_WORKER_SELECTED</zType>
+		<French>Les link(UNIT_WORKER,2) construisent des Aménagements pour votre Ville. Les Aménagements Ruraux, telles que des link(IMPROVEMENT_FARM,2) et des link(IMPROVEMENT_MINE,2), collectent des matériaux bruts. Les Aménagements link(CONCEPT_URBAN), tels que des link(IMPROVEMENT_BARRACKS,2) ou des link(IMPROVEMENTCLASS_SHRINE,2), produisent du link(YIELD_TRAINING) ou de la link(YIELD_CULTURE).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_SLINGER_SELECTED</zType>
+		<French>Le link(UNIT_SLINGER) est une Unité de link(UNITTRAIT_RANGED) et peut attaquer des Unités qui sont à deux cases ou plus de distance, ce qui leur permet de moins consommer d' link(YIELD_ORDERS) au combat et ainsi d'être plus efficaces. Ils peuvent même tirer plus loins depuis le haut d'une link(HEIGHT_HILL,2) mais ils infligeront moins de dégâts sur de plus grandes distances ou lorsqu'ils tirent dans des link(VEGETATION_TREES) ou un link(VEGETATION_SCRUB).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_BARBARIAN_CAMP_CLEARED</zType>
+		<French>Vous avez repoussé la Tribu locale loin de ce Site de Ville ! Vous pouvez maintenant revendiquer ce Site en y plaçant une Unité de combat dessus. Cela empêchera le retour de la Tribu et empêchera également les autres Nations d'y fonder une Ville.
+
+Les locaux ont laissé derrière eux une grosse réserve de link(YIELD_FOOD). Utilisez la pour produire un nouveau Colon afin de revendiquer cet endroit !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_CITY_CAPTURED</zType>
+		<French>Vous avez pris une {CITY-1} des mains de votre ennemi ! Bien qu'ils ne contrôlent plus cette Ville, cela va prendre du temps pour le peuple de vous accepter en tant que nouveau dirigeant. Gardez une unité stationnée dans la Ville pour quelques années et les gens réaliseront bientôt que vous êtes le nouveau dirigeant de cette Ville.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_CULTURE</zType>
+		<French>{CITY-0} a atteint le rang link(CULTURE_DEVELOPING), un nouveau niveau de link(YIELD_CULTURE) ! Des niveaux de link(YIELD_CULTURE) plus élevés débloquent des Aménagements supplémentaires and de nouvelles Merveilles pour vos Villes. Chaque nouveau niveau atteint déclenchera également un évênement positif pour la Ville.
+
+Aujourd'hui, un groupe de travailleurs a décidé de rejoindre votre main-d'oeuvre, vous offrent un nouveau link(UNIT_WORKER).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_TRIBE_CONTACT</zType>
+		<French>Vous venez de rencontrer votre première tribu, les link(BARBARIAN-1,0) ! Il est possible de discuter diplomatiquement de manière limitée avec les Tribus, mais elle ne seront généralement pas aussi organisées que peuvent l'être les nations adverses. Trouver une tribu faible et revendiquer leurs Sites de Ville en votre nom sera une étape importante de l'expansion de votre Nation.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_HARVEST_RESOURCE</zType>
+		<French>Votre {UNIT-0} vient de se déplacer sur une case de {RESOURCE-2}, une ressource récoltable ! Votre {UNIT-0} peut dépenser un Ordericon(YIELD_ORDERS) pour collecter une petite quandtité de matériaux.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_ON_COOLDOWN</zType>
+		<French>Votre {UNIT-0} est en Temps de Récupération et ne peut plus effectuer d'action pour ce tour.  (Les Temps de Récupération peuvent provenir d'un combat, d'une construction ou d'autres actions.) Votre {UNIT-0} sera de nouveau disponible au prochain tour.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_FATIGUED</zType>
+		<French>Ce {UNIT-0} a utilisé tous ses déplacements et est maintenant Fatigué. Il est possible d'imposer une Marche Forcée à une unité Fatiguée mais les déplacements coûtent alors deux fois plus de link(YIELD_ORDERS). Votre {UNIT-0} récupèrera ses déplacements au prochain tour.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_OUT_OF_ORDERS</zType>
+		<French>Vous n'avez plus d' link(YIELD_ORDERS) ! Votre {UNIT-0} ne peut pas agir si vous n'avez pas d' Ordericon(YIELD_ORDERS) pour le lui ordonner. Vous aurez plus d' link(YIELD_ORDERS) au début de votre prochain tour.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_RELIGION</zType>
+		<French>{RELIGION-1} s'est propagée dans une de vos Villes ! Les Religions offrent de la link(YIELD_CULTURE) aux Villes dans lesquelles elles sont présentes.Vous pouvez choisir d'adopter une Religion d'Etat pour votre nation, ce qui vous permet de guider l'impact de cette religion sur vos Villes.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_CHARIOT_SELECTED</zType>
+		<French>Votre nation vient d'entraîner sa première unité link(UNITTRAIT_MOUNTED) de mélée ! Ces unités se déplacent rapidement et ont la capacité unique de link(EFFECTUNIT_ROUT) vos ennemis, vous offrant une attaque supplémentaire si la première a détruit une Unité.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_NATION_CONTACT</zType>
+		<French>Vous venez de rencontrer une Nation rivale ! Les autres Nations sont vos principaux adversaires dans Old World. Cependant, établir avec succès de bonnes relations diplomatiques peuvent mener à des échanges commerciaux prospères et à une alliance. Ca sera à vous de décider quelles Nations sont dignent d'être vos alliés et lesquelles devraient juste être conquises.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_BARBARIANS</zType>
+		<French>Vos Villes ont entraîné un nouveau link(UNIT_SETTLER), donc vous aurez peut-être à éliminer quelques Barbares afin d'accéder à de nouveaux Sites de Villes. Les Barbares ne se comportent pas comme les Tribus classiques puisque vous êtes toujours en link(DIPLOMACY_WAR) avec eux. Ce sont de bonnes cibles pour vous développer en début de partie puisqu'ils sont plus facile à éliminer que les autres Tribus, mieux organisées.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_AMBITION</zType>
+		<French>Vous avez débloqué la possibilité de choisir une Ambition. Les Ambitions sont des objectifs que vos Familles souhaiteraient que vous réalisiez et les atteindre vous offre, à vous et à tous vos descendants, un bonus permanent à vos Ordres.
+
+Compléter une Ambition en débloqué une nouvelle immédiatement et en compléter dix vous fera gagner la partie, alors faites toujours de votre mieux pour satisfaire votre Ambition actuelle. Voici deux Ambitions simples pour commencer.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_SUCCESSION</zType>
+		<French>Votre famille a un(e) nouvel(le) héritier(e), {CHARACTER-0} ! Entraîner de puissants Héritier(e)s sera vitale pour la survie de votre Nation, puisqu'une fois que votre dirigeant actuel ne sera plus là il faudra que quelqu'un d'autre en prenne les rênes.
+
+Une fois que votre Héritier(e) aura grandit un peu vous pourrez choisir quelle type d'éducation vous souhaiter lui donner mais aussi le/la guider pour faire d'eux le dirigeant que vous souhaitez qu'il/elle devienne. Votre famille peut cependant faire plus que diriger, les employer en tant que Gouverneurs et Conseillers peuvent être de puissantes options pour bâtir votre Court.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_LEGITIMACY</zType>
+		<French>Votre Cognomen a changé pour link(COGNOMEN_EXPLORER) ! Votre Cognomen décrit vos réussites récentes et l'améliorer augmente votre Legitimacyicon(YIELD_LEGITIMACY) au yeux de votre peuple.
+
+Une Legitimacyicon(YIELD_LEGITIMACY) élevée vous offre des link(YIELD_ORDERS) supplémentaires et améliore vos relations avec les Familles de votre Nation. Conserver votre Legitimacyicon(YIELD_LEGITIMACY) à un niveau élevé est important pour contrôler un empire plus grand !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_MARRIAGE</zType>
+		<French>Vous avez accepté une offre de mariage pour un membre de votre famille ! Les mariages sont des outils diplomatiques important pour former des liens avec les autres Familles, Tribus et Nations. Ils permettent aussi à votre famille de continuer leur lignée d'héritiers légitimes, qui seront éligibles à la succession au trône lorsque votre Dirigeant ne sera plus là.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_PROMOTION</zType>
+		<French>Notre unité {UNIT-0} s'est entraînée durement et elle est prête à recevoir ses premiers ordres. Prendrez-vous le rôle de Général et les mènerez-vous au combat ?</French>
+	</Entry>
+</Root>

@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<French/>
+		<French/>
+	</Entry>
+	<Entry beginGroup="Tutorial">
+		<zType>TEXT_EVENTOPTION_VICTORY_OK</zType>
+		<French>Montrez-moi comment j'y suis arrivé. (Ouvrir le Registre de la Partie)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_VICTORY_CONTINUE</zType>
+		<French>Je n'en ai pas fini avec mon histoire. (Continuer de jouer)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_VICTORY_MAIN_MENU</zType>
+		<French>Mon travail ici est terminé. (Quitter vers le Menu Principal)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_WARRIOR_SELECTED_OKAY</zType>
+		<French>J'utiliserai les Guerriers pour les tous premiers confits !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_LOSS_OK</zType>
+		<French>Montrez-moi comment cela a pu arriver. (Ouvrir le Registre de Partie)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_LOSS_MAIN_MENU</zType>
+		<French>Je ne peux pas m'attarder sur ma défaite. (Quitter vers le Menu Principal)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_INTRO_OKAY</zType>
+		<French>Je choissirai ma Famille avec attention !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_SCOUT_SELECTED_OK</zType>
+		<French>J'utiliserai mes Eclaireurs pour explorer le monde !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_ORDERS_OPTION_0</zType>
+		<French>Je devrait faire attention à la manière dont j'utilise mes Ordres chaque tour.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_SECOND_CITY_OK</zType>
+		<French>Je choisirai la prochaine Famille de ma Nation avec attention !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_WORKER_SELECTED_OPTION_0</zType>
+		<French>Allez ! Au boulot !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_SLINGER_SELECTED_OKAY</zType>
+		<French>Allons jeter quelques pierres !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_BARBARIAN_CAMP_CLEARED_OKAY</zType>
+		<French>J'utiliserai cette nourriture à bon escient !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_CITY_CAPTURED_OKAY</zType>
+		<French>Je vais laissez des Unités dans les Villes capturées pour pouvoir en prendre le contrôle !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_CULTURE_OKAY</zType>
+		<French>Je vais les mettre au travail immédiatement !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_TRIBE_CONTACT_OKAY</zType>
+		<French>Ce Guerrier me sera sûrement utile contre le {BARBARIAN-1,0}!</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_HARVEST_RESOURECE_OKAY</zType>
+		<French>Récolter des ressources est un bon moyen de donner un coup de pouce à mon économie naissante.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_UNIT_ON_COOLDOWN_OKAY</zType>
+		<French>Je réessaierai l'année prochaine !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_UNIT_FATIGUED_OKAY</zType>
+		<French>J'imposerai une Marche Forcée à une Unité si j'ai besoin de la déplacer maintenant !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_OUT_OF_ORDERS_OKAY</zType>
+		<French>Je pourrai Ordonner plus de personne l'an prochain !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_RELIGION_OKAY</zType>
+		<French>Une Religion peut me donner de puissants bonus si j'investi dedans !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_CHARIOT_SELECTED_OKAY</zType>
+		<French>Il faut donc éliminer les unités ennemies avec mes Unités Montées !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_NATION_CONTACT_OKAY</zType>
+		<French>Je ferai de mon mieux pour me faire des amis !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_BARBARIANS_OKAY</zType>
+		<French>J'éliminerai ces Barbares et je fonderai ma nouvelle Ville !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_AMBITION_CITIES</zType>
+		<French>Contrôler Quatre Villes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_AMBITION_UNITS</zType>
+		<French>Tuer Cinq Unités Ennemies</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_SUCCESSION_OKAY</zType>
+		<French>C'est un jour de fête !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_LEGITIMACY_OKAY</zType>
+		<French>Je vais leur montrer qui est Légitime !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_MARRIAGE_OKAY</zType>
+		<French>Je m'assurerai de trouver un bon parti pour ma famille !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_PROMOTION_YES</zType>
+		<French>Oui, ma place est sur le champ de bataille.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_PROMOTION_NO</zType>
+		<French>Non, on a besoin de moi dans la capitale.</French>
+	</Entry>
+</Root>

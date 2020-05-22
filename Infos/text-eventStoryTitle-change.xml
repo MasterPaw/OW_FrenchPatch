@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<French/>
+		<French/>
+	</Entry>
+	<Entry beginGroup="Tutorial">
+		<zType>TEXT_EVENTSTORY_VICTORY_POINTS_TITLE</zType>
+		<French>VICTOIRE !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_WARRIOR_SELECTED_TITLE</zType>
+		<French>Tutoriel Guerrier Sélectionné</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VICTORY_AMBITION_TITLE</zType>
+		<French>VICTOIRE !	</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VICTORY_TIME_TITLE</zType>
+		<French>VICTOIRE !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VICTORY_CONQUEST_TITLE</zType>
+		<French>VICTOIRE !</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GAME_LOSS_TITLE</zType>
+		<French>DEFAITE</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_INTRO_TITLE</zType>
+		<French>Bienvenue sur Old World</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCOUT_SELECTED_TITLE</zType>
+		<French>Eclaireur sélectionné</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_ORDERS_TITLE</zType>
+		<French>Ordres</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SECOND_CITY_TITLE</zType>
+		<French>Votre Deuxième Ville</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_WORKER_SELECTED_TITLE</zType>
+		<French>L'Ouvrier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_SLINGER_SELECTED_TITLE</zType>
+		<French>Le Frondeur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_BARBARIAN_CAMP_CLEARED_TITLE</zType>
+		<French>Tutoriel Camp de Barbares Détruit</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_CITY_CAPTURED_TITLE</zType>
+		<French>Tutoriel Ville Capturée</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_CULTURE_TITLE</zType>
+		<French>Tutoriel Culture</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_TRIBE_CONTACT_TITLE</zType>
+		<French>Tutoriel Contact avec une Tribu</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_HARVEST_RESOURCE_TITLE</zType>
+		<French>Tutoriel Récolter une Ressource</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_ON_COOLDOWN_TITLE</zType>
+		<French>Tutoriel Unité en Temps de Récupération</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_FATIGUED_TITLE</zType>
+		<French>Tutoriel Unité Fatiguée</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_OUT_OF_ORDERS_TITLE</zType>
+		<French>Tutoriel Plus d'Ordres</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_RELIGION_TITLE</zType>
+		<French>Tutoriel Religion</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_CHARIOT_SELECTED_TITLE</zType>
+		<French>Tutoriel Chariot</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_NATION_CONTACT_TITLE</zType>
+		<French>Tutoriel Contact avec une Nation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_BARBARIANS_TITLE</zType>
+		<French>Tutoriel Barbares</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_AMBITION_TITLE</zType>
+		<French>Tutoriel Ambition</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_SUCCESSION_TITLE</zType>
+		<French>Tutoriel Succession</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_LEGITIMACY_TITLE</zType>
+		<French>Tutoriel Légitimité</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_MARRIAGE_TITLE</zType>
+		<French>Tutoriel Mariage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_PROMOTION_TITLE</zType>
+		<French>Entre sur le Terrain</French>
+	</Entry>
+</Root>
