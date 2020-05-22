@@ -225,7 +225,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_ACOLYTE_3</zType>
-		<French>Acolyte Ainé~un Acolyte Ainé~Acolytes Ainés</French>
+		<French>Ancien Acolyte~un Ancien Acolyte~Anciens Acolytes</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_DOCTOR_1</zType>
@@ -237,7 +237,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_DOCTOR_3</zType>
-		<French>Docteur Ainé~un Docteur Ainé~Docteurs Ainés</French>
+		<French>Ancien Docteur~un Ancien Docteur~Anciens Docteurs</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_MONK_1</zType>
@@ -249,7 +249,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_MONK_3</zType>
-		<French>Moine Ainé~un Moine Ainé~Moines Ainés</French>
+		<French>Ancien Moine~un Ancien Moine~Moines Anciens</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PRIEST_1</zType>
@@ -261,7 +261,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PRIEST_3</zType>
-		<French>Prêtre Ainé~un Prêtre Ainé~Prêtres Ainés</French>
+		<French>Ancien Prêtre~un Ancien Prêtre~Anciens Prêtres</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_BISHOP_1</zType>
@@ -273,7 +273,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_BISHOP_3</zType>
-		<French>Evêque Ainé~un Evêque Ainé~Evêques Ainés</French>
+		<French>Ancien Evêque~un Ancien Evêque~Anciens Evêques</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_POET_1</zType>
@@ -285,7 +285,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_POET_3</zType>
-		<French>Poète Ainé~un Poète Ainé~Poètes Ainés</French>
+		<French>Ancien Poète~un Ancien Poète~Anciens Poètes</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SHOPKEEPER_1</zType>
@@ -297,7 +297,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SHOPKEEPER_3</zType>
-		<French>Commerçant Ainé~un Commerçant Ainé~Commerçants Ainés</French>
+		<French>Ancien Commerçant~un Ancien Commerçant~Anciens Commerçants</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PHILOSOPHER_1</zType>
@@ -309,7 +309,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_PHILOSOPHER_3</zType>
-		<French>Philosophe Ainé~un Philosophe Ainé~Philosophes Ainés</French>
+		<French>Ancien Philosophe~un Ancien Philosophe~Ancien Philosophes</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SCRIBE_1</zType>
@@ -321,11 +321,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_SCRIBE_3</zType>
-		<French>Scribe Ainé~un Scribe Ainé~Scribes Ainés</French>
+		<French>Ancien Scribe~un Ancien Scribe~Anciens Scribes</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_OFFICER_1</zType>
-		<English>Apprentice Officer~an Apprentice Officer~Apprentice Officers</English>
+		<French>Apprenti Officier~un Apprenti Officier~Apprenti Officiers</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_OFFICER_2</zType>
@@ -333,7 +333,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_SPECIALIST_OFFICER_3</zType>
-		<French>Officier Ainé~un Officier Ainé~Officiers Ainés</French>
+		<French>Ancien Officier~un Ancien Officier~Anciens Officiers</French>
 	</Entry>
 	<!--InfoOpinionBarbarian-->
 	<!--Assets/GameAssets/Resources/Infos/opinionBarbarian.xml-->
