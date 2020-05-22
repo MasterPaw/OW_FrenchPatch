@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<!--Name-->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COMBAT1</zType>
+		<French>Combat I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COMBAT2</zType>
+		<French>Combat II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COMBAT3</zType>
+		<French>Combat III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_Garde1</zType>
+		<French>Garde I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_Garde2</zType>
+		<French>Garde II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_Garde3</zType>
+		<French>Garde III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_Concentrer1</zType>
+		<French>Concentrer I</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_Concentrer2</zType>
+		<French>Concentrer II</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_Concentrer3</zType>
+		<French>Concentrer III</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HERO</zType>
+		<French>Hero</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TRACKER</zType>
+		<French>Traqueur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SWIFT</zType>
+		<French>Agile</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HARDY</zType>
+		<French>Robuste</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_EAGLE_EYE</zType>
+		<French>œil de Lynx</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_MARKSMAN</zType>
+		<French>Bon Tireur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ENGINEER</zType>
+		<French>Ingénieur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_BESIEGER</zType>
+		<French>Assiégeant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_GARRISON</zType>
+		<French>Garnison</French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_BLOODTHIRSTY</zType>
+    <French>Sanguinaire</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_STEADFAST</zType>
+    <French>Ferme</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HERBALIST</zType>
+    <French>Herboriste</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_HEALER</zType>
+    <French>Guérisseur</French>
+  </Entry>
+  <Entry>
+		<zType>TEXT_EFFECTUNIT_NOMAD</zType>
+		<French>Nomade</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_COLD</zType>
+		<French>Impitoyable</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HIGHLANDER</zType>
+		<French>Montagnard</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_RANGER</zType>
+		<French>Ranger</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_BRAVE</zType>
+		<French>Brave</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SHIELDBEARER</zType>
+		<French>Bouclier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FIERCE</zType>
+		<French>Féroce</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_HORSEBANE</zType>
+		<French>Fléau à Cheval</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_AGGRESSOR</zType>
+		<French>Agresseur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ROUT</zType>
+		<French>Déroute</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_STEALTH</zType>
+		<French>Furtif</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_ASSAULT</zType>
+		<French>Assaut</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_FORMATION</zType>
+		<French>Formation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_VALOR</zType>
+		<French>Valeur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_INGENUITY</zType>
+		<French>Ingéniosité</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SADDLEBORN</zType>
+		<French>Saddleborn</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SNIPING</zType>
+		<French>Tireur D'Elite</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_TIMIDITY</zType>
+		<French>Timidité</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FURIOUS</zType>
+		<French>Furieux (Family)</French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_OPINIONFAMILY_ANGRY</zType>
+    <French>En Colère (Family)</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_OPINIONFAMILY_UPSET</zType>
+    <French>Dérangé (Family)</French>
+  </Entry>
+  <Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_PLEASED</zType>
+		<French>Heureux (Family)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_OPINIONFAMILY_FRIENDLY</zType>
+		<French>Amical (Family)</French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TRAIT_HERO_ARCHETYPE_LEADER</zType>
+    <French>Hero (Leader)</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EFFECTUNIT_TRAIT_TACTICIAN_ARCHETYPE</zType>
+    <French>Tacticien</French>
+  </Entry>
+  <Entry>
+		<zType>TEXT_EFFECTUNIT_TRAIT_CRIPPLED</zType>
+		<French>Estropié</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTUNIT_SWORD_OF_THE_GODS</zType>
+		<French>Épée Des Dieux</French>
+	</Entry>
+</Root>
