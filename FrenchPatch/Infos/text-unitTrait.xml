@@ -1,0 +1,42 @@
+>
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_MELEE</zType>
+		<French>Mêlée</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_RANGED</zType>
+		<French>À distance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_INFANTRY</zType>
+		<French>Infanterie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_MOUNTED</zType>
+		<French>Monté</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_HORSE</zType>
+		<French>Cheval</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_CAMEL</zType>
+		<French>Chameau</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_ELEPHANT</zType>
+		<French>Elephant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_SIEGE</zType>
+		<French>Siege</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_UNITTRAIT_SHIP</zType>
+		<French>Navire</French>
+	</Entry>
+</Root>
