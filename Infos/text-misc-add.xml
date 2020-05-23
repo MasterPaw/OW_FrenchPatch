@@ -20,7 +20,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_BARBARIAN_SITE</zType>
-		<French>Site{0,2_BarbarianAdjective}</French>
+		<French>Site {0,2_BarbarianAdjective}</French>
 	</Entry>
 	<!-- Nation -->
 	<Entry>
@@ -132,7 +132,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_LOCATION_OF_TRIBAL_LANDS</zType>
-		<French>Emplacement des terres tribalesFrench>
+		<French>Emplacement des terres tribales</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_MAP_OPTION_TYPE_OF_EXTREME_TERRAIN</zType>
