@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in French-->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_FORT</zType>
+		<French>Fort~un Fort~Forts</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_FARM</zType>
+		<French>Ferme~une Ferme~Fermes</French>
+	</Entry> 
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_MINE</zType>
+		<French>Mine~une Mine~Mines</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_LUMBERMILL</zType>
+		<French>Scierie~une Scierie~Scieries</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_QUARRY</zType>
+		<French>Carrière~une Carrière~Carrières</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_PASTURE</zType>
+		<French>Pâturage~un Pâturage~Pâturages</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_CAMP</zType>
+		<French>Campement~un Campement~Campements</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_GROVE</zType>
+		<French>Plantation ~une Plantation ~Plantations </French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_NETS</zType>
+		<French>Filets</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_HARBOR</zType>
+		<French>Port~un Port~Ports</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_GRANARY</zType>
+		<French>Grenier~un Grenier~Greniers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_MILL</zType>
+		<French>Moulin~un Moulin~Moulins</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_HAMLET</zType>
+		<French>Hameau~un Hameau~Hameaux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_AQUEDUCT</zType>
+		<French>Aqueduc~un Aqueduc~Aqueducs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_BARRACKS</zType>
+		<French>Caserne~une Caserne~Casernes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_RANGE</zType>
+		<French>Champ de tir~un Champ de tir~Champs de tir</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_THEATER</zType>
+		<French>Théâtre~un Théâtre~Théâtres</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_BATHS</zType>
+		<French>Bain~un Bain~Bains</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_MARKET</zType>
+		<French>Marché~un Marché~Marchés</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_LIBRARY</zType>
+		<French>Bibliothèque~une Bibliothèque~Bibliothèques</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_COURTHOUSE</zType>
+		<French>Tribunal~un Tribunal~Tribunals</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_GARRISON</zType>
+		<French>Garnison~une Garnison~Garnisons</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_SHRINE</zType>
+		<French>Sanctuaire~un Sanctuaire~Sanctuaires</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_MONASTERY</zType>
+		<French>Monastère~un Monastère~Monastères</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_TEMPLE</zType>
+		<French>Temple~a Temple~Temples</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_CATHEDRAL</zType>
+		<French>Cathédrale~une Cathédrale~Cathédrale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_IMPROVEMENTCLASS_HOLY_SITE</zType>
+		<French>Site sacré~un Site sacré~Sites sacré</French>
+	</Entry>
+</Root>
