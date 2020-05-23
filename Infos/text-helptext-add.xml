@@ -337,7 +337,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_MENU_MORTALITY</zType>
-		<French>Moutalité: {0}</French>
+		<French>Mortalité: {0}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_MENU_EVENT_LEVEL</zType>
@@ -457,11 +457,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_BUILD</zType>
-		<French><![CDATA[Parcourir les Unités Civiles Inactivestrue_0> {0_presskey}<false><end>]]></French>
+		<French><![CDATA[Parcourir les Unités Civiles Inactives<true_0> {0_presskey}<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_BUILD_KEYS</zType>
-		<French><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> pour Parcourir à l'envers<br><TEXT_HOTKEY_CTRL_CLICK> pour Passer toutes les Unités Civiles<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> pour priouiser<false><end>]]></French>
+		<French><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> pour Parcourir à l'envers<br><TEXT_HOTKEY_CTRL_CLICK> pour Passer toutes les Unités Civiles<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> pour prioriser<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_MILITARY</zType>
@@ -469,7 +469,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_MILITARY_KEYS</zType>
-		<French><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> pour Parcourir à l'envers<br><TEXT_HOTKEY_CTRL_CLICK> pour Passer toutes les Unités Militaires<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> pour priouiser<false><end>]]></French>
+		<French><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> pour Parcourir à l'envers<br><TEXT_HOTKEY_CTRL_CLICK> pour Passer toutes les Unités Militaires<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> pour prioriser<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_CITIES</zType>
@@ -477,7 +477,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_CITIES_KEYS</zType>
-		<French><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> pour Parcourir à l'envers<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> pour priouiser<false><end>]]></French>
+		<French><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> pour Parcourir à l'envers<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> pour prioriser<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_DECISIONS</zType>
@@ -485,7 +485,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_DECISIONS_KEYS</zType>
-		<French><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> pour Parcourir à l'envers<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> pour priouiser<false><end>]]></French>
+		<French><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> pour Parcourir à l'envers<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> pour prioriser<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_PREVIOUS_CITIES</zType>
@@ -525,7 +525,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CONVERT_ACTION</zType>
-		<French><![CDATA[Cliquez pour dépenser {0_yield} pour {1_ouder}<true_2><br>{2_presskey}<false><end>]]></French>
+		<French><![CDATA[Cliquez pour dépenser {0_yield} pour {1_order}<true_2><br>{2_presskey}<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_NUM_CITIES</zType>
@@ -729,7 +729,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_OFFER_TRUCE_BARBARIAN_INSPIRE_TROOPS</zType>
-		<French>Inspirer Nos Troupess: {0_yield}</French>
+		<French>Inspirer Nos Troupes: {0_yield}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_OFFER_PEACE_PLAYER</zType>
@@ -767,42 +767,41 @@
 		<zType>TEXT_HELPTEXT_WIDGET_HEAL_CURRENT_HP</zType>
 		<French>PV actuels: {0_amount}/{1_max}</French>
 	</Entry>
-	<!-- TODO following lines -->
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_HEAL_IDLE_UNIT</zType>
-		<French>({0_idle} Unités Heal {1_amount} HP each year.)</French>
+		<French>(Les Unités {0_idle} guérissent de {1_amount} PV chaque année.)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_HEAL_FRIENDLY_TERRITORY</zType>
-		<French>Must be in friendly terripourry.</French>
+		<French>Doit être en territoire amical.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FORTIFY</zType>
-		<French><![CDATA[Foutify Unité<br>{0_amount} Defensive Bonus par An (up pour {1_max}%)]]></French>
+		<French><![CDATA[Unités Fortifiées<br>{0_amount} de Bonus Défensif par An (jusqu'à {1_max}%)]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TESTUDO</zType>
-		<French><![CDATA[Testudo Foumation<br>{0_amount} Bonus vs Ranged Unités par An (up pour {1_max}%)]]></French>
+		<French><![CDATA[Formation Tortue<br>{0_amount} de Bonus contre les unités à distance par An (jusqu'à {1_max}%)]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_MARCH</zType>
-		<French>Fouce March Unité (Can Move while Fatigued)</French>
+		<French>Marche Forcée sur l'Unité (Peut se déplacer fatiguée)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_MARCH_COST</zType>
-		<French>Cost: {0_value}</French>
+		<French>Coût: {0_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_MARCH_ORDERS</zType>
-		<French>(Chaque move will cost {0_ouders})</French>
+		<French>(Chaque déplacement coûte {0_orders})</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_UNLIMBER</zType>
-		<French>Unlimber (required pour Attack)</French>
+		<French>Préparer (requis pour Attaquer)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_ANCHOR</zType>
-		<French>Anchou (required pour Transpout)</French>
+		<French>Ancrer (requis pour le Transport)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_PILLAGE</zType>
@@ -810,96 +809,97 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_PILLAGE_YIELDS</zType>
-		<French>Plunder: {0_list}</French>
+		<French>Butin: {0_list}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_WAKE</zType>
-		<French>Wake Unité</French>
+		<French>Réveiller Unité</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_PASS</zType>
-		<French>Pass (pour one turn)</French>
+		<French>Passer (pour un tour)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_SLEEP</zType>
-		<French><![CDATA[Sleep (until unité is moved, attacked, ou healed)<br>{0_value} HP each turn.]]></French>
+		<French><![CDATA[Dormir (jusqu'à ce que l'unité se déplace, soit attaquée ou guérie)<br>{0_value} PV chaque tour.]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_SLEEP_HEALED</zType>
-		<French>Sleep (until unité is moved ou attacked)</French>
+		<French>Dormir (jusqu'à ce que l'unité se déplace, soit attaquée ou guérie)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_SENTRY</zType>
-		<French>Wake if an Enemy Unité appears avecing {0_value} tiles</French>
+		<French>Se Réveille si une Unité Ennemie apparaît dans un rayon de {0_value} Tuiles</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_LOCK</zType>
-		<French>Lock this Unité (so only you can use it).</French>
+		<French>Bloque cette Unité (pour que seul vous puisse l'utiliser).</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_DISBAND</zType>
-		<French>Disbet the Unité</French>
+		<French>Dissoudre l'Unité</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_REPAIR</zType>
-		<French>Repair {0_improvement}</French>
+		<French>Réparer {0_improvement}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_CAPTIAL</zType>
-		<French>Found the Capital</French>
+		<French>Fonder la Capitale</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_FAMILY_SEAT</zType>
-		<French>Found {0_family} Seat</French>
+		<French>Fonder le Siège des {0_family}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY</zType>
-		<French>Found a Ville</French>
+		<French>Fonder une Ville</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CITY_OPINION_DISTANCE</zType>
-		<French>Opinion from Distance: {0}</French>
+		<French>Opinion due à la Distance: {0}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_FOUND_COST</zType>
-		<French>Cost {0_money}</French>
+		<French>Coûte {0_money}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_BARBARIAN_FOUND_BONUS</zType>
-		<French>Barbarian Site: </French>
+		<French>Site Barbare: </French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FAMILY_FOUND_BONUS</zType>
-		<French>Same Family: </French>
+		<French>Même Famille: </French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_SKIP_SEAT_BONUS</zType>
-		<French>Skipped Founding Family Seat: </French>
+		<French>Fondation de Siège de Famille Passé: </French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_MAX_FAMILIES</zType>
-		<French>Max Families: {0_value}/{1_max}</French>
+		<French>Familles Maximum: {0_value}/{1_max}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_REMOVES_RESOURCE</zType>
-		<French>Removes the {0_resource}</French>
+		<French>Supprime: {0_resource}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_NOT_CONNECTED</zType>
-		<French>New Ville will not be {0_connectedLink} pour the {1_capitalLink}</French>
+		<French>La Nouvelle Ville ne sera pas {0_connectedLink} à la {1_capitalLink}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_NEEDS_URBAN</zType>
-		<French>Needs pour be on {0,1_urbanLink} Tile</French>
+		<French>Nécessite d'être sur une Tuile {0,1_urbanLink}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_CANNOT_FOUND_NEAR_BARBARIAN</zType>
-		<French>Cannot Found nearpar {0_barbarian}</French>
+		<French>Ne peut pas Fonder à proximité de {0_barbarian}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_CANNOT_FOUND_NEAR_UNIT</zType>
-		<French>Founding blocked par enemy {0_unité}</French>
+		<French>Fondation bloquée par {0_unité} ennemie</French>
 	</Entry>
+	<!--TODO following lines -->
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_JOIN_CITY</zType>
 		<French><![CDATA[Join {0_city}<br>Adds {1_number} <singular_1>{2_citizenLink}<plural>{2,2_citizenLink}<end> pour the Ville [Maintenez <TEXT_HOTKEY_CTRL> pour Confirmer]]]></French>
@@ -974,7 +974,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_HARVEST_RESOURCE_AUTO_HARVEST_HOTKEY</zType>
-		<French><![CDATA[Maintenez <TEXT_HOTKEY_CTRL> pour turn <true_0>off<false>on<end> Aupour-Harvest]]></French>
+		<French><![CDATA[Maintenez <TEXT_HOTKEY_CTRL> pour tour <true_0>off<false>on<end> Aupour-Harvest]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_COLONIZE_TILE</zType>
@@ -1038,7 +1038,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_LAUNCH_OFFENSIVE</zType>
-		<French><![CDATA[Reduces the Cooldown of <singular_0>the closest Unité<plural>the closest {0_number} Unités<end> et gives {1_yield} pour each one]]></French>
+		<French><![CDATA[Reduces the Cooldown of <singular_0>the closest Unité<plural>the closest {0_number} Unités<end> et gives {1_yield} pour chaque one]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_LAUNCH_OFFENSIVE_COSTS</zType>
@@ -1046,7 +1046,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_LAUNCH_OFFENSIVE_NOT_YOUR_TURN</zType>
-		<French>Must be your turn</French>
+		<French>Must be your tour</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_LAUNCH_OFFENSIVE_ONLY_ONE_PER_TURN</zType>
@@ -1122,7 +1122,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_LOG_MESSAGE_COVER_DEBT</zType>
-		<French>Your Debt was {0_money} at the end of the year.</French>
+		<French>Your Debt was {0_money} at the end of the année.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_LOG_MESSAGE_MAX_ACTIONS</zType>
@@ -1178,7 +1178,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TURN_REPLAY_WHOLE_GAME</zType>
-		<French><![CDATA[Replay the entire game<true_0> in 1-year steps<false><end>]]></French>
+		<French><![CDATA[Replay the entire game<true_0> in 1-année steps<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TURN_REPLAY_CLEAR_DATA</zType>
@@ -1186,15 +1186,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TURN_REPLAY_LAST_YEAR</zType>
-		<French><![CDATA[Replay the actions over the last year]]></French>
+		<French><![CDATA[Replay the actions over the last année]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TURN_REPLAY_LAST_X_YEARS</zType>
-		<French><![CDATA[Replay the actions over the last {0_number} turns]]></French>
+		<French><![CDATA[Replay the actions over the last {0_number} tours]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TURN_REPLAY_CANCEL</zType>
-		<French><![CDATA[Annuler the replay et return pour live action]]></French>
+		<French><![CDATA[Annuler the replay et retour pour live action]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TURN_REPLAY_MOVE_UNDO</zType>
@@ -1206,11 +1206,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TURN_REPLAY_DO_AI_MOVES</zType>
-		<French><![CDATA[Use AI pour finish turn<br><TEXT_HOTKEY_CTRL_CLICK> pour aupour-play {0_number} <singular_0>turn<plural>turns<end>]]></French>
+		<French><![CDATA[Use AI pour finish tour<br><TEXT_HOTKEY_CTRL_CLICK> pour aupour-play {0_number} <singular_0>tour<plural>tours<end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TURN_REPLAY_DO_AI_MOVES_X</zType>
-		<French><![CDATA[Aupour-play {0_number} <singular_0>turn<plural>turns<end>]]></French>
+		<French><![CDATA[Aupour-play {0_number} <singular_0>tour<plural>tours<end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TECH_DECK</zType>
@@ -1263,7 +1263,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_BUY_TILE</zType>
-		<French>Can Buy Let Tiles adjacent pour your terripourry.</French>
+		<French>Can Buy Let Tiles adjacent pour your territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_BARBARIAN_IMPROVEMENT</zType>
@@ -1283,7 +1283,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CITY_CAPTURE</zType>
-		<French>{0_player} will capture {1_city} in {2_turns} moue year(s).
+		<French>{0_player} will capture {1_city} in {2_turns} moue année(s).
 (Must keep a Military Unité in the Ville.)</French>
 	</Entry>
 	<Entry>
@@ -1346,33 +1346,33 @@
 		<zType>TEXT_HELPTEXT_LINK_HELP_DISCONTENT_FAMILY_OPINION</zType>
 		<French>{0_value} {1_family} Opinion</French>
 	</Entry>
-	<!-- The whitespace here is impoutant. Any added newlines ou tabs will afficher up in the pouroltip -->
+	<!-- The whitespace here is important. Any added newlines ou tabs will show up in the tooltip -->
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_PEACE_BARBARIAN</zType>
 		<French>
-You cannot attack each other.
+You cannot attack chaque other.
 Peace will last until the end of the current Leader's reign.
 Their unités are less likely pour declare War ou send Raiders against you.
-They can enter et heal in your terripourry.</French>
+They can enter et heal in your territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_PEACE_PLAYER</zType>
 		<French>
-You cannot attack each other.
+You cannot attack chaque other.
 They are less likely pour declare War against you.
-You can enter et heal in each other's terripourry.</French>
+You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_TRUCE</zType>
-		<French>You cannot attack each other.</French>
+		<French>You cannot attack chaque other.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_WAR</zType>
-		<French>You can attack each other freely.</French>
+		<French>You can attack chaque other freely.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DISLOYALTY</zType>
-		<French>Disloyalty is the yearly Opinion change from {0_discontentIcon} Level.</French>
+		<French>Disloyalty is the annéely Opinion change from {0_discontentIcon} Level.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_ENVY</zType>
@@ -1488,7 +1488,7 @@ You can enter et heal in each other's terripourry.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_PILLAGED</zType>
-		<French>Repair the {0_improvement}, ou it will be destroyed in {1_turns} year(s).</French>
+		<French>Repair the {0_improvement}, ou it will be destroyed in {1_turns} année(s).</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_PROJECT_INFO</zType>
@@ -1572,7 +1572,7 @@ You can enter et heal in each other's terripourry.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CONSUMES_OUTSIDE_BORDERS</zType>
-		<French>(Outside Bouders: {0_value})</French>
+		<French>(Outside Borders: {0_value})</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CONSUMPTION_OUTSIDE</zType>
@@ -1592,7 +1592,7 @@ You can enter et heal in each other's terripourry.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_URBAN_SPREADS_BORDERS</zType>
-		<French>Spreads Bouders</French>
+		<French>Spreads Borders</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_URBAN_RURAL_POPULATION</zType>
@@ -1616,7 +1616,7 @@ You can enter et heal in each other's terripourry.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY</zType>
-		<French>If any of your opponents reach {0_points} points, the game ends!</French>
+		<French>If any of your opponents rchaque {0_points} points, the game ends!</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_ZOC</zType>
@@ -1669,7 +1669,7 @@ You can enter et heal in each other's terripourry.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_TEAM</zType>
-		<French>Cannot be built outside own terripourry</French>
+		<French>Cannot be built outside own territoire</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_URBAN</zType>
@@ -1759,35 +1759,35 @@ You can enter et heal in each other's terripourry.</French>
 	<!--Unité Type Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_HP</zType>
-		<French>HP: {0}/{1}</French>
+		<French>PV: {0}/{1}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_HP_MAX</zType>
-		<French>HP: {0}</French>
+		<French>PV: {0}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_MOVEMENT</zType>
-		<French>Movement: {0_amount}</French>
+		<French>Mouvement: {0_amount}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_REVEAL_RANGE</zType>
-		<French>Reveal Range: {0_amount}</French>
+		<French>Portée de Vision: {0_amount}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_FATIGUE_LIMIT</zType>
-		<French>Fatigue Limit: {0_amount}</French>
+		<French>Limite de Fatigue: {0_amount}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_RANGE_MIN_MAX</zType>
-		<French>Range: {0}-{1}</French>
+		<French>Portée: {0}-{1}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_RANGE</zType>
-		<French>Range: {0_amount}</French>
+		<French>Portée: {0_amount}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH</zType>
-		<French>Strength: {0_value}</French>
+		<French>Puissance: {0_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_ATTACK_VALUE_ITEM</zType>
@@ -2273,7 +2273,7 @@ You can enter et heal in each other's terripourry.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_SPREADS_BORDERS</zType>
-		<French>Spreads Bouders</French>
+		<French>Spreads Borders</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_TRADE_NETWORK</zType>
@@ -2331,7 +2331,7 @@ You can enter et heal in each other's terripourry.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_CURRENT_CITIZENS_NEXT</zType>
-		<French><![CDATA[Next Citizen in {0_years} <singular_0>year<plural>years<end><br>Citizens can be used pour create new Specialists]]></French>
+		<French><![CDATA[Next Citizen in {0_years} <singular_0>année<plural>années<end><br>Citizens can be used pour create new Specialists]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_MIN_CITIZENS</zType>
@@ -2480,7 +2480,7 @@ You can enter et heal in each other's terripourry.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_NO_OUTSIDE_UNIT_CONSUMPTION</zType>
-		<French>No Extra Unité Consumption Costs when {0_outsideBouders}</French>
+		<French>No Extra Unité Consumption Costs when {0_outsideBorders}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_BUILD_ALL_RELIGIONS</zType>
@@ -3488,7 +3488,7 @@ You can enter et heal in each other's terripourry.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_REPLAY_FIVE_TURNS_BUTTON</zType>
-		<French>Replay last five turns</French>
+		<French>Replay last five tours</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_REPLAY_GAME_BUTTON</zType>
@@ -3504,19 +3504,19 @@ You can enter et heal in each other's terripourry.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_AUTO_NEXT_TURN_BUTTON</zType>
-		<French>Aupour-play next turn</French>
+		<French>Aupour-play next tour</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_AUTO_FIFTY_TURNS_BUTTON</zType>
-		<French>Aupour-play 50 turns</French>
+		<French>Aupour-play 50 tours</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_GAME_EDITOR_BUTTON</zType>
-		<French>Game Edipourr</French>
+		<French>Editeur de Jeu</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_CHANGE_PLAYER_INFO_BUTTON</zType>
-		<French>Change Player inpourmation</French>
+		<French>Change Player information</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_OPTIONS_BUTTON</zType>
@@ -3524,15 +3524,15 @@ You can enter et heal in each other's terripourry.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_HELP_BUTTON</zType>
-		<French>Help</French>
+		<French>Aide</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_EXIT_BUTTON</zType>
-		<French>Exit pour Menu</French>
+		<French>Quitter vers le Menu</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_QUIT_BUTTON</zType>
-		<French>Quit pour Deskpourp</French>
+		<French>Quitter vers le Bureau</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_TITLE</zType>
@@ -3540,7 +3540,7 @@ You can enter et heal in each other's terripourry.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DISBAND_UNIT_PROMPT_TITLE</zType>
-		<French>Disbet {0_unité}?</French>
+		<French>Dissoudre {0_unité}?</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_CANCEL_BUILD_PROMPT_TITLE</zType>
