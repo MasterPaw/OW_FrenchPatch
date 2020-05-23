@@ -108,7 +108,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_COLOR</zType>
-		<French><![CDATA[<lt>colou={1_hexcode}<gt>{0_value}</colou>]]></French>
+		<French><![CDATA[<lt>color={1_hexcode}<gt>{0_value}</color>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_ERA_YEAR</zType>
@@ -217,11 +217,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LARGEST_POPULATION</zType>
-		<French>Plus Grete Population</French>
+		<French>Plus Grande Population</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LARGEST_MILITARY</zType>
-		<French>Plus Grete Armée</French>
+		<French>Plus Grande Armée</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_SMALLEST_MILITARY</zType>
@@ -233,7 +233,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CITIZEN</zType>
-		<French>Cipouryen~un Cipouryen~Cipouryens</French>
+		<French>Citoyen~un Citoyen~Citoyens</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HOLY_CITY</zType>
@@ -245,7 +245,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_FAMILY_UNITS</zType>
-		<French>Unitéés</French>
+		<French>Unités</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LEGITIMACY</zType>
@@ -277,7 +277,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_UNIT_CYCLE</zType>
-		<French>{0_unitéParcourir} Unitéés</French>
+		<French>{0_unitéParcourir} Unités</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CAPITAL</zType>
@@ -385,7 +385,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TOGGLE_VICTORY_SCREEN</zType>
-		<French><![CDATA[Afficher l'Écran de Vicpourire<true_0><br>{0_presskey}<false><end>]]></French>
+		<French><![CDATA[Afficher l'Écran de Victoire<true_0><br>{0_presskey}<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_TOGGLE_RELIGION_SCREEN</zType>
@@ -457,15 +457,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_BUILD</zType>
-		<French><![CDATA[Parcourir les Unitéés Civiles Inactivestrue_0> {0_presskey}<false><end>]]></French>
+		<French><![CDATA[Parcourir les Unités Civiles Inactivestrue_0> {0_presskey}<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_BUILD_KEYS</zType>
-		<French><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> pour Parcourir à l'envers<br><TEXT_HOTKEY_CTRL_CLICK> pour Passer pourutes les Unitéés Civiles<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> pour priouiser<false><end>]]></French>
+		<French><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> pour Parcourir à l'envers<br><TEXT_HOTKEY_CTRL_CLICK> pour Passer toutes les Unités Civiles<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> pour priouiser<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_MILITARY</zType>
-		<French><![CDATA[PArcourir les Unitéés Militaires Inactives<true_0> {0_presskey}<false><end>]]></French>
+		<French><![CDATA[PArcourir les Unités Militaires Inactives<true_0> {0_presskey}<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_MILITARY_KEYS</zType>
