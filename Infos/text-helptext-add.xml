@@ -108,7 +108,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_COLOR</zType>
-		<French><![CDATA[<lt>colou={1_hexcode}<gt>{0_value}</colou>]]></French>
+		<French><![CDATA[<lt>color={1_hexcode}<gt>{0_value}</color>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_ERA_YEAR</zType>
@@ -217,11 +217,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LARGEST_POPULATION</zType>
-		<French>Plus Grete Population</French>
+		<French>Plus GRande Population</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LARGEST_MILITARY</zType>
-		<French>Plus Grete Armée</French>
+		<French>Plus Grande Armée</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_SMALLEST_MILITARY</zType>
@@ -233,7 +233,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_CITIZEN</zType>
-		<French>Cipouryen~un Cipouryen~Cipouryens</French>
+		<French>Citoyen~un Citoyen~Citoyens</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HOLY_CITY</zType>
@@ -245,11 +245,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_FAMILY_UNITS</zType>
-		<French>Unitéés</French>
+		<French>Unitées</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_LEGITIMACY</zType>
-		<French>Legitimacyicon(YIELD_LEGITIMACY)</French>
+		<French>Légitimité(YIELD_LEGITIMACY)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_GREAT_PERSON</zType>
