@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
+<Root>
+	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
+	<!--NOTE: improvement names that are mass nouns or plural do not need multiple types in French-->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SWORD_CULT</zType>
+		<French>Épée Culte</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SWORD_CULT_TITHE</zType>
+		<French>Épée Culte de la Dîme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HOSTILE_GARRISON</zType>
+		<French>Garnison Hostile</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PUBLIC_MURAL</zType>
+		<French>Peinture Murale Publique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TRIUMPH</zType>
+		<French>Triomphe</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PURPLE_DYE</zType>
+		<French>Teinture Pourpre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PROPAGANDA</zType>
+		<French>Propagande</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CHILD_LABOR</zType>
+		<French>Le Travail des Enfants</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CORRUPTION_REFORM</zType>
+		<French>Réforme de la Corruption</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_ROYAL_INSCRIPTIONS</zType>
+		<French>Inscriptions Royales</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_IMPERIAL_NECROPOLIS</zType>
+		<French>Nécropole impériale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FORCED_DEPORTATIONS</zType>
+		<French>Déportations forcées</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GLADIATORS</zType>
+		<French>Gladiateurs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PLAYS</zType>
+		<French>Pièces Dramatiques</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MERCHANT_TOWN</zType>
+		<French>Ville Marchande</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_OUTBREAK</zType>
+		<French>Épidémie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MIDWIFERY</zType>
+		<French>Obstétrique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_LUXURIOUS_DELIGHTS</zType>
+		<French>Délices Luxueux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_NEIGHBORS_FEAST_PERSIA</zType>
+		<French>Fête Annuelle Pour Les Invités Persans</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_MISTHOPHORIA</zType>
+		<French>Misthophoria(salaire)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_GRAIN_DOLE</zType>
+		<French>Distribution de Nourriture</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_FOREIGN_FIGHTERS</zType>
+		<French>Combattants Etrangers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_WAR_COUNCIL</zType>
+		<French>Conseil De Guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SEWER_SYSTEM</zType>
+		<French>Système de Canalisation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CASE_HARDENING</zType>
+		<French>Cémentation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TURPAN_WELLS</zType>
+		<French>Puit Turpan</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_NATIONAL_HOLIDAY</zType>
+		<French>Fête Nationale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_SCIENTIFIC_METHOD</zType>
+		<French>Méthode Scientifique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_PROTECTION_EDICTS</zType>
+		<French>Édits de Protection</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_HORREUM</zType>
+		<French>Entrepôt Horreum</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_AVESTA_TREASURY</zType>
+		<French>Trésor d'Avesta</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_DISEASED_SETTLERS</zType>
+		<French>Citoyens Malades</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TERRACE_LOVE_SHRINE</zType>
+		<French>Sanctuaire d'Amour de Ziggurat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TERRACE_WISDOM_SHRINE</zType>
+		<French>Sanctuaire de la Sagesse de Ziggurat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_TERRACE_WAR_SHRINE</zType>
+		<French>Sanctuaire de Guerre de Ziggurat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONSULAR_TRIBUNES</zType>
+		<French>Tribunaux Consulaires</French>
+	</Entry>
+</Root>
