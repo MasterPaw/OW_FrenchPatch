@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Andy Auseon (Mohawk Games) -->
+<Root>
+	<!--Name-->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_AMBASSADOR</zType>
+		<French>Faire Ambassadeur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CHANCELLOR</zType>
+		<French>Faire Chancelier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_SPYMASTER</zType>
+		<French>Faire Maître-Espion</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_ALLIANCE</zType>
+		<French>Alliance avec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_ALLIANCE_PLUS</zType>
+		<French>Alliance via</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE</zType>
+		<French>Paix avec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PEACE_PLUS</zType>
+		<French>Paix via</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE</zType>
+		<French>Trêve avec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_TRUCE_PLUS</zType>
+		<French>Trêve via</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR</zType>
+		<French>Déclarer la guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_DECLARE_WAR_PLUS</zType>
+		<French>Déclarez la guerre à</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE</zType>
+		<French>Rompre la Paix</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_BREAK_PEACE_PLUS</zType>
+		<French>Rompre la Paix avec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE</zType>
+		<French>Fin de l'Alliance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_END_ALLIANCE_PLUS</zType>
+		<French>Fin de l'Alliance avec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE</zType>
+		<French>Annuler tous les Echanges</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_CANCEL_TRADE_PLUS</zType>
+		<French>Annuler tous les Echanges avec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE</zType>
+		<French>Alliance avec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_ALLIANCE_PLUS</zType>
+		<French>Alliance via</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_PEACE</zType>
+		<French>Paix avec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_PEACE_PLUS</zType>
+		<French>Paix via</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_TRUCE</zType>
+		<French>Trêve avec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_TRUCE_PLUS</zType>
+		<French>Trêve via</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR</zType>
+		<French>Déclarer la guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_DECLARE_WAR_PLUS</zType>
+		<French>Déclarez la guerre à</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE</zType>
+		<French>Rompre la Paix</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_BREAK_PEACE_PLUS</zType>
+		<French>Rompre la Paix avec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE</zType>
+		<French>Fin de l'Alliance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_BARBARIAN_END_ALLIANCE_PLUS</zType>
+		<French>Fin de l'Alliance avec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_FAMILY_MARRIAGE</zType>
+		<French>Mariage de FamilleFrench>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_MARRY_COURTIER</zType>
+		<French>Epouser un Courtisan</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_MARRY_COURTIER_PLUS</zType>
+		<French>Marier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ABDICATE</zType>
+		<French>Abdiquer le Trône</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ADOPT</zType>
+		<French>Adoptez un Enfant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ADOPT_PLUS</zType>
+		<French>Adoptez par</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_LEGITIMIZE</zType>
+		<French>Légitimer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CHOSEN_HEIR</zType>
+		<French>Faire l'héritier choisi</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INFILTRATE</zType>
+		<French>Infiltrer la Nation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_INFILTRATE_PLUS</zType>
+		<French>Infiltrer la Nation via</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ASSASSINATE</zType>
+		<French>Assassiner</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_ASSASSINATE_PLUS</zType>
+		<French>Assassiner via</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRADE_MISSION</zType>
+		<French>Mission commerciale avec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_TRADE_MISSION_PLUS</zType>
+		<French>Mission commerciale via</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_FAMILY_GIFT</zType>
+		<French>Cadeaux de Famille</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_FAMILY_GIFT_PLUS</zType>
+		<French>Cadeaux de Famille via</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPRISON</zType>
+		<French>Emprisonner</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_IMPRISON_PLUS</zType>
+		<French>Emprisonner via</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_RELEASE</zType>
+		<French>Libération de prison</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CAPTURE</zType>
+		<French>Capturer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_DIVORCE</zType>
+		<French>Divorce avec Conjoint</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_CAPTURED_RANSOM</zType>
+		<French>Payer une Rançon</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_BARBARIAN_WAR</zType>
+		<French>Demandez à déclarer la guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSION_PLAYER_PLAYER_WAR</zType>
+		<French>Demandez à déclarer la guerre</French>
+	</Entry>
+</Root>
