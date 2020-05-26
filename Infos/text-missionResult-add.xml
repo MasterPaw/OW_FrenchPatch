@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Andy Auseon (Mohawk Games) -->
+<Root>
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BARBARIAN_ALLIANCE_EVENT_DESCRIPTION</zType>
+		<French>Votre ambassadeur {CHARACTER-SUBJECT} a entamé des négociations d'alliance avec une tribu...</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BARBARIAN_ALLIANCE_FAILURE_DESCRIPTION</zType>
+		<French>Votre Ambassadeur {CHARACTER-SUBJECT} n'a pas réussi à négocier une alliance avec une tribu.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BARBARIAN_PEACE_EVENT_DESCRIPTION</zType>
+		<French>Votre Ambassadeur {CHARACTER-SUBJECT} a entamé des négociations de paix avec une tribu...</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BARBARIAN_TRUCE_EVENT_DESCRIPTION</zType>
+		<French>Votre Ambassadeur {CHARACTER-SUBJECT} a entamé des négociations de trêve avec une tribu...</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL_DESCRIPTION</zType>
+		<French>{CHARACTER-SUBJECT} a infiltré avec succès le territoire de votre rival.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_DESCRIPTION</zType>
+		<French>Vous avez réussi à assassiner {CHARACTER-TARGET}, et personne ne vous soupçonne...</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED_DESCRIPTION</zType>
+		<French>Vos assassins éliminés avec succès {CHARACTER-TARGET}, mais des preuves vous ont été remontées.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED_DESCRIPTION</zType>
+		<French>Vos assassins n'ont pas réussi à tuer {CHARACTER-TARGET}. Pire encore, votre ignoble complot a été dévoilé.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_DESCRIPTION</zType>
+		<French>Votre famille vassale apprécie les cadeaux que votre Chancelier {CHARACTER-SUBJECT} fourni pour vous.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN_DESCRIPTION</zType>
+		<French>Votre famille vassale apprécie les cadeaux que votre Chancelier {CHARACTER-SUBJECT} fourni, mais vos autres sujets voient ce harcèlement comme un signe de faiblesse.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_JUST_DESCRIPTION</zType>
+		<French>{CHARACTER-TARGET} a été emprisonné sur des accusations qui sont généralement acceptées pour être juste.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_UNJUST_DESCRIPTION</zType>
+		<French>{CHARACTER-TARGET} a été emprisonné pour des accusations manifestement fallacieuses. Certains vous accusent de tyrannie.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_ESCAPE_DESCRIPTION</zType>
+		<French>{CHARACTER-TARGET} a échappé à l'arrestation et est maintenant en fuite!</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL_DESCRIPTION</zType>
+		<French><![CDATA[{CHARACTER-TARGET} a été libéré de prison. Reconnaissant d'être à nouveau libre, <masculine_CHARACTER-TARGET>il<feminine>elle<end> a pardonné à vos combats passés contre <masculine_CHARACTER-TARGET>lui<feminine>elle<end>.]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELEASE_BITTER_DESCRIPTION</zType>
+		<French><![CDATA[{CHARACTER-TARGET} a été libéré de prison, mais nourrit un ressentiment amer contre vous pour <masculine_CHARACTER-TARGET>son<feminine>son<end> emprisonnement.]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELEASE_UNJUST_DESCRIPTION</zType>
+		<French><![CDATA[{CHARACTER-TARGET} a été libéré de prison et n'a pas hésité à se plaindre de <masculine_CHARACTER-TARGET>son<feminine>son<end> emprisonnement injuste.]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_SURRENDER_DESCRIPTION</zType>
+		<French><![CDATA[Vos efforts pour capturer {CHARACTER-TARGET} ont réussi. <masculine_CHARACTER-TARGET>Il<feminine>Elle<end> s'est rendu et est détenu en captivité.]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_KILLED_DESCRIPTION</zType>
+		<French><![CDATA[{CHARACTER-TARGET} a refusé de se rendre aux gardes que vous avez envoyée pour <masculine_CHARACTER-TARGET>le<feminine>la<end> capturer, préférant la mort à la captivité.]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_FLEE_DESCRIPTION</zType>
+		<French><![CDATA[{CHARACTER-TARGET} a échappé à vos guardes et s'est échappé du pays! <masculine_CHARACTER-TARGET>Il<feminine>Elle<end> se cache maintenant quelque part hors de votre portée...]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_FAIL_DESCRIPTION</zType>
+		<French><![CDATA[Vos guardes n'ont pas réussi à découvrir où se trouve {CHARACTER-TARGET}. Nous pouvons seulement supposer que <masculine_CHARACTER-TARGET>il<feminine>elle<end> reste en fuite.]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_MARRY_COURTIER_DESCRIPTION</zType>
+		<French>Bonnes nouvelles: {CHARACTER-SUBJECT} a accepté votre demande en mariage. Toutes nos félicitations!</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_DIVORCE_MUTUAL_DESCRIPTION</zType>
+		<French>Après quelques persuasions, {CHARACTER-SUBJECT} a convenu d'un accord de divorce mutuel.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_DIVORCE_FORCED_DESCRIPTION</zType>
+		<French><![CDATA[Vous avez forcé {CHARACTER-TARGET} de divorcer contre <masculine_CHARACTER-TARGET>sa<feminine>sa<end> volonté.]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURED_RANSOM_DESCRIPTION</zType>
+		<French><![CDATA[Vous avez payé la rançon pour {CHARACTER-SUBJECT} et sécurisé <masculine_CHARACTER-SUBJECT>sa<feminine>sa<end> libération!]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_EVENT_DESCRIPTION</zType>
+		<French>La mission de {CHARACTER-SUBJECT} a conduit à un événement...</French>
+	</Entry>
+	<!--Result Name-->
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_AMBASSADOR</zType>
+		<French>Ambassadeur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CHANCELLOR</zType>
+		<French>Chancelier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_SPYMASTER</zType>
+		<French>Maître-espion</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_ALLIANCE_EVENT</zType>
+		<French>Evénement, Alliance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_PEACE_EVENT</zType>
+		<French>Événement, Paix</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_TRUCE_EVENT</zType>
+		<French>Événement, Trêve</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_DECLARE_WAR_EVENT</zType>
+		<French>Déclarer la guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_BREAK_PEACE_EVENT</zType>
+		<French>Rompre la paix</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_END_ALLIANCE_EVENT</zType>
+		<French>Fin de l'Alliance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_CANCEL_TRADE_EVENT</zType>
+		<French>Annuler le Commerce</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BARBARIAN_ALLIANCE_EVENT</zType>
+		<French>Événement, Alliance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BARBARIAN_ALLIANCE_FAILURE</zType>
+		<French>Échec</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BARBARIAN_PEACE_EVENT</zType>
+		<French>Événement, Paix</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BARBARIAN_TRUCE_EVENT</zType>
+		<French>Événement, Trêve</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BARBARIAN_DECLARE_WAR_EVENT</zType>
+		<French>Déclarer la guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BARBARIAN_BREAK_PEACE_EVENT</zType>
+		<French>Rompre la paix</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_BARBARIAN_END_ALLIANCE_EVENT</zType>
+		<French>Fin de l'Alliance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_FAMILY_MARRIAGE_EVENT</zType>
+		<French>Mariage de Famille</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ABDICATE</zType>
+		<French>Abdiquer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ADOPT</zType>
+		<French>Adopté</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_LEGITIMIZE</zType>
+		<French>Légitimiser</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CHOSEN_HEIR</zType>
+		<French>Héritier choisi</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL</zType>
+		<French>Territoire Infiltré</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL</zType>
+		<French>Cible Tuée</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_EXPOSED</zType>
+		<French>Cible tuée, complot exposé</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_FAIL_EXPOSED</zType>
+		<French>La cible survit, complot exposé</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_ASSASSINATE_EVENT</zType>
+		<French>Événement d'Assassinat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_TRADE_MISSION_EVENT</zType>
+		<French>Événement de la Mission Commerciale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS</zType>
+		<French>Les cadeaux plaisent à la famille</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_WEAKEN</zType>
+		<French>Les cadeaux révèlent notre faiblesse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_EVENT</zType>
+		<French>Événement cadeau familial</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_JUST</zType>
+		<French>Cible justement emprisonnée</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_UNJUST</zType>
+		<French>Cible injustement emprisonnée</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_IMPRISON_ESCAPE</zType>
+		<French>Fuites de cible</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL</zType>
+		<French>La cible est reconnaissante</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELEASE_BITTER</zType>
+		<French>La cible reste amère</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_RELEASE_UNJUST</zType>
+		<French>Libération jugée injuste</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_SURRENDER</zType>
+		<French>Cessions de cible</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_KILLED</zType>
+		<French>La cible est tuée en résistant à la capture</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_FLEE</zType>
+		<French>La cible fuit le pays</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURE_FAIL</zType>
+		<French>La cible est introuvable</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_MARRY_COURTIER</zType>
+		<French>Mariage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_DIVORCE_MUTUAL</zType>
+		<French>Divorce mutuel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_DIVORCE_FORCED</zType>
+		<French>Divorce forcé</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_CAPTURED_RANSOM</zType>
+		<French>Rançon payée</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_BARBARIAN_WAR_EVENT</zType>
+		<French>Nation vs Barbare événement de Guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_MISSIONRESULT_PLAYER_PLAYER_WAR_EVENT</zType>
+		<French>Nation vs Nation événement de Guerre</French>
+	</Entry>
+</Root>
