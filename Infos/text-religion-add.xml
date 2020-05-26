@@ -1,0 +1,27 @@
+<Root>
+	<!--French Indices: Noun~Adjective~Indefinite Article w/ Adjective~Plural-->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RELIGION_ZOROASTRIANISM</zType>
+		<French>Zoroastrisme~Zoroastrien~un Zoroastrien~Zoroastriens</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RELIGION_JUDAISM</zType>
+		<French>Judaïsme~Juif~un Juif~Juifs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RELIGION_CHRISTIANITY</zType>
+		<French>Christianisme~Chrétien~un Chrétien~Chrétiens</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_RELIGION_MANICHAEISM</zType>
+		<French>Manichéisme~Manichéen~un Manichéen~Manichéen</French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_RELIGION_CUSTOM</zType>
+    <French>{RELIGION-NOUN}~{RELIGION-ADJECTIVE}~a(n) {RELIGION-ADJECTIVE}~{RELIGION-ADJECTIVE}(s)</French>
+  </Entry>
+</Root>
