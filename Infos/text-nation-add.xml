@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<!-- Title -->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ASSYRIA</zType>
+		<French>Assyrie~Assyrien~Assyriens</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_BABYLONIA</zType>
+		<French>Babylone~Babylonien~Babyloniens</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_CARTHAGE</zType>
+		<French>Carthage~Carthaginois~Carthaginois</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_EGYPT</zType>
+		<French>Égypte~Égyptien~Égyptiens</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_GREECE</zType>
+		<French>Grèce~Grec~Grecs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_PERSIA</zType>
+		<French>Perse~Persans~Perses</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_NATION_ROME</zType>
+		<French>Rome~Romain~Romains</French>
+	</Entry>
+</Root>
