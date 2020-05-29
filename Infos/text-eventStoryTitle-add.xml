@@ -1,11 +1,3673 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<Entry>
 		<zType/>
 		<French/>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_TRUCE_TITLE</zType>
+		<French>Trêve</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_TITLE</zType>
+		<French>Guerre </French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PEACE_RESPONSE_TITLE</zType>
+		<French>Réponse de Paix</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRUCE_RESPONSE_TITLE</zType>
+		<French>Réponse de Trêve</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_BARBARIAN_WAR_TITLE</zType>
+		<French>Une déclaration de guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PLAYER_WAR_TITLE</zType>
+		<French>Une déclaration de guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_DECLARE_WAR_TITLE</zType>
+		<French>Déclarer la guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_BREAK_PEACE_TITLE</zType>
+		<French>Rompre la paix</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_END_ALLIANCE_TITLE</zType>
+		<French>Fin d'Alliance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_CANCEL_TRADE_TITLE</zType>
+		<French>Annuler le commerce</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_DECLARE_WAR_TITLE</zType>
+		<French>Déclarer la guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_BREAK_PEACE_TITLE</zType>
+		<French>Rompre la paix</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_END_ALLIANCE_TITLE</zType>
+		<French>Fin d'Alliance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SEASIDE_FIND_TITLE</zType>
+		<French><![CDATA[Trouver en bord de mer]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_CODES_OF_JUSTICE_TITLE</zType>
+		<French><![CDATA[Codes de Justice]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_SAGE_COUNSEL_TITLE</zType>
+		<French><![CDATA[Sage Avocat]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_BARBARIANS_AT_THE_GATE_TITLE</zType>
+		<French><![CDATA[Barbares à la porte]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_MOUTHPIECE_OF_THE_GODS_TITLE</zType>
+		<French><![CDATA[Porte-Parole des Dieux]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DIVINE_MANDATE_TITLE</zType>
+		<French><![CDATA[Mandat Divin]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_UNDER_SUSPICION_TITLE</zType>
+		<French><![CDATA[Sous Suspicion]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_ARTS_AND_SCIENCES_TITLE</zType>
+		<French><![CDATA[Arts et Sciences]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_OF_THE_PEOPLE_TITLE</zType>
+		<French><![CDATA[du Peuple]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_TEST_OF_FAITH_TITLE</zType>
+		<French><![CDATA[Test de Foi]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_QUESTION_AUTHORITY_TITLE</zType>
+		<French><![CDATA[Question d'Autorité ]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_COLLISION_COURSE_TITLE</zType>
+		<French><![CDATA[Cours de Collision]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_ENABLERS_TITLE</zType>
+		<French><![CDATA[Facilitateurs]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_ROYAL_TRAGEDIES_TITLE</zType>
+		<French><![CDATA[Tragédies Royales]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_DARK_PALL_TITLE</zType>
+		<French><![CDATA[un Voile Sombre]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_TITLE</zType>
+		<French><![CDATA[Duel des Destins]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_VICTORIOUS_TITLE</zType>
+		<French><![CDATA[Victorieux!]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DUEL_OF_FATES_DEFEATED_TITLE</zType>
+		<French><![CDATA[Vaincu!]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_FAMILY_RETREAT_TITLE</zType>
+		<French><![CDATA[Retraite Familiale]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_THE_FINER_THINGS_TITLE</zType>
+		<French><![CDATA[les Belles Choses]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_CHILL_IN_THE_PALACE_TITLE</zType>
+		<French><![CDATA[Un Frisson dans le Palais]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_FACING_THE_HORDE_TITLE</zType>
+		<French><![CDATA[Face à la Horde]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_FORCED_DEPORTATIONS_TITLE</zType>
+		<French><![CDATA[Déportations Forcées]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DINOSAUR_BONES_TITLE</zType>
+		<French><![CDATA[Os de Dinosaure]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_GOOD_NEWS_TITLE</zType>
+		<French><![CDATA[Bonnes Nouvelles]]></French>
+	</Entry>
+	<Entry beginGroup="Exploration">
+		<zType>TEXT_EVENTSTORY_RUINS_SURVIVORS_TITLE</zType>
+		<French>Survivants</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_RITUAL_PERFORMANCE_TITLE</zType>
+		<French>Performance Rituelle</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_CARVED_WALL_TITLE</zType>
+		<French>Mur Sculpté</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_MONUMENTS_OF_LAW_TITLE</zType>
+		<French>Monuments de loi</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_HUNGRY_LOREKEEPERS_TITLE</zType>
+		<French>Gardiens Affamés</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_HIDDEN_JEWELS_TITLE</zType>
+		<French>Bijoux Cachés</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_FRIGHTENED_FAMILIES_TITLE</zType>
+		<French>Familles Effrayées</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_ELDERLY_COUPLE_TITLE</zType>
+		<French>Couple de personnes âgées</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_ELDERLY_COUPLE_WITCH_TITLE</zType>
+		<French>Prêtresse folle</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_DESPOILED_RUINS_TITLE</zType>
+		<French>Ruines Dépouillées</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_HAUNTED_QUARRY_TITLE</zType>
+		<French>Carrière hantée</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_BURLY_SMITH_TITLE</zType>
+		<French>Forgeron Costaud</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_GOOD_FENCES_TITLE</zType>
+		<French>Bonnes Palissade</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_TRIBAL_HUNTERS_TITLE</zType>
+		<French>Chasseurs Tribaux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_STAR_CHARTS_TITLE</zType>
+		<French>Graphiques en Etoiles</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_FRUIT_TREES_TITLE</zType>
+		<French>Arbres fruitiers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_OLD_SOLDIER_TITLE</zType>
+		<French>Vieux soldat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_WEARY_RAIDERS_TITLE</zType>
+		<French>Commando Fatigués</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_GREAT_MIGRATION_TITLE</zType>
+		<French><![CDATA[Grande Migration]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_VULGAR_SPEECH_TITLE</zType>
+		<French><![CDATA[Discours Vulgaire]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_ANCIENT_BARBARIANS_TITLE</zType>
+		<French><![CDATA[Barbares Antiques]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_THE_WATCHERS_TITLE</zType>
+		<French><![CDATA[l'Observateurs]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ANCIENT_SITE_TITLE</zType>
+		<French>Site Antique</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SACRED_TOMB_TITLE</zType>
+		<French>Tombeau sacré</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SEASHORE_FIND_TITLE</zType>
+		<French><![CDATA[Trouver en bord de mer]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_EARLY_DISCIPLES_TITLE</zType>
+		<French><![CDATA[Premiers Disciples]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_THE_FLOATING_CITY_TITLE</zType>
+		<French><![CDATA[La ville flottante]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_NEW_HUMANS_TITLE</zType>
+		<French><![CDATA[Nouveaux Humains]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_SUNKEN_TOMBS_TITLE</zType>
+		<French><![CDATA[Tombes Englouties]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_THE_KINGS_ROADS_TITLE</zType>
+		<French><![CDATA[Les routes du roi]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_GEOGLYPHS_TITLE</zType>
+		<French><![CDATA[Géoglyphes]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_RAISED_FIELDS_TITLE</zType>
+		<French><![CDATA[Champs surélevés]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_GRAVE_CIRCLES_TITLE</zType>
+		<French><![CDATA[Cercle grave]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINES_TITLE</zType>
+		<French><![CDATA[Mines d'émeraude]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINES_CAVE_IN_TITLE</zType>
+		<French><![CDATA[S'effondrer!]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_EMERALD_MINE_REBUILT_TITLE</zType>
+		<French><![CDATA[Mine d'émeraude reconstruite]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_IN_THE_CLOUDS_TITLE</zType>
+		<French><![CDATA[Dans les nuages]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_HEAVEN_AND_EARTH_TITLE</zType>
+		<French><![CDATA[Le ciel et la terre]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_GOLD_WORKERS_TITLE</zType>
+		<French><![CDATA[Chercheurs d'or]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_BEADS_AND_FIGURINES_TITLE</zType>
+		<French><![CDATA[Perles et Figurines]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUINS_WRATH_OF_THE_WATCHERS_TITLE</zType>
+		<French>Colère des Veilleurs</French>
+	</Entry>
+	<Entry beginGroup="Contact">
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_CALM_EMISSARY_TITLE</zType>
+		<French>Emissaire calme</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_SEEDY_MESSENGER_TITLE</zType>
+		<French>Messager Miteux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_GIFT_EXCHANGE_TITLE</zType>
+		<French>Échange de cadeaux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_REFUGEE_OUTLAWS_TITLE</zType>
+		<French>Hors-la-loi réfugiés
+</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_RIPE_LANDS_TITLE</zType>
+		<French>Terres mûres</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_HAUGHTY_EMISSARY_TITLE</zType>
+		<French>Émissaire Hautain</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_GRINNING_EMISSARY_TITLE</zType>
+		<French>Emissaire souriant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_CULTURAL_DELEGATION_TITLE</zType>
+		<French>Délégation culturelle</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_DELIGHTED_EMISSARY_TITLE</zType>
+		<French>Envoyé Ravi</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CONTACT_FUMING_MESSENGER_TITLE</zType>
+		<French>Messager fumant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAR_AMBASSADOR_TITLE</zType>
+		<French>Ambassadeur de Guerre</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_NUMBERLESS_GAULS_CONTACT_TITLE</zType>
+		<French>L'Innombrable</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_CONTACT_TITLE</zType>
+		<French>Premier Contact</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_CONTACT_TITLE_01</zType>
+		<French>Histoires et souvenirs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_CONTACT_TITLE_02</zType>
+		<French>Rencontre amicale</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FRIEND_OR_FOE_TITLE</zType>
+		<French>Ami ou Ennemi?</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEIGHBORS_TITLE</zType>
+		<French>Voisins</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEIGHBORS_PRIDEFUL_PERSIA_VICTORIOUS_CHAMPION_TITLE</zType>
+		<French>Champion Victorieux</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEIGHBORS_PRIDEFUL_PERSIA_DEFEATED_CHAMPION_TITLE</zType>
+		<French>Champion Vaincu</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_WITH_DISTANT_NATION_TITLE</zType>
+		<French>Nation inconnue</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_ON_THE_MOVE_TITLE</zType>
+		<French><![CDATA[En Mouvement]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_GROWING_TENSION_TITLE</zType>
+		<French><![CDATA[Tension Croissante]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_A_LEARNING_OPPORTUNITY_TITLE</zType>
+		<French><![CDATA[Une opportunité d'apprentissage]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_BORDER_DISPUTE_TITLE</zType>
+		<French>Différend Frontalier</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_QUALITY_ORE_TITLE</zType>
+		<French><![CDATA[Minerai de qualité]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ATTACKED_BY_A_BEAR_TITLE</zType>
+		<French><![CDATA[Attaqué par un ours]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ATTACKED_BY_A_BEAR_AID_TITLE</zType>
+		<French><![CDATA[Attaqué par un ours]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ATTACKED_BY_A_BEAR_NOTIFY_TITLE</zType>
+		<French><![CDATA[Attaqué par un ours]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_THE_INJURED_PLAYER_TITLE</zType>
+		<French>Injured {PLAYER-0,1}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_POLITICAL_PRISONER_TITLE</zType>
+		<French>Political Prisoner</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_THE_FOOL_TITLE</zType>
+		<French>The Fool</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_MOMENTOUS_MEETING_TITLE</zType>
+		<French>Momentous Meeting</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_LETHAL_AFFLICTION_TITLE</zType>
+		<French>Lethal Affliction</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_HONORARY_COUNSEL_TITLE</zType>
+		<French>{CHARACTER-SHORT-2}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_PLOTTING_HEIR_TITLE</zType>
+		<French>Show Respect</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_DEADLY_INHERITANCE_TITLE</zType>
+		<French>Deadly Inheritance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WRITING_ON_THE_WALL_TITLE</zType>
+		<French>Writing on the Wall</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_FIGHTING_CLASS_TITLE</zType>
+		<French>The Fighting Class</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_IMMUNITY_TITLE</zType>
+		<French>Immunity</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_FINAL_MESSAGE_TITLE</zType>
+		<French>The Final Message</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_SECRET_OF_THE_FOOL_TITLE</zType>
+		<French>Secret of the Fool</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTACT_THE_RISE_OF_PIEFACE_TITLE</zType>
+		<French>The Rise of Pieface</French>
+	</Entry>
+	<Entry beginGroup="Diplomacy">
+		<zType>TEXT_EVENTSTORY_HOSTILE_NEIGHBORS_TITLE</zType>
+		<French><![CDATA[Hostile Neighbors]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_LUMBER_TRADE_TITLE</zType>
+		<French><![CDATA[Lumber Trade]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_ACQUIRED_TASTE_TITLE</zType>
+		<French><![CDATA[Acquired Taste]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_ALLIANCE_OFFER_TITLE</zType>
+		<French>Barbarian Alliance Offer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_ALLIANCE_TITLE</zType>
+		<French>Barbarian Alliance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_PEACE_OFFER_TITLE</zType>
+		<French>Barbarian Peace Offer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_TRUCE_OFFER_TITLE</zType>
+		<French>Barbarian Truce Offer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR_TITLE</zType>
+		<French>Barbarian Threat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WARLIKE_PRINCESS_TITLE</zType>
+		<French><![CDATA[Warlike <masculine_CHARACTER-0>Prince<feminine>Princess<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_ENVOY_TITLE</zType>
+		<French>Barbarian Envoy</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FLORID_DIPLOMAT_TITLE</zType>
+		<French>Florid Diplomat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DISCERNING_JUDGMENT_TITLE</zType>
+		<French>Discerning Judgment</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAR_PREPARATIONS_TITLE</zType>
+		<French>War Preparations</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_MATCH_TITLE</zType>
+		<French>An Unlikely Match</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_MATCH_DELAY_TITLE</zType>
+		<French>A Promise of a Match</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_MATCH_FAVORABLE_TITLE</zType>
+		<French>A Favorable Outcome</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_MATCH_SUBMISSION_TITLE</zType>
+		<French>Neither, Nor</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_INVASION_TITLE</zType>
+		<French>Barbarian Invasion Threat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBAL_MIGRATION_TITLE</zType>
+		<French>Tribal Migration</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRAVE_OFFENSE_TITLE</zType>
+		<French>Grave Offense</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOSTILE_GARRISON_TITLE</zType>
+		<French>Hostile Garrison</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOSTILE_GARRISON_EXPEL_TITLE</zType>
+		<French>Expelling the Garrison</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCALES_OF_TRIBUTE_TITLE</zType>
+		<French>Scales of Tribute</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DESPERATE_MESSENGER_TITLE</zType>
+		<French>Messager Désespéré</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_TRIBUTE_TITLE</zType>
+		<French>Barbarian Tribute</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SECURING_PEACE_TITLE</zType>
+		<French>Securing Peace</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SECURING_PEACE_FURIOUS_EMISSARY_TITLE</zType>
+		<French>Furious Emissary</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SECURING_PEACE_RETURNING_EMISSARY_THANKS_TITLE</zType>
+		<French>Returning Emissary</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SECURING_PEACE_RETURNING_EMISSARY_MISUNDERSTANDING_TITLE</zType>
+		<French>Returning Emissary</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_TITLE</zType>
+		<French>Player Peace</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_BUILDING_TRUST_TITLE</zType>
+		<French>Building Trust</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PAUSE_IN_HOSTILITIES_TITLE</zType>
+		<French>Pause in Hostilities</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_TITLE</zType>
+		<French>Assassination of Monarch</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_STALL_TITLE</zType>
+		<French>Assassination of Monarch</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_ACCEPT_TITLE</zType>
+		<French>Assassination of Monarch</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_STALL_AGAIN_TITLE</zType>
+		<French>Assassination of Monarch</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_HOLE_TITLE</zType>
+		<French>Assassination of Monarch</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_SUCCESS_TITLE</zType>
+		<French>Assassination of Monarch</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ALLIANCE_PROPOSAL_TITLE</zType>
+		<French>Alliance Proposal</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PEACE_PROPOSAL_TITLE</zType>
+		<French>Peace Proposal</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRUCE_PROPOSAL_TITLE</zType>
+		<French>Truce Proposal</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CITY_CAPTURED_TRUCE_TITLE</zType>
+		<French><![CDATA[City Captured]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BOASTFUL_HEIR_TITLE</zType>
+		<French><![CDATA[Boastful Heir]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SEEKING_KNOWLEDGE_TITLE</zType>
+		<French><![CDATA[Seeking Knowledge]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WALLS_TITLE</zType>
+		<French><![CDATA[Walls]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AN_UPGRADE_TITLE</zType>
+		<French><![CDATA[An Upgrade]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CITIZENSHIP_TITLE</zType>
+		<French><![CDATA[Citizenship]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_FRIEND_IN_NEED_TITLE</zType>
+		<French><![CDATA[A Friend In Need]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ROAD_TO_HEAVEN_TITLE</zType>
+		<French><![CDATA[Road to Heaven]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_TINY_FAVOR_TITLE</zType>
+		<French><![CDATA[A Tiny Favor]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MARTIAL_CODE_TITLE</zType>
+		<French><![CDATA[Martial Code]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TIT_FOR_TAT_TITLE</zType>
+		<French><![CDATA[Tit for Tat]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WINDMILLS_AND_CATAPULTS_TITLE</zType>
+		<French><![CDATA[Windmills and Catapults]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RETURNING_A_FAVOR_TITLE</zType>
+		<French><![CDATA[Returning a Favor]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_SOLID_FOUNDATION_TITLE</zType>
+		<French><![CDATA[Solid Foundation]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_DISTANT_EMPIRE_THREATENS_TITLE</zType>
+		<French><![CDATA[Distant Empire Threatens]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AT_PEACE_HUNTING_GROUNDS_DISPUTE_TITLE</zType>
+		<French><![CDATA[Hunting Grounds Dispute]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_AT_PEACE_PROBLEM_TITLE</zType>
+		<French>{PLAYER-0,2} Raiders</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_AT_PEACE_INCIDENT_TITLE</zType>
+		<French>Foreign Offenses</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_AT_TRUCE_PROBLEM_TITLE</zType>
+		<French>Rabble Rousers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_AT_TRUCE_INCIDENT_TITLE</zType>
+		<French>Diplomatic Scandal</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_TITLE</zType>
+		<French><![CDATA[Agitated Nation]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRADE_MISSION_TITLE</zType>
+		<French>Trade Mission</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRADE_OFFER_TITLE</zType>
+		<French>Trade Offer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CANCEL_TRADE_DEMAND_TITLE</zType>
+		<French>Cancel Trade</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DECLARE_WAR_DEMAND_TITLE</zType>
+		<French>War Demand</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DECLARE_WAR_DEMAND_BARBARIAN_TITLE</zType>
+		<French>War Demand</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_TITLE</zType>
+		<French><![CDATA[Grievances]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_DELAY_TITLE</zType>
+		<French><![CDATA[No More Delays]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_UPSET_TITLE</zType>
+		<French><![CDATA[Crimes in {PLAYER-0}]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_PLEASED_TITLE</zType>
+		<French><![CDATA[Avoiding Tensions]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_TITLE</zType>
+		<French><![CDATA[Talk of War]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_GIFT_TITLE</zType>
+		<French><![CDATA[Raising the Stakes]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_TRADE_TITLE</zType>
+		<French><![CDATA[Making Connections]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_PREPARE_TITLE</zType>
+		<French><![CDATA[Shadow of War]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_LEADER4_TITLE</zType>
+		<French><![CDATA[War on the Horizon]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_UPSET_TITLE</zType>
+		<French><![CDATA[Wealth or War?]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AMBITION_CAPTURE_PLAYER_CITIES_TITLE</zType>
+		<French>Drums of War</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR_OR_INVASION_TITLE</zType>
+		<French>The Coming Tide</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CHOOSE_WAR_TITLE</zType>
+		<French>Choosing Sides</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR_STRONGER_TITLE</zType>
+		<French>On the March</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_INVASION_DISTANT_TITLE</zType>
+		<French>Distant Threats</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR_AMBITION_TITLE</zType>
+		<French>A Strong Message</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_PLEASED_TITLE</zType>
+		<French><![CDATA[Food for Peace]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_TITLE</zType>
+		<French><![CDATA[Repairing Ties]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_LEADER4_TITLE</zType>
+		<French><![CDATA[Still Time]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_LEADER4_WAR_TITLE</zType>
+		<French><![CDATA[Proof]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_LEADER4_INTIMIDATED_TITLE</zType>
+		<French><![CDATA[A Peaceful Plea]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_COMMANDER_ARCHETYPE_ANGRY_TITLE</zType>
+		<French><![CDATA[Anger Erupts]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_COMMANDER_ARCHETYPE_ANGRY_LEADER4_TITLE</zType>
+		<French><![CDATA[Rally the Nation]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_LUXURY_TITLE</zType>
+		<French><![CDATA[Gifts by Swordpoint]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ARCHETYPE_ANGRY_TITLE</zType>
+		<French><![CDATA[Making Amends]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ARCHETYPE_UPSET_TITLE</zType>
+		<French><![CDATA[An Opening]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_ZEALOT_CAUTIOUS_OR_BETTER_TITLE</zType>
+		<French>Divine Mission</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_HERO_ARCHETYPE_ANGRY_TITLE</zType>
+		<French>A Hero Rises</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHEMER_ARCHETYPE_ANGRY_TITLE</zType>
+		<French>War of Schemes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHEMER_ARCHETYPE_PLEASED_TITLE</zType>
+		<French>Misidrection</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_DECLARE_TITLE</zType>
+		<French>Declaration of link(DIPLOMACY_WAR)</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_END_TITLE</zType>
+		<French>Our link(DIPLOMACY_PEACE) is Over</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_DIPLO_MARRIAGE_TITLE</zType>
+		<French>Diplomatic Match</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAR_OFFER_RELIGION_STATE_TITLE</zType>
+		<French>Immortal Peril</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAR_OFFER_STRONGER_TITLE</zType>
+		<French>[STUB: WAR DEMAND BY STRONGER CIV]</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAR_OFFER_MUCH_STRONGER_TITLE</zType>
+		<French>[STUB: WAR DEMAND BY MUCH STRONGER CIV]</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_RELIGION_SPREAD_TITLE</zType>
+		<French>Funds for the Faith</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_TITLE</zType>
+		<French>A Humble Request</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_FAMILY_RELIGION_WAR_TITLE</zType>
+		<French>Wrath of the {FAMILY-2,1}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_FAMILY_LAW_WAR_TITLE</zType>
+		<French>Unlawful</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WORLD_TOUR_TITLE</zType>
+		<French>World Tour</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OOPS_TITLE</zType>
+		<French>Oops!</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DINNER_WITH_A_RIVAL_TITLE</zType>
+		<French>Dinner with a Rival</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DINNER_WITH_RIVALS_TITLE</zType>
+		<French>Dinner with Rivals</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BETWEEN_US_TITLE</zType>
+		<French>Between Us</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TOKEN_OF_GOODWILL_TITLE</zType>
+		<French>Token of Goodwill</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXCHANGE_OF_IDEAS_TITLE</zType>
+		<French>Exchange of Ideas</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BATTERED_TITLE</zType>
+		<French>Battered</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SHARING_THE_LOOT_TITLE</zType>
+		<French>Sharing the Loot</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNDER_NATION_TITLE</zType>
+		<French>Under {PLAYER-1}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUSPECTED_SPY_TITLE</zType>
+		<French>Suspected Spy</French>
+	</Entry>
+	<Entry beginGroup="Combat">
+		<zType>TEXT_EVENTSTORY_LEADER_SMITING_FOES_TITLE</zType>
+		<French>Smiting Foes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_BATTLEFIELD_BRILLIANCE_TITLE</zType>
+		<French>Battlefield Brilliance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ORDER_OF_BUSINESS_TITLE</zType>
+		<French><![CDATA[Order of Business]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_WAR_BLUNDERS_TITLE</zType>
+		<French>War Blunders</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ABANDONED_SUPPLIES_TITLE</zType>
+		<French>Abandoned Supplies</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CAPTURED_PRISONERS_TITLE</zType>
+		<French>Captured Prisoners</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INACCURATE_TROOPS_TITLE</zType>
+		<French>Inaccurate Troops</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BATTLEFIELD_PROMOTION_TITLE</zType>
+		<French><![CDATA[Battlefield Promotion]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HONOR_AND_GLORY_TITLE</zType>
+		<French><![CDATA[Honor and Glory]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_PEOPLES_GENERAL_TITLE</zType>
+		<French>The People's General</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CAPTURED_GENERAL_TITLE</zType>
+		<French>Captured General</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FACIAL_WOUND_TITLE</zType>
+		<French>Facial Wound</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SHATTERED_KNEE_TITLE</zType>
+		<French>Shattered Knee</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOST_SIGHT_TITLE</zType>
+		<French>Lost Sight</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_WEAPONS_OF_WAR_TITLE</zType>
+		<French><![CDATA[Weapons of War]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_SECRET_ALLIANCES_TITLE</zType>
+		<French><![CDATA[Secret Alliances]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_YOUNG_HOSTAGE_TITLE</zType>
+		<French><![CDATA[Young Hostage]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_WITCH_QUEEN_TITLE</zType>
+		<French><![CDATA[Witch Queen]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_TEACHING_THE_ENEMY_TITLE</zType>
+		<French><![CDATA[Teaching the Enemy]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_HOMELAND_BURNING_TITLE</zType>
+		<French><![CDATA[{CITY-0} Burning]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_LIBERATED_TITLE</zType>
+		<French><![CDATA[Liberated]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_EXOTIC_INFLUENCE_TITLE</zType>
+		<French><![CDATA[Exotic Influence]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_KINGS_RANSOM_TITLE</zType>
+		<French><![CDATA[A King's Ransom]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STRANGE_ENCOUNTER_TITLE</zType>
+		<French><![CDATA[Strange Encounter]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STRANGE_ENCOUNTER_CURIOUS_ARTIFACT_TITLE</zType>
+		<French><![CDATA[Curious Artifact]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PRISONERS_OF_WAR_TITLE</zType>
+		<French><![CDATA[Prisoners of War]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_TOMBS_TITLE</zType>
+		<French><![CDATA[Burial Mounds]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_CULT_OF_FLAME_TITLE</zType>
+		<French><![CDATA[Cult of Flame]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_PRINCE_TITLE</zType>
+		<French><![CDATA[Barbarian Prince]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_TRIBAL_CONFEDERATION_TITLE</zType>
+		<French><![CDATA[Tribal Confederation]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_RIVALS_TITLE</zType>
+		<French><![CDATA[Barbarian Rivals]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SAVAGE_PLAGUE_TITLE</zType>
+		<French><![CDATA[Savage Plague]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_REBEL_GLADIATORS_TITLE</zType>
+		<French>Rebel Gladiators</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BARBARIAN_HORSE_LORDS_TITLE</zType>
+		<French><![CDATA[Horse Lords]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HONOR_AND_FIDELITY_TITLE</zType>
+		<French><![CDATA[Honor and Fidelity]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CITY_GLADIATOR_ARMY_TITLE</zType>
+		<French>Gladiator Army</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOVE_AND_WAR_TITLE</zType>
+		<French>Love or War</French>
+	</Entry>
+	<Entry beginGroup="Marriage">
+		<zType>TEXT_EVENTSTORY_MARRIAGE_OFFER_TITLE</zType>
+		<French>Marriage Offer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MISSION_MARRIAGE_FAMILY_TITLE</zType>
+		<French>Family Marriage Offer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MATCHMAKER_0_TITLE</zType>
+		<French>Matchmaker</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MATCHMAKER_1_TITLE</zType>
+		<French>Matchmaker </French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MATCHMAKER_2_TITLE</zType>
+		<French>Matchmaker</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MARRIAGE_PROPOSAL_TITLE</zType>
+		<French>Marriage Proposal</French>
+	</Entry>
+	<Entry beginGroup="Character">
+		<zType>TEXT_EVENTSTORY_DELICIOUS_DRINKS_TITLE</zType>
+		<French>Delicious Drinks</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUDDEN_INSIGHT_TITLE</zType>
+		<French>Sudden Insight</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TIME_FOR_A_BREAK_TITLE</zType>
+		<French>Time for a Break</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPARE_TIME_TITLE</zType>
+		<French>Spare Time</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EPIC_POETRY_TITLE</zType>
+		<French>Epic Poetry</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOOKING_OUTWARD_TITLE</zType>
+		<French>Looking Outward</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_LOST_RELATIVE_TITLE</zType>
+		<French><![CDATA[Lost Relative]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_PRIVATE_AUDIENCE_TITLE</zType>
+		<French><![CDATA[A Private Audience]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DEMAND_FOR_JUSTICE_TITLE</zType>
+		<French><![CDATA[Demand for Justice]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_INVESTIGATION_COMPLETE_TITLE</zType>
+		<French><![CDATA[Investigation Complete]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_PEACEMAKER_TITLE</zType>
+		<French><![CDATA[Peace Broker]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_COURTLY_DRAMA_TITLE</zType>
+		<French><![CDATA[Courtly Drama]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_RISKY_EXPEDITION_TITLE</zType>
+		<French><![CDATA[Risky Expedition]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_SIMPLE_GIFTS_TITLE</zType>
+		<French><![CDATA[Simple Gifts]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_TAX_HIKE_TITLE</zType>
+		<French><![CDATA[Tax Hike]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_FORBIDDEN_KNOWLEDGE_TITLE</zType>
+		<French><![CDATA[Forbidden Knowledge]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_KIDNAPPED_CONSORT_TITLE</zType>
+		<French><![CDATA[Kidnapped Consort]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_AMITY_OR_TREASON_TITLE</zType>
+		<French><![CDATA[Amity or Treason?]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_THE_MORNING_AFTER_TITLE</zType>
+		<French><![CDATA[The Morning After]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_TEDIUM_ON_THE_THRONE_TITLE</zType>
+		<French><![CDATA[Tedium on the Throne]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_THE_WILD_HUNT_TITLE</zType>
+		<French><![CDATA[The Wild Hunt]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREIGN_SCHOLAR_TITLE</zType>
+		<French>Foreign Scholar</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_FAMILY_WARNING_TITLE</zType>
+		<French><![CDATA[A Family Warning]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_JOB_OPENING_TITLE</zType>
+		<French><![CDATA[Job Opening]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_FAMILY_COUNCIL_TITLE</zType>
+		<French><![CDATA[Family Council]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_AN_EXODUS_TITLE</zType>
+		<French><![CDATA[An Exodus]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_BITTER_ALLIANCE_TITLE</zType>
+		<French><![CDATA[A Bitter Alliance]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_MILITARY_MIND_TITLE</zType>
+		<French><![CDATA[Military Mind]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_MAN_OF_PEACE_TITLE</zType>
+		<French><![CDATA[A Man of Peace]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DAUGHTERS_DREAM_TITLE</zType>
+		<French><![CDATA[Daughter's Dream]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_TOO_MUCH_OF_A_GOOD_THING_TITLE</zType>
+		<French><![CDATA[Too Much of a Good Thing]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_BURNED_LIBRARY_TITLE</zType>
+		<French><![CDATA[Burned Library]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_SAFE_PASSAGE_TITLE</zType>
+		<French><![CDATA[Safe Passage]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_HORSEBACK_RIDING_TITLE</zType>
+		<French>Horseback Riding</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_PERSUASION_TITLE</zType>
+		<French>Persuasion</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_CREATIVE_PURSUITS_TITLE</zType>
+		<French>Creative Pursuits</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_SPONSOR_A_LABORATORY_TITLE</zType>
+		<French>Sponsor a Laboratory</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_TILL_THE_EARTH_TITLE</zType>
+		<French>Till the Earth</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_LEGAL_INSTRUCTION_TITLE</zType>
+		<French>Legal Instruction</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_COMBAT_TRAINING_TITLE</zType>
+		<French>Combat Training</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_MONASTIC_LIVING_TITLE</zType>
+		<French>Monastic Living</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_DEEPER_MEANING_TITLE</zType>
+		<French>Deeper Meaning</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUMOR_HAS_IT_TITLE</zType>
+		<French>Rumor Has It</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ENCHANTING_CONVERSATION_TITLE</zType>
+		<French><![CDATA[Enchanting Conversation]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FRUITFUL_AFFAIR_TITLE</zType>
+		<French><![CDATA[Fruitful Affair]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EMPTY_BED_TITLE</zType>
+		<French><![CDATA[Empty Bed]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REVEALED_AFFAIR_TITLE</zType>
+		<French><![CDATA[Revealed Affair]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INDIFFERENT_QUEEN_TITLE</zType>
+		<French><![CDATA[Indifferent Queen]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_OF_PASSION_TITLE</zType>
+		<French><![CDATA[Child of Passion]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DISTRACTING_CHILD_TITLE</zType>
+		<French>Distracting Child</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OUTDOOR_PASTIME_TITLE</zType>
+		<French>Outdoor Pastime</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RESTLESS_HANDS_TITLE</zType>
+		<French>Restless Hands</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_DARK_OMENS_TITLE</zType>
+		<French>Dark Omens</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_ROYAL_BIRTH_TITLE</zType>
+		<French>Royal Birth</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_NEW_THOUGHTS_TITLE</zType>
+		<French>New Thoughts</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_EDUCATION_TITLE</zType>
+		<French>Heir Education</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_TITLE</zType>
+		<French>Bullying Heir</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_TITLE</zType>
+		<French>Escalated Feud</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_SUCCEEDED_TITLE</zType>
+		<French>Successful Assassination</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_DISCOVERED_TITLE</zType>
+		<French>Successful Assassination</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_FAILED_TITLE</zType>
+		<French>Failed Assassination</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BULLYING_HEIR_ESCALATION_CALLED_OFF_TITLE</zType>
+		<French>Assassins Called Off</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_BRUTAL_HEIR_TITLE</zType>
+		<French><![CDATA[Brutal Heir]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_HOLY_WAR_TITLE</zType>
+		<French><![CDATA[Holy War]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_COMING_OF_AGE_TITLE</zType>
+		<French>Coming of Age</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PREPARE_YOUR_HEIR_TITLE</zType>
+		<French>Prepare your Heir</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_JOYOUS_WEDDING_TITLE</zType>
+		<French>Joyous Wedding</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_WEDDING_FAUX_PAS_TITLE</zType>
+		<French>Wedding Faux Pas</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_CRUSHING_BLOW_TITLE</zType>
+		<French>Crushing Blow</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_BUDDING_ARCHER_TITLE</zType>
+		<French>Budding Archer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SLAIN_CHAMPION_TITLE</zType>
+		<French>Brave Deeds</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AXES_HIGH_TITLE</zType>
+		<French>Axes High</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_CRISIS_TITLE</zType>
+		<French>Heir Crisis</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_CRISIS_SAFE_TITLE</zType>
+		<French>Perfect Crime</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_CRISIS_CAUGHT_TITLE</zType>
+		<French>Murder Discovered</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_OF_CORRUPTION_TITLE</zType>
+		<French><![CDATA[Heir of Corruption]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_OUR_CONSERVATIVE_ELDERS_TITLE</zType>
+		<French><![CDATA[Our Conservative Elders]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_ADOPTION_TITLE</zType>
+		<French>Family Adoption</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_POTENTIAL_HEIR_TITLE</zType>
+		<French>Potential Heir</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEGITIMIZE_HEIR_TITLE</zType>
+		<French>Legitimize Heir</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DWINDLING_LINE_TITLE</zType>
+		<French>Dwindling Line</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DANGEROUS_HEIRS_TITLE</zType>
+		<French>Dangerous Heirs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DANGEROUS_HEIRS_DEATH_TITLE</zType>
+		<French>Deadly Heirs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_SELF_REFLECTION_TITLE</zType>
+		<French>Self-Reflection</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_NEW_LEAF_TITLE</zType>
+		<French>New Leaf</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_CHANCE_FOR_PEACE_TITLE</zType>
+		<French>Chance for Peace</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_SNAKE_SIGNS_TITLE</zType>
+		<French>Snake Signs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_CORONATION_FESTIVAL_TITLE</zType>
+		<French>Coronation Festival</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_PATRIOTIC_FERVOR_TITLE</zType>
+		<French>Patriotic Fervor</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_FAMILY_DELEGATION_TITLE</zType>
+		<French>Foreign Delegation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUCCESSION_TAKING_THE_CROWN_TITLE</zType>
+		<French>Taking the Crown</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MASTER_OF_WHISPERS_TITLE</zType>
+		<French>Master of Whispers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPYMASTER_MASTER_OF_POISONS_TITLE</zType>
+		<French><![CDATA[Master of Poisons]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_BETRAYAL_TITLE</zType>
+		<French>Assassination Betrayal</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_REVENGE_TITLE</zType>
+		<French>Assassination Revenge</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASSASSINATION_RUMORS_TITLE</zType>
+		<French>Assassination Rumors</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_PARTISANS_TITLE</zType>
+		<French>Family Partisans</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SABOTAGE_TITLE</zType>
+		<French>Sabotage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_LAND_TITLE</zType>
+		<French>Land Dispute</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_HONOR_GUARD_TITLE</zType>
+		<French>Honor Guard</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_RUMORS_TITLE</zType>
+		<French>Vicious Rumors</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SQUABBLE_INVITATIONS_TITLE</zType>
+		<French>Dual Invitations</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_TITLE</zType>
+		<French>Family Quarrel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_PURSUE_TITLE</zType>
+		<French>Family Quarrel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_HORSE_TITLE</zType>
+		<French>Family Quarrel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_SIEGE_TITLE</zType>
+		<French>Family Quarrel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_FATIGUED_TITLE</zType>
+		<French>Family Quarrel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_QUARREL_ATTACK_TITLE</zType>
+		<French>Family Quarrel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ACROPOLIS_GUARD_TITLE</zType>
+		<French>Acropolis Guard</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_GAMES_TITLE</zType>
+		<French>Family Games</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_START_LAW_TITLE</zType>
+		<French>Change Law</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ESTABLISH_THEOLOGY_TITLE</zType>
+		<French>Establish Theology</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOMELESS_CHILDREN_TITLE</zType>
+		<French>Homeless Children </French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DECADENCE_TITLE</zType>
+		<French><![CDATA[Decadence]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STRICTER_RULES_TITLE</zType>
+		<French>Stricter Rules</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RAMPANT_CORRUPTION_TITLE</zType>
+		<French>Rampant Corruption</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RADICAL_PHILOSOPHER_TITLE</zType>
+		<French>Radical Philosopher</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONTEST_OF_RHETORIC_TITLE</zType>
+		<French>Contest of Rhetoric</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EAGER_EXPLORERS_TITLE</zType>
+		<French>Eager Explorers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_IMPROPER_VASSAL_TITLE</zType>
+		<French>Improper Vassal</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEATED_RIVALRY_TITLE</zType>
+		<French>Heated Rivalry</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAVORED_VASSAL_TITLE</zType>
+		<French>Favorite Vassal</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAVORED_VASSAL_FEAST_TITLE</zType>
+		<French>Vassal Feast</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAVORED_VASSAL_CEREMONY_TITLE</zType>
+		<French>Vassal Ceremony</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INQUIRING_MINDS_TITLE</zType>
+		<French>Inquiring Minds</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INQUIRING_MINDS_SUCCESS_TITLE</zType>
+		<French>Inquiring Minds</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GREAT_PERSON_A1_TITLE</zType>
+		<French>Great Achievers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GREAT_PERSON_A2_TITLE</zType>
+		<French>Brilliant Achievers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GREAT_PERSON_B1_TITLE</zType>
+		<French>Great Thinkers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GREAT_PERSON_B2_TITLE</zType>
+		<French>Brilliant Thinkers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_WISDOM_LITERATURE_TITLE</zType>
+		<French>Wisdom Literature</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_A_PROMOTION_TITLE</zType>
+		<French><![CDATA[A Promotion]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_DIPLOMATIC_MISSION_TITLE</zType>
+		<French><![CDATA[Diplomatic Mission]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_RIFT_IN_THE_COURT_TITLE</zType>
+		<French><![CDATA[Rift in the Court]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_ANNEXATION_TITLE</zType>
+		<French><![CDATA[Annexation]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_POISON_ON_THE_TREE_TITLE</zType>
+		<French><![CDATA[Poison on the Tree]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_A_GRUESOME_EXAMPLE_TITLE</zType>
+		<French><![CDATA[A Gruesome Example]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_FOREIGN_FIGHTERS_TITLE</zType>
+		<French><![CDATA[Foreign Fighters]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_OFFENSIVE_BEHAVIOR_TITLE</zType>
+		<French><![CDATA[Offensive Behavior]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_THE_UNIVERSAL_ORDER_TITLE</zType>
+		<French><![CDATA[The Universal Order]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_FARMING_BY_STAR_TITLE</zType>
+		<French><![CDATA[Farming by Star]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_THE_MECHANISM_TITLE</zType>
+		<French><![CDATA[The Mechanism]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_TABOOS_TITLE</zType>
+		<French><![CDATA[Taboos]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_SCIENCE_OR_MAGIC_TITLE</zType>
+		<French><![CDATA[Science or Magic?]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_UNETHICAL_PRACTICES_TITLE</zType>
+		<French><![CDATA[Unethical Practices]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_LIFESTYLES_OF_THE_RICH_TITLE</zType>
+		<French><![CDATA[Lifestyles of the Rich]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_LEFT_BEHIND_TITLE</zType>
+		<French><![CDATA[Left Behind]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_MERCHANT_TOWN_TITLE</zType>
+		<French>Merchant Town</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GP_STICKY_FINGERS_TITLE</zType>
+		<French><![CDATA[Sticky Fingers]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_A_LONG_FALL_TITLE</zType>
+		<French><![CDATA[A Long Fall]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_TRAMPLED_TITLE</zType>
+		<French><![CDATA[Trampled]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_STRICKEN_DOWN_TITLE</zType>
+		<French><![CDATA[Stricken Down]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_VANISHED_TITLE</zType>
+		<French><![CDATA[Vanished]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_DARK_WATERS_TITLE</zType>
+		<French><![CDATA[Dark Waters]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_DEADLY_DRINK_TITLE</zType>
+		<French><![CDATA[Deadly Drink]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_BRAWL_TITLE</zType>
+		<French><![CDATA[Brawl]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_THE_PRICE_OF_POWER_TITLE</zType>
+		<French><![CDATA[The Price of Power]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEATH_ACT_OF_MALICE_TITLE</zType>
+		<French><![CDATA[Act of Malice]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_NO_SIGNS_OF_LIFE_TITLE</zType>
+		<French><![CDATA[No Signs of Life]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_MYSTERIOUS_INFANT_TITLE</zType>
+		<French><![CDATA[Mysterious Infant]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_FRAGILE_TITLE</zType>
+		<French><![CDATA[Fragile]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_NATAL_ASTROLOGER_TITLE</zType>
+		<French><![CDATA[Natal Astrologer]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_JOY_AND_PAIN_TITLE</zType>
+		<French><![CDATA[Joy and Pain]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_THE_CALLING_TITLE</zType>
+		<French><![CDATA[The Calling]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_KILLED_IN_ACTION_TITLE</zType>
+		<French><![CDATA[Killed in Action]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_ENLISTMENT_TITLE</zType>
+		<French><![CDATA[Enlistment]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_COMMON_LOVE_TITLE</zType>
+		<French><![CDATA[Common Love]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_STRONG_OPINIONS_TITLE</zType>
+		<French><![CDATA[Strong Opinions]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_BIG_QUESTIONS_TITLE</zType>
+		<French>Big Questions</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_PETTY_CRIMES_TITLE</zType>
+		<French><![CDATA[Petty Crimes]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_THE_PUPPIES_TITLE</zType>
+		<French><![CDATA[The Puppies]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_AFFAIRS_OF_THE_CITY_TITLE</zType>
+		<French><![CDATA[Affairs of the People]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_WISE_INVESTMENTS_TITLE</zType>
+		<French><![CDATA[Wise Investments]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_WITH_CHILD_M_TITLE</zType>
+		<French><![CDATA[Paternity]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_WITH_CHILD_F_TITLE</zType>
+		<French><![CDATA[With Child]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_THE_BIRTHDAY_GIFT_TITLE</zType>
+		<French><![CDATA[The Birthday Gift]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_FALSE_ACCUSATION_TITLE</zType>
+		<French><![CDATA[False Accusation]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_SEE_THE_WORLD_TITLE</zType>
+		<French><![CDATA[See the World]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_FEATS_OF_VALOR_TITLE</zType>
+		<French><![CDATA[Feats of Valor]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_THE_BAD_SEED_TITLE</zType>
+		<French><![CDATA[The Bad Seed]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_ELOPED_TITLE</zType>
+		<French><![CDATA[Eloped!]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_A_QUESTION_OF_SUCCESSION_TITLE</zType>
+		<French><![CDATA[A Question of Succession]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DOWNWARD_SPIRAL_TITLE</zType>
+		<French><![CDATA[Downward Spiral]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_OPPORTUNISTS_TITLE</zType>
+		<French><![CDATA[Opportunists]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_THE_RETURN_TITLE</zType>
+		<French><![CDATA[The Return]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_HARSH_WORDS_TITLE</zType>
+		<French><![CDATA[Harsh Words]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_REVENANTS_TITLE</zType>
+		<French><![CDATA[Revenants]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_WISDOM_WITH_AGE_TITLE</zType>
+		<French>Wisdom with Age</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_BLOODLESS_REBELLION_TITLE</zType>
+		<French><![CDATA[Bloodless Rebellion]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_LEGACY_OF_GOLD_TITLE</zType>
+		<French><![CDATA[Legacy of Gold]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_TWILIGHT_YEARS_TITLE</zType>
+		<French><![CDATA[Twilight Years]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_THE_HEIRS_CUP_TITLE</zType>
+		<French><![CDATA[The Heir's Cup]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_THE_HEIRS_CUP_POISONED_TITLE</zType>
+		<French><![CDATA[Poisoned!]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_FINAL_CAMPAIGN_TITLE</zType>
+		<French><![CDATA[The Final Campaign]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_BIOGRAPHY_TITLE</zType>
+		<French><![CDATA[Biography]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_NO_SMALL_FAVOR_TITLE</zType>
+		<French><![CDATA[No Small Favor]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_PROBLEM_CHILD_TITLE</zType>
+		<French><![CDATA[Problem Child]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_DEATH_IN_THE_FAMILY_TITLE</zType>
+		<French><![CDATA[Death in the Family]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_SPARK_TITLE</zType>
+		<French><![CDATA[A Spark]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SOMETHING_REAL_TITLE</zType>
+		<French><![CDATA[Something Real]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_LOVE_TRIANGLE_TITLE</zType>
+		<French><![CDATA[Love Triangle]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATED_RIVAL_MENTOR_TITLE</zType>
+		<French><![CDATA[Rival Mentor]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_TIME_FOR_REJOICING_TITLE</zType>
+		<French>Time to Rejoice</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATED_CHILD_RETURNS_TITLE</zType>
+		<French>{CHARACTER-SHORT-0} Returns</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATE_AIR_OF_CERTAINTY_TITLE</zType>
+		<French>Family or Loyalty?</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_NOT_WITHOUT_RISK_TITLE</zType>
+		<French>Training Accident</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_EXCELLENT_STUDENT_TITLE</zType>
+		<French>Excellent Student</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_WILDERNESS_SURVIVAL_TITLE</zType>
+		<French>Wilderness Survival</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_MASTER_ORATION_TITLE</zType>
+		<French>Master Oration</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_DISCIPLINARY_ACTION_TITLE</zType>
+		<French><![CDATA[Disciplinary Action]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_GOLDEN_VOICE_TITLE</zType>
+		<French>Golden Voice</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_SPENDTHRIFT_TITLE</zType>
+		<French>Spendthrift</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_THE_MISEDUCATION_OF_TITLE</zType>
+		<French>Miseducation of {CHARACTER-SHORT-0}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_KINDRED_SPIRITS_TITLE</zType>
+		<French><![CDATA[Kindred Spirits]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATE_TAKING_THE_MANTLE_TITLE</zType>
+		<French><![CDATA[Taking the Mantle]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATE_A_RAISED_VOICE_TITLE</zType>
+		<French><![CDATA[A Raised Voice]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DEAR_PARENT_TITLE</zType>
+		<French><![CDATA[Dear <masculine_CHARACTER-1>Father<feminine>Mother<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHANGE_STUDIES_TITLE</zType>
+		<French><![CDATA[Change of Studies]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_REMARKABLE_YOUTH_TITLE</zType>
+		<French><![CDATA[A Remarkable Youth]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CAUSE_FOR_WORRY_TITLE</zType>
+		<French><![CDATA[Cause for Worry]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOVE_BIRDS_RUMORS_TITLE</zType>
+		<French><![CDATA[Love Birds Rumors]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INFIDELITY_TITLE</zType>
+		<French><![CDATA[Infidelity]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLEA_FOR_MERCY_TITLE</zType>
+		<French><![CDATA[Plea for Mercy]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GOWNS_OF_SILK_TITLE</zType>
+		<French>Gowns of Silk</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_FIRST_TITLE</zType>
+		<French><![CDATA[Family First]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WORD_OF_A_COUP_TITLE</zType>
+		<French><![CDATA[Word of a Coup]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WORD_OF_A_COUP_PLOTS_AND_BETRAYALS_TITLE</zType>
+		<French><![CDATA[Plots and Betrayals]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WORD_OF_A_COUP_THE_COUP_SUCCEEDS_TITLE</zType>
+		<French><![CDATA[The Coup Succeeds]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNHAPPY_SIBLING_TITLE</zType>
+		<French><![CDATA[Unhappy Sibling]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DATE_NIGHT_TITLE</zType>
+		<French><![CDATA[Romantic Evening]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DOMESTIC_DISPUTE_TITLE</zType>
+		<French><![CDATA[Domestic Dispute]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SIGNS_OF_LUNACY_TITLE</zType>
+		<French><![CDATA[Signs of Lunacy]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WORRISOME_MATCH_TITLE</zType>
+		<French><![CDATA[Worrisome Match]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_IMPUDENT_MATCH_TITLE</zType>
+		<French><![CDATA[Impudent Match]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_LITTLE_PUSHBACK_TITLE</zType>
+		<French><![CDATA[A Little Pushback]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VERY_CHARMING_TITLE</zType>
+		<French><![CDATA[Very Charming]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOVE_AFFAIR_TITLE</zType>
+		<French><![CDATA[Love Affair]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_FRIENDLY_VISIT_TITLE</zType>
+		<French>Friendly Visit</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATE_A_FAMILIAR_FACE_TITLE</zType>
+		<French>A Familiar Face</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATE_THE_RETURN_OF_CHARACTER_TITLE</zType>
+		<French>The Return of {CHARACTER-0}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_SCOUNDREL_TITLE</zType>
+		<French><![CDATA[A Scoundrel]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_A_CITY_CELEBRATES_TITLE</zType>
+		<French>A City Celebrates</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_HOMECOMING_TITLE</zType>
+		<French>Homecoming</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHANGE_OF_HEART_TITLE</zType>
+		<French><![CDATA[Change of Heart]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_FRUSTRATING_OUTCOME_TITLE</zType>
+		<French><![CDATA[A Frustrating Outcome]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DISMISSAL_TITLE</zType>
+		<French>Source of Power</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_SPECIAL_RECOGNITION_01_TITLE</zType>
+		<French><![CDATA[Special Recognition]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_SPECIAL_RECOGNITION_02_TITLE</zType>
+		<French><![CDATA[Archon Rising]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_SPECIAL_RECOGNITION_03_TITLE</zType>
+		<French><![CDATA[The Bloody Court]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_NEW_FRIENDS_01_TITLE</zType>
+		<French><![CDATA[Making Friends]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_A_RULER_FALLS_TITLE</zType>
+		<French><![CDATA[A Broken Crown]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_ORIGIN_OF_THE_STATE_TITLE</zType>
+		<French><![CDATA[Origin of the State]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_A_FIERY_RIDE_TITLE</zType>
+		<French>A Fiery Ride</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_PRIZE_HORSE_TITLE</zType>
+		<French><![CDATA[Prize Horse]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_THE_LOSER_TITLE</zType>
+		<French><![CDATA[The Loser]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_CELEBRATION_CHAMPIONS_TITLE</zType>
+		<French><![CDATA[Celebration Champions!]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_RIOTS_IN_THE_STREETS_TITLE</zType>
+		<French>Riots in the Streets</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_TACTICS_ARCHETYPES_TITLE</zType>
+		<French>Tactics Studies</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_RHETORIC_ARCHETYPES_TITLE</zType>
+		<French>Rhetoric Studies</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_COMMERCE_ARCHETYPES_TITLE</zType>
+		<French>Commerce Studies</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STUDY_PHILOSOPHY_ARCHETYPES_TITLE</zType>
+		<French>Philosophy Studies</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMER_SUCCESSION_TITLE</zType>
+		<French>Plots and Schemes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMER_SUCCESSION_SPOUSE_TITLE</zType>
+		<French>[SCHEMING SCHEMER SPOUSE]</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_BITE_THE_HAND_TITLE</zType>
+		<French>Bite the Hand</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PAY_TO_PLAY_TITLE</zType>
+		<French>Pay to Play</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_FOREIGN_BRIBES_TITLE</zType>
+		<French>Foreign Bribes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_SYCOPHANT_TITLE</zType>
+		<French>Sycophant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_PREEMPTIVE_STRIKE_TITLE</zType>
+		<French>Preemptive Strike</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_THE_OLD_GUARD_TITLE</zType>
+		<French>The Old Guard</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_AFFAIRS_OF_THE_HEART_TITLE</zType>
+		<French>Affairs of the Heart</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_WICKED_CHARGES_TITLE</zType>
+		<French>Wicked Charges</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_NEEDLESS_BLOODSHED_TITLE</zType>
+		<French>Needless Bloodshed</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_WARMONGERS_TITLE</zType>
+		<French>Warmongers?</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_THE_SPEECHES_TITLE</zType>
+		<French>The Speeches</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_BIRTHRIGHT_TITLE</zType>
+		<French>Birthright</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_STOP_THE_FIGHTING_TITLE</zType>
+		<French>Stop the Fighting</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_ENEMY_COUNSEL_TITLE</zType>
+		<French>Enemy Counsel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_AUDITED_TITLE</zType>
+		<French>Audited</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_RULER_FOR_LIFE_TITLE</zType>
+		<French>Ruler for Life</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_ASCENSION_TITLE</zType>
+		<French>Ascension</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_LOVE_KILLS_TITLE</zType>
+		<French>Love Kills</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_FAMILY_FEUD_TITLE</zType>
+		<French>Family Feud</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_GREEDY_AMBITION_TITLE</zType>
+		<French>A Glint of Greed</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_BUILDER_AMBITION_TITLE</zType>
+		<French>Building Vision</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_ARCHETYPE_TITLE</zType>
+		<French>Choose a Path</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXPLORING_ENDS_TITLE</zType>
+		<French>Exploration Ends?</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_DEATH_EXPLORING_TITLE</zType>
+		<French>End of an Era</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEADER_DEATH_TITLE</zType>
+		<French>End of an Era</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_CHOSEN_HEIR_TITLE</zType>
+		<French>New Blood</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_MAP_DISPUTE_TITLE</zType>
+		<French>Map Dispute</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_DEATH_COMES_TITLE</zType>
+		<French>A Rider in Black</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_CALL_FOR_HELP_TITLE</zType>
+		<French>A Call for Help</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_PERSONAL_LETTER_TITLE</zType>
+		<French>A Personal Letter</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_INSIDER_TITLE</zType>
+		<French>The Insider</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_INTRUDER_IN_THE_PALACE_TITLE</zType>
+		<French>Palace Intruder</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_VENGEANCE_FROM_AFAR_TITLE</zType>
+		<French>Your Revenge</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_FALLEN_RIVAL_TITLE</zType>
+		<French>A Fallen Rival</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_THE_STEWARD_TITLE</zType>
+		<French>The Steward</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_A_NOBLE_UPBRINGING_TITLE</zType>
+		<French>A Noble Upbringing</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_MAXIMS_OF_PTAHHOTEP_TITLE</zType>
+		<French>Maxims of Ptahhotep</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_OUTDOOR_LESSON_TITLE</zType>
+		<French>Outdoor Lesson</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_ART_OF_WAR_TITLE</zType>
+		<French>Art of War</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_COMBAT_TRAINING_TITLE</zType>
+		<French>Combat Training</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_MONEY_MANAGEMENT_TITLE</zType>
+		<French>Money Management</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_TRADE_NEGOTIATIONS_TITLE</zType>
+		<French>Trade Negotiations</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_HANDS_DIRTY_TITLE</zType>
+		<French>Hands Dirty</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_THE_LION_TITLE</zType>
+		<French>The Lion</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_ACTS_OF_CHARITY_TITLE</zType>
+		<French>Acts of Charity</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_DAY_IN_COURT_TITLE</zType>
+		<French>Day in Court</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTOR_BYSTANDER_TITLE</zType>
+		<French>Bystander</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_AT_DEATHS_DOOR_TITLE</zType>
+		<French>At Death's Door</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_SULKING_HEIR_TITLE</zType>
+		<French>Sulking Heir</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_FUTURE_ACCOMPLISHMENTS_TITLE</zType>
+		<French>Empty Accomplishments</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_TROUBLING_BEHAVIOR_TITLE</zType>
+		<French>Troubling Behavior</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_RISING_TO_THE_ROLE_TITLE</zType>
+		<French>Rising to the Role</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_DEATH_01_TITLE</zType>
+		<French>A Terrible Loss</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPOUSE_DEATH_02_TITLE</zType>
+		<French>Laid to Rest</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SIBLING_DEATH_01_TITLE</zType>
+		<French><![CDATA[Farewell, <masculine_CHARACTER-0>Brother<feminine>Sister<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_TOAST_TITLE</zType>
+		<French>A Toast</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_TOAST_DUEL_WIN_TITLE</zType>
+		<French>A Duel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_TOAST_DUEL_LOSE_TITLE</zType>
+		<French>A Duel</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_TOAST_MOTHERS_TOUCH_TITLE</zType>
+		<French><![CDATA[A <masculine_CHARACTER-0>Father's<feminine>Mother's<end> Touch]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MOTHER_IN_EXILE_TITLE</zType>
+		<French><![CDATA[<masculine_CHARACTER-0>Father<feminine>Mother<end> in Exile]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_RETURN_HOME_TITLE</zType>
+		<French>The Return Home</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_RETURN_HOME_DATES_TITLE</zType>
+		<French>The Return Home: The Dates</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_RETURN_HOME_WINE_TITLE</zType>
+		<French>The Return Home: The Wine</French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_RETURN_HOME_INCENSE_TITLE</zType>
+    <French>The Return Home: The Incense</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_TIME_TO_FEAST_TITLE</zType>
+    <French>Time to Feast</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_THE_DARK_ARTS_TITLE</zType>
+    <French>The Dark Arts</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_A_NEW_GENERAL_TITLE</zType>
+    <French>A New General</French>
+  </Entry>
+  <Entry beginGroup="City">
+		<zType>TEXT_EVENTSTORY_HAPPINESS_IMMIGRANTS_TITLE</zType>
+		<French>Immigrants</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_IMMIGRANTS_MILITARY_TITLE</zType>
+		<French>Immigrant Recruits</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_SEASONAL_FESTIVAL_TITLE</zType>
+		<French>Seasonal Festival</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_TAX_SURPLUS_TITLE</zType>
+		<French>Tax Surplus</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_ANCIENT_TEMPLE_TITLE</zType>
+		<French>Ancient Temple</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_CITIZEN_DEFENSE_TITLE</zType>
+		<French>Citizen Defense</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_SCAVENGERS_TITLE</zType>
+		<French>Scavengers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_VOLUNTEERS_TITLE</zType>
+		<French>Volunteers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_PROMISING_STUDENT_TITLE</zType>
+		<French>Promising Student</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_FOUND_ZOROASTRIANISM_TITLE</zType>
+		<French>Zoroaster</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_FOUND_JUDAISM_TITLE</zType>
+		<French>Moses</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_VALUABLE_EXPERIENCE_TITLE</zType>
+		<French>Valuable Experience</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_GIFTED_INVENTOR_TITLE</zType>
+		<French>Gifted Inventor</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_DILIGENT_CLERK_TITLE</zType>
+		<French>Diligent Clerk</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_MATHEMATICAL_BREAKTHROUGH_TITLE</zType>
+		<French>Mathematical Breakthrough</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_ASPIRING_OFFICER_TITLE</zType>
+		<French>Aspiring Officer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_BENEVOLENT_TRADER_TITLE</zType>
+		<French>Benevolent Trader</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_TALENTED_POLITICIAN_TITLE</zType>
+		<French>Talented Politician</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_FASHIONABLE_PAINTER_TITLE</zType>
+		<French>Fashionable Painter</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_ATHLETIC_GAMES_TITLE</zType>
+		<French>Athletic Games</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_POETRY_CONTEST_TITLE</zType>
+		<French>Poetry Contest</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAPPINESS_PUBLIC_FEAST_TITLE</zType>
+		<French>Public Feast</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_SHIP_BORNE_PLAGUE_TITLE</zType>
+		<French><![CDATA[Ship-Borne Plague]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHILD_MIDWIVES_TITLE</zType>
+		<French><![CDATA[Midwives]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_EARTHQUAKE_TITLE</zType>
+		<French><![CDATA[Earthquake]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MINES_OF_LAURION_TITLE</zType>
+		<French><![CDATA[The Mines of Laurion]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREST_FIRE_TITLE</zType>
+		<French><![CDATA[Forest Fire]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREST_FIRE_WOOD_TITLE</zType>
+		<French><![CDATA[Forest Fire]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREST_FIRE_EMBERS_TITLE</zType>
+		<French><![CDATA[Forest Fire]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREST_FIRE_ORPHAN_TITLE</zType>
+		<French><![CDATA[Forest Fire]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREST_FIRE_TOMB_TITLE</zType>
+		<French><![CDATA[Forest Fire]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOREST_FIRE_MONUMENT_TITLE</zType>
+		<French><![CDATA[Forest Fire]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_RODENT_TITLE</zType>
+		<French><![CDATA[New Type of Animal Discovered]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_CRABS_TITLE</zType>
+		<French><![CDATA[New Type of Animal Discovered]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_BIRDS_TITLE</zType>
+		<French><![CDATA[New Type of Animal Discovered]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_LIZARD_TITLE</zType>
+		<French><![CDATA[New Type of Animal Discovered]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_SNAKE_TITLE</zType>
+		<French><![CDATA[New Type of Animal Discovered]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_FROG_TITLE</zType>
+		<French><![CDATA[New Type of Animal Discovered]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_SPIDER_TITLE</zType>
+		<French><![CDATA[New Type of Animal Discovered]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_TYPE_OF_ANIMAL_DISCOVERED_GEMS_TITLE</zType>
+		<French><![CDATA[New Type of Animal Discovered]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_OPPORTUNITIES_FOR_ALL_TITLE</zType>
+		<French><![CDATA[Opportunities for All]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_A_BEACON_TITLE</zType>
+		<French><![CDATA[A Beacon]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_TEMPLE_HYMNS_TITLE</zType>
+		<French><![CDATA[Temple Hymns]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_FREEDOM_MOVEMENT_TITLE</zType>
+		<French><![CDATA[Freedom Movement]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_PAID_FUNCTION_TITLE</zType>
+		<French><![CDATA[Paid Function]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_THE_PUBLIC_PURSE_TITLE</zType>
+		<French><![CDATA[The Public Purse]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_A_GOLDEN_AGE_TITLE</zType>
+		<French><![CDATA[A Golden Age]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_THE_ZIGGURAT_TITLE</zType>
+		<French>The Ziggurat of {CITY-0}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_EXPERTISE_ANGLER_TITLE</zType>
+		<French>Expertise: Fisher</French>
+	</Entry>
+	<Entry beginGroup="Miscellaneous">
+		<zType>TEXT_EVENTSTORY_START_SLAVERY_TITLE</zType>
+		<French>Slavery Now?</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_SLAVERY_FREEDOM_TITLE</zType>
+		<French>Slavery or Freedom</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CENTRALIZATION_VASSALAGE_TITLE</zType>
+		<French>Centralization or Vassalage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TYRANNY_CONSTITUTION_TITLE</zType>
+		<French>Tyranny or Constitution</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EPICS_EXPLORATION_TITLE</zType>
+		<French>Epics or Exploration</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_COLONIZATION_SERFDOM_TITLE</zType>
+		<French>Colonization or Serfdom</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PROFESSIONAL_ARMY_VOLUNTEERS_TITLE</zType>
+		<French>Professional Army or Volunteers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PHILOSOPHY_ENGINEERING_TITLE</zType>
+		<French>Philosophy or Engineering</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MONOTHEISM_POLYTHEISM_TITLE</zType>
+		<French>Monotheism or Polytheism</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GUILDS_ELITES_TITLE</zType>
+		<French>Guilds or Elites</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TOLERANCE_ORTHODOXY_TITLE</zType>
+		<French>Tolerance or Orthodoxy</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ISOLATIONISM_TRADE_LEAGUE_TITLE</zType>
+		<French>Isolationism or Trade League</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ICONOGRAPHY_CALLIGRAPHY_TITLE</zType>
+		<French>Iconography or Calligraphy</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIVINE_RULE_SECULARISM_TITLE</zType>
+		<French>Divine Rule or Secularism</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASCETICISM_HOLY_WAR_TITLE</zType>
+		<French>Asceticism or Holy War</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_COIN_DEBASEMENT_MONETARY_REFORM_TITLE</zType>
+		<French>Fiscal Policy</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_JUDAISM_TITLE</zType>
+		<French>Judaism?</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_ZOROASTRIANISM_TITLE</zType>
+		<French>Zoroastrianism?</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_CHRISTIANITY_TITLE</zType>
+		<French>Christianity?</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_MANICHAEISM_TITLE</zType>
+		<French>Manichaeism?</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CEREMONIAL_OFFERING_TITLE</zType>
+		<French>Ceremonial Offering</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOUNDING_SIGNS_TITLE</zType>
+		<French>Founding Signs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FOUNDING_SIGNS_SUCCESS_TITLE</zType>
+		<French>Founding Signs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VIRTUOUS_REFORMERS_TITLE</zType>
+		<French>Virtuous Reformers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_UNHAPPY_PEASANTS_TITLE</zType>
+		<French>Unhappy Peasants</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HARSH_RULE_TITLE</zType>
+		<French>Harsh Rule</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_PYRAMIDS_TITLE</zType>
+		<French>The Pyramids</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_GREAT_ZIGGURAT_TITLE</zType>
+		<French>The Great Ziggurat</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_ORACLE_TITLE</zType>
+		<French>The Oracle</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_HANGING_GARDENS_TITLE</zType>
+		<French>The Hanging Gardens</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_NECROPOLIS_TITLE</zType>
+		<French>The Necropolis</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_ISHTAR_GATE_TITLE</zType>
+		<French>The Ishtar Gate</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_LIGHTHOUSE_TITLE</zType>
+		<French>The Lighthouse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_APADANA_TITLE</zType>
+		<French>The Apadana</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_MAUSOLEUM_TITLE</zType>
+		<French>The Mausoleum</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_ACROPOLIS_TITLE</zType>
+		<French>The Acropolis</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_COLOSSUS_TITLE</zType>
+		<French>The Colossus</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_MUSAEUM_TITLE</zType>
+		<French>The Musaeum</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_CIRCUS_MAXIMUS_TITLE</zType>
+		<French>The Circus Maximus</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_PANTHEON_TITLE</zType>
+		<French>The Pantheon</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_HAGIA_SOPHIA_TITLE</zType>
+		<French>The Hagia Sophia</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_GRAND_BAZAAR_TITLE</zType>
+		<French>The Grand Bazaar</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_COLOSSUS_TITLE</zType>
+		<French>The Colossus</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LIGHTHOUSE_TITLE</zType>
+		<French>The Lighthouse</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HANGING_GARDENS_TITLE</zType>
+		<French>The Hanging Gardens</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ORACLE_1_TITLE</zType>
+		<French>The Oracle of {CITY-1}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ORACLE_2_TITLE</zType>
+		<French>The Oracle of {CITY-1}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PYRAMIDS_TITLE</zType>
+		<French>The Pyramids</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ISHTAR_GATE_TITLE</zType>
+		<French>The Ishtar Gate</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ACROPOLIS_TITLE</zType>
+		<French>The Acropolis</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NECROPOLIS_TITLE</zType>
+		<French>The Necropolis</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ANCIENT_STATUE_TITLE</zType>
+		<French>Ancient Statue</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ANCIENT_STATUE_STOLEN_TITLE</zType>
+		<French>Stolen Statue</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ANCIENT_STATUE_APPREHENDED_TITLE</zType>
+		<French>Apprehended Thief</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PRECIOUS_METALS_TITLE</zType>
+		<French>Precious Metals</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_QUESTIONABLE_CARVING_TITLE</zType>
+		<French>Questionable Carving</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_COTTAGE_DECOR_TITLE</zType>
+		<French>Cottage Decor</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RUNAWAY_SLAVE_TITLE</zType>
+		<French>Runaway Slave</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PRIESTLY_DWELLING_TITLE</zType>
+		<French><![CDATA[Holy Dwelling]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VETERAN_COLONIES_TITLE</zType>
+		<French>Veteran Colonies</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAINING_NEWS_TITLE</zType>
+		<French><![CDATA[Training News]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_MACEMAN_TITLE</zType>
+		<French>Mercenary Macemen</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_SPEARMAN_TITLE</zType>
+		<French>Mercenary Spearmen</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_AXEMAN_TITLE</zType>
+		<French>Mercenary Axemen</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_SWORDSMAN_TITLE</zType>
+		<French>Mercenary Swordsmen</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_PIKEMAN_TITLE</zType>
+		<French><![CDATA[Mercenary Pikemen]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_ARCHER_TITLE</zType>
+		<French>Mercenary Archers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_LONGBOWMAN_TITLE</zType>
+		<French>Mercenary Longbowmen</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_CROSSBOWMAN_TITLE</zType>
+		<French>Mercenary Crossbowmen</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_POLYBOLOS_TITLE</zType>
+		<French>Mercenary Polybolos</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_CHARIOT_TITLE</zType>
+		<French>Mercenary Chariots</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_HORSEMAN_TITLE</zType>
+		<French>Mercenary Horsemen</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_HORSE_ARCHER_TITLE</zType>
+		<French>Mercenary Horse Archers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_CAMEL_ARCHER_TITLE</zType>
+		<French>Mercenary Camel Archers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_WAR_ELEPHANT_TITLE</zType>
+		<French>Mercenary War Elephants</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MERCENARY_CATAPHRACT_TITLE</zType>
+		<French>Mercenary Cataphracts</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PILLAGING_BARBARIANS_TITLE</zType>
+		<French>Pillaging Barbarians</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PILLAGING_BARBARIANS_SUCCESS_TITLE</zType>
+		<French>Sweet Revenge</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_TITLE</zType>
+		<French>Exotic Pets</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_FISH_PEACE_TITLE</zType>
+		<French>Relaxing Fish</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_FISH_FAN_TITLE</zType>
+		<French>Lovely Fish</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_FISH_THOUGHTS_TITLE</zType>
+		<French>Tasty Fish</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_FISH_HORROR_TITLE</zType>
+		<French>A Fish's Fate</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_FISH_REST_TITLE</zType>
+		<French>Fish at Rest</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_THIEF_TITLE</zType>
+		<French>Thieving Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_DISTRACTING_TITLE</zType>
+		<French>Distracting Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_DIPLOMAT_TITLE</zType>
+		<French>Persuasive Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_GRUDGE_TITLE</zType>
+		<French>Suspicious Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_GRUDGE_SUCCESS_TITLE</zType>
+		<French>Victorious Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_GRUDGE_FAILURE_TITLE</zType>
+		<French>Defeated Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_GRUDGE_UNINTERESTED_TITLE</zType>
+		<French>Bored Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_GRUDGE_REVERSAL_TITLE</zType>
+		<French>Traitorous Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_CAMPAIGN_TITLE</zType>
+		<French>Inspiring Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_BAD_POLITICS_TITLE</zType>
+		<French>Imprudent Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_CHARM_TITLE</zType>
+		<French>Charming Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_DESTRUCTION_TITLE</zType>
+		<French>Destructive Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_SCIENCE_TITLE</zType>
+		<French>Instructive Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_CULTURE_TITLE</zType>
+		<French>Popular Monkey</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_EXOTIC_PETS_MONKEY_REST_TITLE</zType>
+		<French>Monkey at Rest</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SWORD_TITLE</zType>
+		<French>Mysterious Sword</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SWORD_USING_TITLE</zType>
+		<French>Using the Sword</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SWORD_PILGRIMS_TITLE</zType>
+		<French>Sword Cult Pilgrims</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SWORD_BREAK_TITLE</zType>
+		<French>Shattered Sword</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MYSTERIOUS_SWORD_DEATH_TITLE</zType>
+		<French>Sword Disappearance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMOUS_VICTOR_TITLE</zType>
+		<French>Famous Victor</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CONSPIRACY_TITLE</zType>
+		<French>Conspiracy</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_KNIVES_OF_THE_CONSPIRACY_TITLE</zType>
+		<French>Knives of the Conspiracy</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TEMPTING_RUMORS_TITLE</zType>
+		<French>Tempting Rumors</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SUCCESSION_TITLE</zType>
+		<French>Succession Change</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ASCETIC_MOVEMENT_TITLE</zType>
+		<French>Ascetic Movement</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAYWARD_SUBJECT_TITLE</zType>
+		<French>Wayward Subject</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GEM_SEEKERS_TITLE</zType>
+		<French>Gem Seekers</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NEW_AMBASSADOR_TITLE</zType>
+		<French>New Ambassador</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DARKENED_MOON_TITLE</zType>
+		<French>Darkened Moon</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RENOWNED_BEAUTY_TITLE</zType>
+		<French>Renowned Beauty</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_LITERATE_TITLE</zType>
+		<French><![CDATA[The Literate]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PROPAGANDA_TITLE</zType>
+		<French><![CDATA[Propaganda]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INSOLENT_GENERALS_TITLE</zType>
+		<French><![CDATA[Insolent Generals]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_MUST_I_DO_EVERYTHING_TITLE</zType>
+		<French><![CDATA[Must I Do Everything?]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_BALANCE_OF_POWER_TITLE</zType>
+		<French><![CDATA[Balance of Power]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_TIME_TO_CELEBRATE_TITLE</zType>
+		<French><![CDATA[Time to Celebrate]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_A_SINGULAR_VISION_TITLE</zType>
+		<French><![CDATA[A Singular Vision]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_SHARE_THE_BURDEN_TITLE</zType>
+		<French><![CDATA[Share the Burden]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_THE_STREET_SINGER_TITLE</zType>
+		<French><![CDATA[The Street Singer]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_NEW_HORIZONS_TITLE</zType>
+		<French><![CDATA[New Horizons]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_IDLE_HANDS_TITLE</zType>
+		<French><![CDATA[Idle Hands]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_A_FEEBLE_MILITARY_TITLE</zType>
+		<French><![CDATA[A Feeble Force]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_CAPTIVES_OF_BELIEF_TITLE</zType>
+		<French><![CDATA[Captives of Belief]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_HEAVENS_CHOSEN_TITLE</zType>
+		<French><![CDATA[Heaven's Chosen]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_FRIEND_OF_THE_FAITH_TITLE</zType>
+		<French><![CDATA[Friend of the Faith]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_ABUNDANCE_OF_RICHES_TITLE</zType>
+		<French><![CDATA[Abundance of Riches]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LAW_UNPAID_DEBTS_TITLE</zType>
+		<French><![CDATA[Unpaid Debts]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_VIEW_FROM_THE_THRONE_TITLE</zType>
+		<French><![CDATA[View from the Throne]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_WARM_RELATIONS_TITLE</zType>
+		<French><![CDATA[Warm Relations]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_ETERNAL_REST_TITLE</zType>
+		<French>The Mausoleum</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_GODS_AND_MEN_TITLE</zType>
+		<French>The Pantheon</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_THE_CIRCUS_TITLE</zType>
+		<French>The Circus Maximus</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_A_SPIRITUAL_CROSSROADS_TITLE</zType>
+		<French>Hagia Sophia</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_BEACON_OF_KNOWLEDGE_TITLE</zType>
+		<French>The Musaeum</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WONDER_PUBLIC_SPECTACLE_TITLE</zType>
+		<French>The Colosseum</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_MOUNTAIN_LIGHTS_TITLE</zType>
+		<French><![CDATA[Mountain Lights]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_FIRE_IN_THE_MARKET_TITLE</zType>
+		<French><![CDATA[Fire in the Market]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_NOMADS_TITLE</zType>
+		<French><![CDATA[Nomads]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_READING_THE_WORD_TITLE</zType>
+		<French><![CDATA[Reading the Word]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_THE_APOSTLES_TITLE</zType>
+		<French><![CDATA[The Apostles]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_KINGDOM_OF_GOD_TITLE</zType>
+		<French><![CDATA[Kingdom of God]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_YOUR_BLESSING_TITLE</zType>
+		<French><![CDATA[Your Blessing]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_LIGHT_AND_DARK_TITLE</zType>
+		<French><![CDATA[Light and Dark]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_GADFLY_TITLE</zType>
+		<French><![CDATA[Gadfly]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CULTURE_SHOOTING_STAR_TITLE</zType>
+		<French><![CDATA[Shooting Star]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_MY_CONDOLENCES_TITLE</zType>
+		<French><![CDATA[My Condolences]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_TITLE</zType>
+		<French><![CDATA[Local Brigands]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_ENDING_A_TITLE</zType>
+		<French><![CDATA[Local Brigands]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_ENDING_B_TITLE</zType>
+		<French><![CDATA[Local Brigands]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LOCAL_BRIGANDS_ENDING_C_TITLE</zType>
+		<French><![CDATA[Local Brigands]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_SCENARIO_TITLE</zType>
+		<French><![CDATA[An Unlikely Scenario]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGIOUS_FREEDOM_TITLE</zType>
+		<French><![CDATA[Religious Freedom]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AMBASSADOR_CANDIDATES_TITLE</zType>
+		<French><![CDATA[Ambassador Candidates]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHANCELLOR_CANDIDATES_TITLE</zType>
+		<French><![CDATA[Chancellor Candidates]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SPYMASTER_CANDIDATES_TITLE</zType>
+		<French><![CDATA[Spymaster Candidates]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_VAULTING_SEWER_SYSTEM_TITLE</zType>
+		<French>Sewer System</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_VAULTING_HOUSES_OF_THE_HOLY_TITLE</zType>
+		<French>Houses of the Holy</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_VAULTING_NEW_OBSESSION_TITLE</zType>
+		<French>New Obsession</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BODKIN_ACCOMPLICES_TITLE</zType>
+		<French>Accomplices</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BODKIN_THE_COURTS_MEN_TITLE</zType>
+		<French>The Court's Men</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_LATEEN_MAIDEN_VOYAGE_TITLE</zType>
+		<French>Maiden Voyage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_LATEEN_ADRIFT_TITLE</zType>
+		<French>Adrift</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_LATEEN_CAPSIZED_SPIES_TITLE</zType>
+		<French>Capsized Spies</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_HYDRAULICS_THE_AUTOMATON_TITLE</zType>
+		<French>The Automaton</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BODKIN_THE_POINTY_END_TITLE</zType>
+		<French>The Pointy End</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_HYDRAULICS_RUNNING_WATERS_TITLE</zType>
+		<French>Running Waters</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_WINDLASS_EARLY_ADOPTERS_TITLE</zType>
+		<French>Early Adopters</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_WINDLASS_ROPE_AND_WINCH_TITLE</zType>
+		<French>Rope and Winch</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_WINDLASS_ACCIDENTS_HAPPEN_TITLE</zType>
+		<French>Accidents Happen</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_SARISSA_COMPANION_CAVALRY_TITLE</zType>
+		<French>Protect the Flanks</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_SARISSA_FOOLISH_DISPLAY_TITLE</zType>
+		<French>Foolish Display</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BARDING_NOBLE_EXCESS_TITLE</zType>
+		<French>Noble Excess</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BARDING_A_FRIENDLY_REQUEST_TITLE</zType>
+		<French>A Friendly Request</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BARDING_CLEMENCY_TITLE</zType>
+		<French>Clemency</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TECH_BARDING_SURVIVORS_TITLE</zType>
+		<French>Survivors</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_TREACHERY_TITLE</zType>
+		<French>Treachery</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_ALLIED_INTELLIGENCE_TITLE</zType>
+		<French>Allied Intelligence</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GOOD_CHEER_TITLE</zType>
+		<French>Good Cheer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GIFT_OF_LAND_TITLE</zType>
+		<French>Gift of Land</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_BATH_HOUSE_CONSPIRACY_TITLE</zType>
+		<French>The Bath Conspiracy</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_NEW_METHOD_TITLE</zType>
+		<French>A New Method</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_PERSECUTION_IN_CITY_TITLE</zType>
+		<French>Persecution in {CITY-3}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SEDITIOUS_MEETINGS_TITLE</zType>
+		<French>Seditious Meetings</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_THE_PROTEGE_TITLE</zType>
+		<French>The Protege</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_TACTICS_TITLE</zType>
+		<French>Studies Complete</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_RHETORIC_TITLE</zType>
+		<French>Studies Complete</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_COMMERCE_TITLE</zType>
+		<French>Studies Complete</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_GRADUATION_STUDIES_COMPLETE_PHILOSOPHY_TITLE</zType>
+		<French>Studies Complete</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_IN_YOUR_DEBT_TITLE</zType>
+		<French>In Your Debt</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_JEALOUS_RAGE_TITLE</zType>
+		<French>Jealous Rage</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GOLDEN_OPPORTUNITY_TITLE</zType>
+		<French>Growth Opportunity</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_BAD_BLOOD_TITLE</zType>
+		<French>Bad Blood</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_BEST_SERVED_COLD_TITLE</zType>
+		<French>Best Served Cold</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_JAILBREAK_TITLE</zType>
+		<French>Jailbreak</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_LOVER_NO_MORE_TITLE</zType>
+		<French>Lover No More</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_FAMILY_DEBTS_TITLE</zType>
+		<French>Family Debts</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_CITY_ON_THE_BRINK_TITLE</zType>
+		<French>City on the Brink</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_PLAYING_POLITICS_TITLE</zType>
+		<French>Political Influence</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_FALSE_GOSSIP_TITLE</zType>
+		<French>False Gossip</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_CAVE_OF_PATRIARCHS_TITLE</zType>
+		<French>Cave of Patriarchs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_ENSLAVED_BY_EGYPT_TITLE</zType>
+		<French>Enslaved by Egypt</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_THEY_DO_NOT_BELONG_TITLE</zType>
+		<French>They Do Not Belong</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_BOW_BEFORE_US_TITLE</zType>
+		<French>Bow Before Us</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_THE_CONVERTED_TITLE</zType>
+		<French>The Converted</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_HOLY_WAR_TITLE</zType>
+		<French>Holy War</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_AWAITING_EXECUTION_TITLE</zType>
+		<French>Awaiting Execution</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_OUR_ALLEGIANCE_TITLE</zType>
+		<French>Our Allegiance</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_LOST_WISDOM_TITLE</zType>
+		<French>Lost Wisdom</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_BLOOD_IN_THE_STREETS_TITLE</zType>
+		<French>Blood in the Streets</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_THE_TWENTY_SAINTS_TITLE</zType>
+		<French>The Twenty Saints</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_BANNED_TITLE</zType>
+		<French>Ban Manichaeism?</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGION_SPREAD_TITLE</zType>
+		<French>Local Beliefs</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ZOROASTRIANISM_TEMPLES_TITLE</zType>
+		<French>Places of Worship</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_JUDAISM_TEMPLES_TITLE</zType>
+		<French>Places of Worship</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHRISTIAN_CATHEDRALS_TITLE</zType>
+		<French>Places of Worship</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_MANICHAEISM_CATHEDRALS_TITLE</zType>
+		<French>Places of Worship</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_CREATURES_OF_THE_COAST_TITLE</zType>
+		<French>Creatures of the Coast</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_DREAMS_OF_HOME_TITLE</zType>
+		<French>Dreams of Home</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_CITIZEN_OF_THE_WORLD_TITLE</zType>
+		<French>Citizen of the World</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_THE_LAND_OF_HAIRY_MEN_TITLE</zType>
+		<French>The Land of Hairy Men</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRAIT_MONSOON_TITLE</zType>
+		<French>Monsoon!</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_SHARED_INTERESTS_TITLE</zType>
+		<French>Shared Interests</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_AN_ADMIRER_TITLE</zType>
+		<French>An Admirer</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_MORE_THAN_ALLIES_TITLE</zType>
+		<French>More Than Allies</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_MAKING_PEACE_TITLE</zType>
+		<French>Making Peace</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTER_RELEASED_TITLE</zType>
+		<French>Released</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_IN_THE_BLOOD_TITLE</zType>
+		<French>In the Blood</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_PARANOID_TITLE</zType>
+		<French>Paranoid</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_THE_RANT_TITLE</zType>
+		<French>The Rant</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GUEST_OF_HONOR_TITLE</zType>
+		<French>Guest of Honor</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_VISITING_PRINCESS_TITLE</zType>
+		<French>Visiting Princess</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_INNER_CIRCLE_TITLE</zType>
+		<French>Inner Circle</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_SPIRITUAL_CONNECTION_TITLE</zType>
+		<French>A Spiritual Connection</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_A_GENEROUS_DONATION_TITLE</zType>
+		<French>A Generous Donation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_URGING_CAUTION_TITLE</zType>
+		<French>Urging Caution</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_MORAL_DEGRADATION_TITLE</zType>
+		<French>Moral Degradation</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GIVE_AN_INCH_TITLE</zType>
+		<French>Give an inch</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELATIONSHIP_PROOF_OF_FRIENDSHIP_TITLE</zType>
+		<French>Proof of Friendship</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TWO_VISIONS_TITLE</zType>
+		<French>Blame Game</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_RUNAWAY_PRINCE_TITLE</zType>
+		<French><![CDATA[The Runaway <masculine_CHARACTER-0>Prince<feminine>Princess<end>]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_TO_HEIR_TITLE</zType>
+		<French>Heir to Heir</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_IN_ABSENTIA_TITLE</zType>
+		<French><![CDATA[Speaking <masculine_CHARACTER-1>His<feminine>Her<end> Mind]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_STRANGER_AT_THE_DOOR_TITLE</zType>
+		<French>Stranger at the Door</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_CHARISMA_TITLE</zType>
+		<French>People Skills</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_WISDOM_TITLE</zType>
+		<French>Wise Outlook</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_COURAGE_TITLE</zType>
+		<French>Internal Strength</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_DISCIPLINE_TITLE</zType>
+		<French>Ordered Mind</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_SOUTHERN_EXPEDITION_TITLE</zType>
+		<French>Southern Expedition</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_FAMILY_OSTRACIZED_TITLE</zType>
+		<French>Ostracized</French>
+	</Entry>
 	<Entry beginGroup="Tutorial">
-		<zType>TEXT_EVENTSTORY_VICTORY_POINTS_TITLE</zType>
+<zType>TEXT_EVENTSTORY_VICTORY_POINTS_TITLE</zType>
 		<French>VICTOIRE !</French>
 	</Entry>
 	<Entry>
@@ -119,5 +3781,9 @@
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_PROMOTION_TITLE</zType>
 		<French>Entre sur le Terrain</French>
+	</Entry>
+	<Entry beginGroup="contact">
+		<zType>TEXT_EVENTSTORY_CONTACT_PIEFACES_LESSONS_TITLE</zType>
+		<French>Pieface's Lessons</French>
 	</Entry>
 </Root>
