@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2018 sp1 (x64) (http://www.altova.com) by Joel Bowers (Mohawk Games) -->
+<Root>
+	<!-- Title -->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_REBELS</zType>
+		<French>Rebelles~Rebelle~Rebelles</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_ANARCHY</zType>
+		<French>Anarchie</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_RAIDERS</zType>
+		<French>Raiders~Raider~Raiders</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_TRIBE</zType>
+		<French>Barbares~Barbare~Barbares</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_GAULS</zType>
+		<French>Gaulois~Gaulois~Gaulois</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_VANDALS</zType>
+		<French>Vandales~Vandale~Vandales</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_DANES</zType>
+		<French>Danois~Danois~Danois</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_THRACIANS</zType>
+		<French>Thraces~Thraces~Thraces</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_SCYTHIANS</zType>
+		<French>Scythes~Scythes~Scythes</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_BARBARIAN_NUMIDIANS</zType>
+		<French>Numides~Numides~Numides</French>
+	</Entry>
+</Root>
