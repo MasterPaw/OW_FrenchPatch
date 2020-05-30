@@ -436,23 +436,23 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONTACT_THE_INJURED_PLAYER_TITLE</zType>
-		<French>Injured {PLAYER-0,1}</French>
+		<French>Blessé {PLAYER-0,1}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONTACT_POLITICAL_PRISONER_TITLE</zType>
-		<French>Political Prisoner</French>
+		<French>Prisonnier Politique</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONTACT_THE_FOOL_TITLE</zType>
-		<French>The Fool</French>
+		<French>L'Idiot</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONTACT_MOMENTOUS_MEETING_TITLE</zType>
-		<French>Momentous Meeting</French>
+		<French>Réunion Importante</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONTACT_LETHAL_AFFLICTION_TITLE</zType>
-		<French>Lethal Affliction</French>
+		<French>Affliction mortelle</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHARACTER_HONORARY_COUNSEL_TITLE</zType>
@@ -460,127 +460,127 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHARACTER_PLOTTING_HEIR_TITLE</zType>
-		<French>Show Respect</French>
+		<French>Montrer du respect</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHARACTER_DEADLY_INHERITANCE_TITLE</zType>
-		<French>Deadly Inheritance</French>
+		<French>Héritage Mortel</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WRITING_ON_THE_WALL_TITLE</zType>
-		<French>Writing on the Wall</French>
+		<French>Écrire sur le Mur</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_FIGHTING_CLASS_TITLE</zType>
-		<French>The Fighting Class</French>
+		<French>La classe de combat</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHARACTER_IMMUNITY_TITLE</zType>
-		<French>Immunity</French>
+		<French>Immunité</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_FINAL_MESSAGE_TITLE</zType>
-		<French>The Final Message</French>
+		<French>Le Message Final</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONTACT_SECRET_OF_THE_FOOL_TITLE</zType>
-		<French>Secret of the Fool</French>
+		<French>Secret du fou</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONTACT_THE_RISE_OF_PIEFACE_TITLE</zType>
-		<French>The Rise of Pieface</French>
+		<French>La Montée du Pieface</French>
 	</Entry>
 	<Entry beginGroup="Diplomacy">
 		<zType>TEXT_EVENTSTORY_HOSTILE_NEIGHBORS_TITLE</zType>
-		<French><![CDATA[Hostile Neighbors]]></French>
+		<French><![CDATA[Voisins hostiles]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_LUMBER_TRADE_TITLE</zType>
-		<French><![CDATA[Lumber Trade]]></French>
+		<French><![CDATA[Commerce du bois]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_ACQUIRED_TASTE_TITLE</zType>
-		<French><![CDATA[Acquired Taste]]></French>
+		<French><![CDATA[Goût acquis]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_ALLIANCE_OFFER_TITLE</zType>
-		<French>Barbarian Alliance Offer</French>
+		<French>Offre Alliance Barbare</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_ALLIANCE_TITLE</zType>
-		<French>Barbarian Alliance</French>
+		<French>Alliance barbare</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_PEACE_OFFER_TITLE</zType>
-		<French>Barbarian Peace Offer</French>
+		<French>Offre de paix barbare</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_TRUCE_OFFER_TITLE</zType>
-		<French>Barbarian Truce Offer</French>
+		<French>Offre de trêve barbare</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR_TITLE</zType>
-		<French>Barbarian Threat</French>
+		<French>Menace barbare</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WARLIKE_PRINCESS_TITLE</zType>
-		<French><![CDATA[Warlike <masculine_CHARACTER-0>Prince<feminine>Princess<end>]]></French>
+		<French><![CDATA[<masculine_CHARACTER-0>Prince Belliqueux<feminine>Princesse Belliqueuse<end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_ENVOY_TITLE</zType>
-		<French>Barbarian Envoy</French>
+		<French>Envoyé barbare</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FLORID_DIPLOMAT_TITLE</zType>
-		<French>Florid Diplomat</French>
+		<French>Diplomate Fleuri</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DISCERNING_JUDGMENT_TITLE</zType>
-		<French>Discerning Judgment</French>
+		<French>Jugement éclairé</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WAR_PREPARATIONS_TITLE</zType>
-		<French>War Preparations</French>
+		<French>Préparatifs de guerre</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_MATCH_TITLE</zType>
-		<French>An Unlikely Match</French>
+		<French>Un match improbable</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_MATCH_DELAY_TITLE</zType>
-		<French>A Promise of a Match</French>
+		<French>Une promesse de match</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_MATCH_FAVORABLE_TITLE</zType>
-		<French>A Favorable Outcome</French>
+		<French>Un résultat favorable</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AN_UNLIKELY_MATCH_SUBMISSION_TITLE</zType>
-		<French>Neither, Nor</French>
+		<French>Ni l'un Ni l'autre</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_INVASION_TITLE</zType>
-		<French>Barbarian Invasion Threat</French>
+		<French>Menace d'invasion barbare</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBAL_MIGRATION_TITLE</zType>
-		<French>Tribal Migration</French>
+		<French>Migration tribale</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GRAVE_OFFENSE_TITLE</zType>
-		<French>Grave Offense</French>
+		<French>Infraction grave</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HOSTILE_GARRISON_TITLE</zType>
-		<French>Hostile Garrison</French>
+		<French>Garnison hostile</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HOSTILE_GARRISON_EXPEL_TITLE</zType>
-		<French>Expelling the Garrison</French>
+		<French>Expulser la garnison</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SCALES_OF_TRIBUTE_TITLE</zType>
-		<French>Scales of Tribute</French>
+		<French>Échelles d'hommage</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DESPERATE_MESSENGER_TITLE</zType>
@@ -588,15 +588,15 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_TRIBUTE_TITLE</zType>
-		<French>Barbarian Tribute</French>
+		<French>Hommage barbare</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECURING_PEACE_TITLE</zType>
-		<French>Securing Peace</French>
+		<French>Assurer la paix</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECURING_PEACE_FURIOUS_EMISSARY_TITLE</zType>
-		<French>Furious Emissary</French>
+		<French>Emissaire furieux</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECURING_PEACE_RETURNING_EMISSARY_THANKS_TITLE</zType>
