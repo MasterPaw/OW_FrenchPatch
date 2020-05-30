@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<!--Generic-->
+	<Entry>
+		<zType/>
+		<French/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_1</zType>
+		<French>Les unités dans une forêt bénéficient d'un bonus défensif contre les attaques à distance.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_2</zType>
+		<French>Les unités sur terrain plat sont vulnérables aux attaques des unités montées.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_3</zType>
+		<French>L'infanterie de mêlée peut se fortifier, gagnant un bonus défensif tant qu'elle reste sur sa tuile actuelle.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_4</zType>
+		<French>Les unités terrestres peuvent se déplacer rapidement dans l'eau sous le contrôle de vos villes et de vos bateaux.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_5</zType>
+		<French>Appuyez sur V pour voir votre réseau commercial et vos connexions.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_6</zType>
+		<French>Les stocks de l'icône de formation (YIELD_TRAINING) sont plafonnés à l'int (MAX_TRAINING). Au-dessus de cette valeur, ils seront convertis en icône Commandes (YIELD_ORDERS).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_7</zType>
+		<French>Vous ne pouvez utiliser que 3 des 4 familles de votre nation à chaque partie. Expérimentez pour savoir quelles combinaisons fonctionnent le mieux!</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_8</zType>
+		<French>L'Icône civique inutilisé (YIELD_CIVICS) et l'Icône de formation (YIELD_TRAINING) dans vos villes sont ajoutés au stock de votre nation.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_9</zType>
+		<French>Si vous ne souhaitez pas utiliser la totalité de votre icône Commandes (YIELD_ORDERS), vous pouvez terminer votre tour en appuyant sur «5».</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_10</zType>
+		<French>Vos travailleurs peuvent couper le bois des arbres voisins. Les arbres repousseront dans plusieurs années s'ils ne sont pas complètement enlevés!</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_11</zType>
+		<French>Si vous n'avez pas suffisamment de matériel pour démarrer une unité ou une amélioration, maintenez la touche ALT et cliquez pour acheter automatiquement ce qui vous manque (en supposant que vous avez suffisamment d'argent )(YIELD_MONEY).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_12</zType>
+		<French>Construire une amélioration sur une colline augmentera le temps nécessaire pour terminer d'un an.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_13</zType>
+		<French>Les barbares sont des tribus xénophobes hostiles à toutes les nations. Il n'y a aucune conséquence diplomatique à attaquer leurs unités ou à s'emparer de leurs terres. Ils n'ont pas d'alliés, pas même d'autres barbares.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_14</zType>
+		<French>Si votre territoire a peu de fournitures de Woodicon (YIELD_WOOD), envisagez de former des unités militaires qui dépendent de Foodicon (YIELD_FOOD) ou d'Ironicon (YIELD_IRON). Concentrez votre approvisionnement limité de Woodicon (YIELD_WOOD) sur la construction d'améliorations de tuiles rurales.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_15</zType>
+		<French>Les carrières construites à côté des montagnes produisent plus de Stoneicon (YIELD_STONE) pour chaque tuile Montagne adjacente. Les carrières gagnent une augmentation mineure lorsqu'elles sont construites en terrain aride.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_16</zType>
+		<French>Les sciries construites à côté des camps bénéficient d'une sortie Woodicon (YIELD_WOOD) accrue. (Les chasseurs contrôlent les prédateurs, forgent des sentiers à travers la forêt, etc.))</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_17</zType>
+		<French>Être en guerre contre plusieurs adversaires peut laisser vos armées débordées, incapables d'exécuter suffisamment d'Ordresicon (YIELD_ORDERS) pour combattre efficacement sur tous les fronts. Utilisez la diplomatie pour éviter ce sort, si possible.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_18</zType>
+		<French>La recherche de votre chemin vers l'amélioration des tuiles Lumbermill prend du temps. Vous devrez peut-être envoyer des travailleurs dans des forêts et des fourrés à l'extérieur de vos frontières, à Chop Woodicon (YIELD_WOOD) depuis Trees and Scrub.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_19</zType>
+		<French>Attendez-vous à ce que la demande de Foodicon (YIELD_FOOD) augmente à mesure que vos villes grandissent et mûrissent.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_20</zType>
+		<French>La mise à niveau des unités vers une technologie plus avancée coûte cher, mais elle peut rapidement augmenter votre puissance militaire.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_21</zType>
+		<French>Les routes aident les unités à avancer plus loin avec chaque icône (YIELD_ORDERS) Ordre dépensé, en particulier lorsque la route traverse un terrain difficile.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_22</zType>
+		<French>Les unités à distance gagnent une tuile supplémentaire de portée si elles sont positionnées sur des collines, à moins que leur cible ne soit également sur des collines.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_23</zType>
+		<French>Stationner une unité militaire sur un site de ville conquis marque le territoire comme le vôtre, aux yeux des autres nations. Ne pas garder un site de la ville capturé peut le voir vous être enlevé par les colons de vos rivaux.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_24</zType>
+		<French>Augmenter votre nombre de commandes (YIELD_ORDERS) devrait être une priorité. Plus vous contrôlez de territoire et d'unités, plus il y a d'ordres (YIELD_ORDERS) dont votre nation aura besoin pour fonctionner et se défendre.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_25</zType>
+		<French>Le pouvoir de chaque loi a tendance à augmenter, plus votre nation grandit. Lors du choix de la recherche, ne négligez pas de débloquer de nouvelles lois.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_26</zType>
+		<French>Une ville peut construire des navires si elle contrôle des tuiles d'eau étiquetées Côte.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_27</zType>
+		<French>Les éclaireurs peuvent surveiller un grand nombre de tuiles. Ils peuvent fournir de précieux renseignements sur la force et les mouvements de l'ennemi.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_28</zType>
+		<French>Les villes à forte croissance (YIELD_GROWTH) forment plus rapidement de nouveaux colons, travailleurs et scouts.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_29</zType>
+		<French>Le taux de production d'unités militaires par une ville est directement lié à sa sortie Trainingicon (YIELD_TRAINING).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_30</zType>
+		<French>La vitesse à laquelle les projets sont achevés dans une ville dépend de sa sortie Civicsicon (YIELD_CIVICS).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_31</zType>
+		<French>Les spécialistes urbains peuvent être mis à niveau plusieurs fois, ce qui augmente considérablement le rendement d'un bâtiment urbain.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_32</zType>
+		<French>La plupart des types de bâtiments urbains nécessitent Stoneicon (YIELD_STONE) pour être construits. Attendez-vous à une forte demande pour Stoneicon (YIELD_STONE) à mesure que le jeu mûrit et que vous débloquez de nouvelles technologies.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_33</zType>
+		<French>Les unités à distance sont efficaces au combat, attaquant souvent un ennemi sans avoir à dépenser des ordres (YIELD_ORDERS) en mouvement.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_34</zType>
+		<French>La coupe de Woodicon (YIELD_WOOD) dans Scrub ne coûte aucun Ordersicon (YIELD_ORDERS). Si vous déplacez un travailleur à travers une tuile Scrub sur son chemin vers une autre destination, vous pouvez collecter du Woodicon gratuit (YIELD_WOOD).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_35</zType>
+		<French>Les unités Milice et Conscrit ne peuvent pas être promues, mais elles sont produites avec Growthicon (YIELD_GROWTH) au lieu de Trainingicon (YIELD_TRAINING). Les villes avec un taux de croissance élevé (YIELD_GROWTH) peuvent être en mesure de les former rapidement.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_36</zType>
+		<French>Les unités montées ont la capacité de déroute. Quand ils tuent une unité ennemie, ils occupent la tuile de cette unité. Bien qu'ils ne puissent plus se déplacer, ils peuvent attaquer à nouveau si une autre cible leur est adjacente.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_37</zType>
+		<French>Pensez à dépenser le Trainingicon (YIELD_TRAINING) pour offrir des promotions à certaines de vos unités. Les unités qui se sont engagées au combat et ont acquis de l'expérience coûtent moins de Trainingicon (YIELD_TRAINING) à promouvoir.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_38</zType>
+		<French>Les tribus ne sont pas des nations. Lorsque vous êtes en guerre avec vous, seules leurs unités proches de vos unités ou de votre territoire constituent une menace, à moins que vous ne les mettiez suffisamment en colère pour qu'elles lancent une invasion.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_39</zType>
+		<French>Les villes côtières contrôlent moins de terres que les villes intérieures, mais elles sont généralement moins vulnérables aux attaques.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_40</zType>
+		<French>Un air plus froid oblige les nuages ​​à laisser tomber leur pluie lorsqu'ils prennent de l'altitude pour se déplacer sur les montagnes. La plupart des montagnes ont une bande luxuriante, où la pluie tombe, et une ombre de pluie sur le côté opposé, selon les modèles de vent régionaux..</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_41</zType>
+		<French>Pensez à gérer les événements tôt dans votre tour. Certaines options d'événement vous obligent à dépenser des commandes (YIELD_ORDERS).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_42</zType>
+		<French>Une alliance barbare vous permet de fonder des villes paisiblement à côté des sites de vos alliés.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_43</zType>
+		<French>Les stocks de Civicsicon (YIELD_CIVICS) sont plafonnés à int (MAX_CIVICS). Au-dessus de cette valeur, ils seront convertis en Scienceicon (YIELD_SCIENCE).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_44</zType>
+		<French>Les ouvriers endommagés prennent un tour supplémentaire pour construire des améliorations.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_45</zType>
+		<French>[CTRL+Click] pour déplacer automatiquement une unité au-delà de sa plage de fatigue.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_46</zType>
+		<French>Maintenez [Z] pour masquer les arbres et Scrub.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_47</zType>
+		<French>Maintenez [X] pour mettre en surbrillance Zones de contrôle.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_48</zType>
+		<French>Maintenez [C] pour mettre en évidence les tuiles que les unités ennemies peuvent cibler.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_49</zType>
+		<French>Maintenez [V] pour sélectionner Villes connectées à votre capitale.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_50</zType>
+		<French>Maintenez [B] pour mettre en surbrillance les unités qui peuvent encore être utilisées.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_51</zType>
+		<French>Maintenez [N] pour montrer ce que chacune de vos améliorations produit.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_52</zType>
+		<French>Si votre chef n'est pas en mesure de terminer une ambition avant sa mort, il devient un héritage. Les legs comptent pour une victoire d'ambition mais valent moins de Legitimacyicon (YIELD_LEGITIMACY).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_53</zType>
+		<French>Le niveau barbare, choisi sous Configuration avancée, affecte le nombre de sites de ville vides près de votre capitale.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_54</zType>
+		<French>Les bâtiments urbains doivent être adjacents à la ville ou à deux autres bâtiments urbains.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_55</zType>
+		<French>Les bâtiments urbains sur la côte ne doivent être adjacents qu'à un autre bâtiment urbain.</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_HINT_56</zType>
+		<French>Les classes d'amélioration à plusieurs niveaux (palais de justice, marchés, bains, etc.) sont moins chères à construire si elles sont adjacentes à des améliorations de la même classe.</French>
+	</Entry>
+  <Entry>
+    <zType>TEXT_HINT_57</zType>
+    <French>Lorsqu'un travailleur est sélectionné, maintenir CTRL montrera ce qui peut être construit sur chaque tuile sur laquelle vous déplacez le curseur.</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HINT_58</zType>
+    <French>Les éclaireurs sont invisibles dans les arbres.</French>
+  </Entry>
+</Root>
