@@ -3002,11 +3002,11 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_LEADER_MISSION</zType>
-		<French>Leader Mission: </French>
+		<French>Mission du Dirigeant: </French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_LEADER</zType>
-		<French>Leader: </French>
+		<French>Dirigeant: </French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_GOVERNOR</zType>
@@ -3014,47 +3014,47 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_GENERAL</zType>
-		<French>General: </French>
+		<French>Général: </French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_GENERAL_LEADER</zType>
-		<French>General (if Leader): </French>
+		<French>Général (if Leader): </French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_NO_MARRY</zType>
-		<French>Cannot Marry</French>
+		<French>Ne peut pas se Marier</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_NO_BIRTH</zType>
-		<French>Cannot have Children</French>
+		<French>Ne peut pas avoir d'Enfants</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_NO_HEIR</zType>
-		<French>Excluded from the Succession</French>
+		<French>Exclus de la Succession</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_NO_JOB</zType>
-		<French>Cannot be a Tupourr, Gouverneur, General, ou on the Council</French>
+		<French>Ne peut pas être Tuteur, Gouverneur, Général, ou Membre du Conseil</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_JOB_PREREQ</zType>
-		<French>Can serve as {0_list}</French>
+		<French>Peut servir {0_list}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_DEATH_CHANCE</zType>
-		<French>{0_value}% Chance of Death</French>
+		<French>{0_value}% Chance de mort</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_OPINION</zType>
-		<French>{0_value} Opinion of Leader</French>
+		<French>{0_value} Opinion du Leader</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_BIRTH_CHANCE</zType>
-		<French>{0_value}% Chance pour have Children</French>
+		<French>{0_value}% Chance pour avoir des Enfants</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TRAIT_OTHER_TRAIT_CHANCE</zType>
-		<French>{0_value}% Chance of {1_trait}</French>
+		<French>{0_value}% Chance de {1_trait}</French>
 	</Entry>
 	<!--Player Help-->
 	<Entry>
@@ -3063,11 +3063,11 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_END_TURN_NOTE</zType>
-		<French>* = Ended Turn</French>
+		<French>* = Fin de Tour</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_WAR_STATE_WITH</zType>
-		<French>War State: {0} ({1})</French>
+		<French>État de Guerre: {0} ({1})</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_OPINION</zType>
@@ -3075,160 +3075,160 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_OPINION_LEADER_SPOUSE</zType>
-		<French>{0_opinion}: Leader's Spouse</French>
+		<French>{0_opinion}: Conjoint du Chef</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_OPINION_DESCENDANT_SPOUSE</zType>
-		<French>{0_opinion}: Marriage(s) pour Leader's Descendants</French>
+		<French>{0_opinion}: Mariage (s) pour Descendants du chef</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_OPINION_LUXURIES</zType>
-		<French>{0_opinion}: Our Luxuries</French>
+		<French>{0_opinion}: Nos Produit de Luxes</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_OPINION_STATE_RELIGION</zType>
-		<French>{0_opinion}: Our State Religion(s)</French>
+		<French>{0_opinion}: Notre religion d'État</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_OPINION_STRENGTH</zType>
-		<French>{0_opinion}: Our Strength</French>
+		<French>{0_opinion}: Notre Force</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_OPINION_TRADING_US</zType>
-		<French>{0_opinion}: Trading avec Us</French>
+		<French>{0_opinion}: Commerce avec nous</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_OPINION_TRADING_ENEMY</zType>
-		<French>{0_opinion}: Trading avec Our {1_link}</French>
+		<French>{0_opinion}: Négocier avec notre {1_link}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_OPINION_DIPLOMACY_ENEMY</zType>
-		<French>{0_opinion}: {1_diplomacy} avec Our {2_link}</French>
+		<English>{0_opinion}: {1_diplomacy} avec notre {2_link}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_OPINION_PEACE</zType>
-		<French>{0_opinion}: Lengthy {1_peace}</French>
+		<English>{0_opinion}: Long {1_peace}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_YOU</zType>
-		<French>[This is You]</French>
+		<English>[C'est toi]</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_STRENGTH</zType>
-		<French>Strength: {0}</French>
+		<English>Force: {0}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_PLAYER_PROXIMITY</zType>
-		<French>Proximity: {0}</French>
+		<English>Proximité: {0}</English>
 	</Entry>
 	<!--Family Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_TITLE</zType>
-		<French>{0_family} Family</French>
+		<English>{0_family} Famille</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_NATION</zType>
-		<French>Nation: {0_nation}</French>
+		<English>Nation: {0_nation}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_RELIGION</zType>
-		<French>Religion: {0_religion}</French>
+		<English>Religion: {0_religion}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_FROM_OUR</zType>
-		<French>{0_value}: From Our {1}</French>
+		<English>{0_value}: De notre {1}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_FROM_THEIR</zType>
-		<French>{0_value}: From Their {1}</French>
+		<English>{0_value}: De leur {1}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_CITIES_CLOSE</zType>
-		<French>{0_value}: Our cities are close pourgether</French>
+		<English>{0_value}: Nos villes sont proches les unes des autres</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_CITIES_DISTANT</zType>
-		<French>{0_value}: Our cities are far apart</French>
+		<English>{0_value}: Nos villes sont éloignées</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_OUR_GOVERNORS_US</zType>
-		<French>{0_value}: Our {1_governousLink} in Our Cities</French>
+		<English>{0_value}: Notre {1_governorsLink} dans nos Villes</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_THEIR_GOVERNORS_US</zType>
-		<French>{0_value}: We aren't governing Our {1_citiesLink}</French>
+		<English>{0_value}: Nous ne gouvernons pas Notre {1_citiesLink}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_OUR_GOVERNOR_THEM</zType>
-		<French>{0_value}: We are governing other Families' {1_citiesLink}</French>
+		<English>{0_value}: Nous gouvernons d'autres familles' {1_citiesLink}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_LEADER</zType>
-		<French>{0_value}: Leader from Our Family</French>
+		<English>{0_value}: Chef de notre famille</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_HEIR</zType>
-		<French>{0_value}: Heir from Our Family</French>
+		<English>{0_value}: Héritier de notre famille</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_LEADER_SPOUSE</zType>
-		<French>{0_value}: Leader's Spouse from Our Family</French>
+		<English>{0_value}: Conjoint du chef de notre famille</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_DESCENDANT_SPOUSE</zType>
-		<French>{0_value}: Marriage(s) pour Leader's Descendants</French>
+		<English>{0_value}: Mariage (s) avec les descendants du chef</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_ROYAL_CHILD_LEADER</zType>
-		<French>{0_value}: Leader not an Adult</French>
+		<English>{0_value}: Le leader n'est pas un adulte</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_ROYAL_UMARRIED_LEADER</zType>
-		<French>{0_value}: Unmarried Leader</French>
+		<English>{0_value}: Chef Célibataire</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_ROYAL_LEADER_MARRIED_BARBARIAN</zType>
-		<French>{0_value}: Leader Married Barbarian</French>
+		<English>{0_value}: Barbare Marié Chef</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_NO_COUNCIL_MEMBERS</zType>
-		<French>{0_value}: Eligible Council Cetidate(s)</French>
+		<English>{0_value}: Candidat éligible au conseil(s)</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_OUR_LAWS</zType>
-		<French><![CDATA[{0_value}: Our Laws<true_1> ({1_lawlist})<false><end>]]></French>
+		<English><![CDATA[{0_value}: Nos lois<true_1> ({1_lawlist})<false><end>]]></English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_STATE_RELIGION</zType>
-		<French>{0_value}: Our State Religion ({1_religionLink})</French>
+		<English>{0_value}: Notre religion d'État ({1_religionLink})</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_ADOPT_RELIGION</zType>
-		<French>{0_value}: Not Following Our Religion ({1_religionLink})</French>
+		<English>{0_value}: Ne pas suivre notre Religion ({1_religionLink})</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_STATE_THEOLOGY</zType>
-		<French>{0_value}: Our State Religion's Theology {1_theologyLink})</French>
+		<English>{0_value}: La théologie de notre religion d'État {1_theologyLink})</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_CITIES_THEOLOGY</zType>
-		<French>{0_value}: Cities avec {1_theologyLink}</French>
+		<English>{0_value}: Villes avec {1_theologyLink}</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_OUR_LUXURIES</zType>
-		<French><![CDATA[{0_value}: Our Luxuries<true_1> ({1_luxurylist})<false><end>]]></French>
+		<English><![CDATA[{0_value}: Nos produit de luxes<true_1> ({1_luxurylist})<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_MISSING_LUXURIES</zType>
-		<French><![CDATA[{0_value}: Missing Luxuries<true_1> ({1_luxurylist})<false><end>]]></French>
+		<French><![CDATA[{0_value}: Nos produit de luxes<true_1> ({1_luxurylist})<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_OUR_WONDERS</zType>
-		<French>{0_value}: Merveilles in Our Terripourry</French>
+		<French>{0_value}: Merveilles dans notre Territoire</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_OUR_HOLY_CITIES</zType>
-		<French>{0_value}: Holy Cities in Our Terripourry</French>
+		<French>{0_value}: Villes Saintes dans notre Territoire</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_EFFECT_CITY</zType>
@@ -3236,89 +3236,89 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_MOST_CITIES</zType>
-		<French>{0_value}: Most Cities</French>
+		<French>{0_value}: La plupart des Villes</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_FEWEST_CITIES</zType>
-		<French>{0_value}: Fewest Cities</French>
+		<French>{0_value}: Moins de Villes</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_CITIES_NO_RELIGION</zType>
-		<French>{0_value}: Cities avecout Religion</French>
+		<French>{0_value}: Villes sans Religion</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_CITIES_NOT_CONNECTED</zType>
-		<French>{0_value}: Cities Not Connected</French>
+		<French>{0_value}: Villes non Connectées</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_CITIES_DAMAGED</zType>
-		<French>{0_value}: Our Damaged Cities</French>
+		<French>{0_value}: Nos Villes Endommagées</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_CITIES_DEFENDING</zType>
-		<French>{0_value}: Our Cities avec Defending Unités</French>
+		<French>{0_value}: Nos Villes avec Unités de Défence</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_PILLAGED</zType>
-		<French>{0_value}: Pillaged Improvements inside Our Terripourry</French>
+		<French>{0_value}: Améliorations pillées à l'intérieur de notre Territoire</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_UNITS_IN_TERRITORY</zType>
-		<French>{0_value}: Our Unités are inside Our Terripourry</French>
+		<French>{0_value}: Nos Unités sont à l'intérieur de notre Territoire</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_FAMILY_HOSTILE_UNITS_IN_TERRITORY</zType>
-		<French>{0_value}: Hostile Unités are inside Our Terripourry</French>
+		<French>{0_value}: Les Unités Hostiles sont à l'intérieur de Notre Territoire</French>
 	</Entry>
 	<!--Décision Name-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_DECISION_NAME_CHOOSE_RESEARCH</zType>
-		<French>Choose Rechercher</French>
+		<French>Choisissez  Recherche</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_DECISION_NAME_CHOOSE_AMBITION</zType>
-		<French>Choose Ambition</French>
+		<French>Choisissez  Ambition</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_DECISION_NAME_CITY_FAMILY</zType>
-		<French>Choose Ville Family: {0_city}</French>
+		<French>Choisissez la famille de la Ville: {0_city}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_DECISION_NAME_CITY_GOVERNOR</zType>
-		<French>Choose Ville Gouverneur: {0_city}</French>
+		<French>Choisissez Gouverneur de la Ville: {0_city}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_DECISION_NAME_OFFER_PEACE_BARBARIAN</zType>
-		<French>Make Peace</French>
+		<French>Faire la Paix</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_DECISION_NAME_OFFER_TRUCE_BARBARIAN</zType>
-		<French>Make Truce</French>
+		<French>Faire une Trêve</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_DECISION_NAME_OFFER_PEACE_PLAYER</zType>
-		<French>Make Peace</French>
+		<French>Faire la Paix</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_DECISION_NAME_OFFER_TRUCE_PLAYER</zType>
-		<French>Make Truce</French>
+		<French>Faire une Trêve</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_DECISION_NAME_GENERIC</zType>
-		<French>Make Décision</French>
+		<French>Prendre une Décision</French>
 	</Entry>
 	<!--Tile Butpourns-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_HARVEST_RESOURCE_BUTTON</zType>
-		<French><![CDATA[Harvest {0_resource}<true_1> (Aupour)<false><end>]]></French>
+		<French><![CDATA[Récolte {0_resource}<true_1> (Autour)<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_HEAL_BUTTON</zType>
-		<French>Heal</French>
+		<French>Guérir</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_FORTIFY_BUTTON</zType>
-		<French>Foutify</French>
+		<French>Fortifier</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_TESTUDO_BUTTON</zType>
@@ -3326,15 +3326,15 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_MARCH_BUTTON</zType>
-		<French>March</French>
+		<French>Marche</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_UNLIMBER_BUTTON</zType>
-		<French>Unlimber</French>
+		<French>Illimité</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_ANCHOR_BUTTON</zType>
-		<French>Anchou</French>
+		<French>Ancre</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_PILLAGE_BUTTON</zType>
@@ -3342,27 +3342,27 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_REPAIR_BUTTON</zType>
-		<French>Repair {0_improvement}</French>
+		<French>Réparation {0_improvement}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_BUY_BUTTON</zType>
-		<French>Colonize ({0_city})</French>
+		<French>Coloniser ({0_city})</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_TRADE_ROUTE_BUTTON</zType>
-		<French>Trade Route ({0_player})</French>
+		<French>Route Commerciale ({0_player})</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_ADD_ROAD_BUTTON</zType>
-		<French>Add Road</French>
+		<French>Ajouter une Route</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_ADD_URBAN_BUTTON</zType>
-		<French>Add Urban</French>
+		<French>Ajouter zone Urbainne</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_RAISE_IMPROVEMENT_BUTTON</zType>
-		<French>Raise pour {0_improvement}</French>
+		<French>Élever pour {0_improvement}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_CANCEL_BUTTON</zType>
@@ -3370,80 +3370,80 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_FOUND_CAPITAL_BUTTON</zType>
-		<French>Found Capital</French>
+		<French>Fonder Capital</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_FOUND_FAMILY_CAPITAL_BUTTON</zType>
-		<French><![CDATA[Found Capital ({0_familyName})]]></French>
+		<French><![CDATA[Fonder Capital ({0_familyName})]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_FOUND_FAMILY_SEAT_BUTTON</zType>
-		<French><![CDATA[Found {0_familyName} Seat]]></French>
+		<French><![CDATA[Fonder {0_familyName} Siège]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_FOUND_FAMILY_CITY_BUTTON</zType>
-		<French><![CDATA[Found {0_familyName} Ville]]></French>
+		<French><![CDATA[Fonder {0_familyName} Ville]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_FOUND_CITY_BUTTON</zType>
-		<French>Found Ville</French>
+		<French>Fonder Ville</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_JOIN_CITY_BUTTON</zType>
-		<French>Join {0_city}</French>
+		<French>Joindre {0_city}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_ADD_GENERAL_BUTTON</zType>
-		<French>Add General</French>
+		<French>Ajouter Général</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_RELEASE_GENERAL_BUTTON</zType>
-		<French>Release General</French>
+		<French>Libération du Général</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_GIFT_TO_PLAYER_BUTTON</zType>
-		<French>Gift pour {0_player}</French>
+		<French>Cadeau pour {0_player}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_LAUNCH_OFFENSIVE_BUTTON</zType>
-		<French>Launch Offensive</French>
+		<French>Lancer Offensive</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_ESTABLISH_RELIGIOUS_THEOLOGY_BUTTON</zType>
-		<French>Establish {0,1_religionAdj} {1_theology}</French>
+		<French>Établir {0,1_religionAdj} {1_theology}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_ESTABLISH_THEOLOGY_BUTTON</zType>
-		<French>Establish Theology</French>
+		<French>Établir Théology</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_SPREAD_RELIGION_BUTTON</zType>
-		<French>Spread {0_religion}</French>
+		<French>Propagé {0_religion}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_CONVERT_BARBARIANS_TO_RELIGION_BUTTON</zType>
-		<French>Convert pour {0_religion} ({1_barbarian})</French>
+		<French>Convertir pour {0_religion} ({1_barbarian})</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_CONVERT_BARBARIANS_TO_RELIGION_GENERIC_BUTTON</zType>
-		<French>Convert pour {0_religion}</French>
+		<French>Convertir pour {0_religion}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_LOCK_BUTTON</zType>
-		<French>Lock</French>
+		<French>Bloquer</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TILE_UNLOCK_BUTTON</zType>
-		<French>Unlock</French>
+		<French>Débloquer</French>
 	</Entry>
 	<!--ReligionPopup-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_RELIGION_POPUP_ADOPT</zType>
-		<French>Adopt {0_religion}</French>
+		<French>Adopter {0_religion}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_RELIGION_ADOPT_REQUIREMENT</zType>
-		<French>Any city avec {0_religion}</French>
+		<French>Toute Ville avec {0_religion}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_RELIGION_REQUIREMENTS_HEADER</zType>
@@ -3451,64 +3451,64 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_RELIGION_STATE_HEADER</zType>
-		<French>As State Religion</French>
+		<French>Comme Religion d'État</French>
 	</Entry>
 	<!--POPUPS-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_CHOOSE_GENERAL_POPUP_TITLE</zType>
-		<French>Choose General pour {0_unité}</French>
+		<French>Choisissez General pour {0_unité}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CHOOSE_GOVERNOR_POPUP_TITLE</zType>
-		<French><![CDATA[Choose a Gouverneur pour {0_city}]]></French>
+		<French><![CDATA[Choisissez un General pour {0_city}]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CHOOSE_COUNCIL_POPUP_TITLE</zType>
-		<French><![CDATA[Choose your {0_council}]]></French>
+		<French><![CDATA[Choisissez votre {0_council}]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_SUBMIT_BUG_BUTTON</zType>
-		<French>Submit Bug</French>
+		<French>Soumettre un bug</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_QUICK_SAVE_BUTTON</zType>
-		<French>Quick Save</French>
+		<French>Sauvegarde rapide</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_SAVE_AS_BUTTON</zType>
-		<French>Save As</French>
+		<French>Enregistrer sousFrench>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_QUICK_LOAD_BUTTON</zType>
-		<French>Quick Load</French>
+		<French>Chargement rapide</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_LOAD_GAME_BUTTON</zType>
-		<French>Load Game</French>
+		<French>Chargement du jeu</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_REPLAY_FIVE_TURNS_BUTTON</zType>
-		<French>Replay last five tours</French>
+		<French>Rejouer les cinq dernières tournées</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_REPLAY_GAME_BUTTON</zType>
-		<French>Replay entire game</French>
+		<French>Rejouer tout le jeu</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_DISABLE_REPLAY_BUTTON</zType>
-		<French>Disable full replay</French>
+		<French>Désactiver la relecture complète</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_ENABLE_REPLAY_BUTTON</zType>
-		<French>Enable full replay</French>
+		<French>Activer la relecture complète</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_AUTO_NEXT_TURN_BUTTON</zType>
-		<French>Aupour-play next tour</French>
+		<French>Lecture automatique du prochain tour</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_AUTO_FIFTY_TURNS_BUTTON</zType>
-		<French>Aupour-play 50 tours</French>
+		<French>Lecture automatiqu 50 tours</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_DEBUG_GAME_EDITOR_BUTTON</zType>
@@ -3516,7 +3516,7 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_CHANGE_PLAYER_INFO_BUTTON</zType>
-		<French>Change Player information</French>
+		<French>Modifier les informations du joueur</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_OPTIONS_BUTTON</zType>
@@ -3544,7 +3544,7 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_CANCEL_BUILD_PROMPT_TITLE</zType>
-		<French>Lose {0_build} progress?</French>
+		<French>Perdre {0_build} le progrès?</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_CANCEL_IMPROVEMENT_PROMPT_TITLE</zType>
@@ -3552,52 +3552,52 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECLARE_WAR_BARBARIAN_DESC</zType>
-		<French>Declare War on the {0_barbarians}?</French>
+		<French>Déclarez la guerre au {0_barbarians}?</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECLARE_WAR_TEAM_DESC</zType>
-		<French>Declare War on {0_team}?</French>
+		<French>Déclarez la guerre à {0_team}?</French>
 	</Entry>
 	<!--Décision Popups-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_NOT_VALID_DESC</zType>
-		<French>Décision no longer valid. [{0_event}]</French>
+		<French>Décision n'est plus valide. [{0_event}]</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_AMBITION_TITLE</zType>
-		<French>It's time pour choose your next Ambition...</French>
+		<French>Il est temps de choisir votre prochaine ambition...</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_CITY_FAMILY_TITLE</zType>
-		<French>Give {0_city} pour one of your Families...</French>
+		<French>Donnez {0_city} pour l'une de vos familles...</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_OFFER_PEACE_BARBARIAN_DESC</zType>
-		<French>Make {0_peace} avec the {1_barbarians} pour {2_money}? [NO EVENT FOUND]</French>
+		<French>Faire {0_peace} avec les {1_barbarians} pour {2_money}? [NO EVENT FOUND]</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_OFFER_TRUCE_BARBARIAN_DESC</zType>
-		<French>Make {0_truce} avec the {1_barbarians} pour {2_money}? [NO EVENT FOUND]</French>
+		<French>Faire {0_truce} avec les {1_barbarians} pour {2_money}? [NO EVENT FOUND]</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_OFFER_PEACE_PLAYER_DESC</zType>
-		<French>Make {0_peace} avec {1_player} pour {2_money}? [NO EVENT FOUND]</French>
+		<French>Faire {0_peace} avec {1_player} pour {2_money}? [NO EVENT FOUND]</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_OFFER_TRUCE_PLAYER_DESC</zType>
-		<French>Make {0_truce} avec {1_player} pour {2_money}? [NO EVENT FOUND]</French>
+		<French>Faire {0_truce} avec {1_player} pour {2_money}? [NO EVENT FOUND]</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_TITLE</zType>
-		<French>Promote {0_character}</French>
+		<French>Promouvoir {0_character}</French>
 	</Entry>
 	<!--Tooltips-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_TOOLTIP_EXPAND_TOOLTIP</zType>
-		<French><![CDATA[Expet Tooltip: <true_0> {0_presskey}<false><end>]]></French>
+		<French><![CDATA[Info-bulle d'expert: <true_0> {0_presskey}<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TOOLTIP_FREEZE_TOOLTIP</zType>
-		<French><![CDATA[Freeze Tooltip: [MIDDLE-CLICK]<br><true_0> ou {0_presskey}<false><end>]]></French>
+		<French><![CDATA[Geler Info-bulle: [MIDDLE-CLICK]<br><true_0> ou {0_presskey}<false><end>]]></French>
 	</Entry>
 </Root>
