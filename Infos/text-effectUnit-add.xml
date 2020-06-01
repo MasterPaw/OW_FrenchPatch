@@ -19,27 +19,27 @@
 		<French>Combat III</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTUNIT_Garde1</zType>
+		<zType>TEXT_EFFECTUNIT_GUARD1</zType>
 		<French>Garde I</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTUNIT_Garde2</zType>
+		<zType>TEXT_EFFECTUNIT_GUARD2</zType>
 		<French>Garde II</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTUNIT_Garde3</zType>
+		<zType>TEXT_EFFECTUNIT_GUARD3</zType>
 		<French>Garde III</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTUNIT_Concentrer1</zType>
+		<zType>TEXT_EFFECTUNIT_FOCUS1</zType>
 		<French>Concentrer I</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTUNIT_Concentrer2</zType>
+		<zType>TEXT_EFFECTUNIT_FOCUS2</zType>
 		<French>Concentrer II</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTUNIT_Concentrer3</zType>
+		<zType>TEXT_EFFECTUNIT_FOCUS3</zType>
 		<French>Concentrer III</French>
 	</Entry>
 	<Entry>
