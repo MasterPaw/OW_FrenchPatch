@@ -259,6 +259,10 @@
 		<French>Romantique</French>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_EDUCATED</zType>
+		<French>Instruit</French>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_COMPASSIONATE</zType>
 		<French>Compatissant</French>
 	</Entry>
@@ -465,6 +469,10 @@
 	<Entry>
 		<zType>TEXT_TRAIT_DRUNK</zType>
 		<French>Ivre</French>
+        </Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INSANE</zType>
+		<French>Insensé</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MOURNING</zType>
