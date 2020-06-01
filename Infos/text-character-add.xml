@@ -188,6 +188,10 @@
 	<Entry>
 		<zType>TEXT_CHARACTER_NEW_RULER</zType>
 		<French><![CDATA[Notre ancien souverain est mort. Commence maintenant le règne de {0_newLeader}. Longue vie au <masculine_0>Roi<feminine>Reine<end>!]]></French>
+			</Entry>
+	<Entry>
+		<zType>TEXT_COUNCIL_HAS_DIED</zType>
+		<French>Votre {0_council}, {1_character}, est mort!</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_CHARACTER_HAS_DIED</zType>
