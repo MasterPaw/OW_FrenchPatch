@@ -363,35 +363,35 @@
 		<French>Négociateur</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_Civisme</zType>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_CIVICS</zType>
 		<French>Civisme Faible</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_Civisme</zType>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_CIVICS</zType>
 		<French>Civisme Moyen</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_Civisme</zType>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_CIVICS</zType>
 		<French>Civisme Haut</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_Civisme</zType>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_CIVICS</zType>
 		<French>Civisme Très Haut</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_Entraînement</zType>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_LOW_TRAINING</zType>
 		<French>Entraînement Faible</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_Entraînement</zType>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_MEDIUM_TRAINING</zType>
 		<French>Entraînement Moyen</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_Entraînement</zType>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_HIGH_TRAINING</zType>
 		<French>Entraînement Haut</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_Entraînement</zType>
+		<zType>TEXT_EFFECTPLAYER_UPKEEP_VERY_HIGH_TRAINING</zType>
 		<French>Entraînement Très Haut</French>
 	</Entry>
 </Root>
