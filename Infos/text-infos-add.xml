@@ -3,6 +3,7 @@
 	<!-- InfoEventOption -->
 	<Entry>
 		<zType/>
+		<English/>
 		<French/>
 	</Entry>
 	<Entry>
@@ -12,6 +13,7 @@
 	<!-- InfoLanguage -->
 	<Entry>
 		<zType>TEXT_LANGUAGE_FRENCH</zType>
+		<English>French (France)</English>		
 		<French>Français (France)</French>
 	</Entry>
 	<!-- InfoTerrain -->
