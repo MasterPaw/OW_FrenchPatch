@@ -2,14 +2,14 @@
 <Root>
     <Entry>
         <zType/>
-        <English/>
+        <French/>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_EMAIL_NAME</zType>
-        <English>Email</English>
+        <French>Email</French>
     </Entry>
     <Entry>
         <zType>TEXT_MISCOPTION_EMAIL_DESC</zType>
-        <English>Votre adresse Email sera utilisée pour jouer par cloud (quand cela sera disponible),ou de vous contacter si besoin lorsque vous soumettez des bugs.</English>
+        <French>Votre adresse Email sera utilisée pour jouer par cloud (quand cela sera disponible),ou de vous contacter si besoin lorsque vous soumettez des bugs.</French>
     </Entry>
 </Root>
