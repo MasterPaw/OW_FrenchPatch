@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+    <Entry>
+        <zType/>
+        <French/>
+    </Entry>
+    <!-- Wizard: Event Story Helper -->
+	<Entry>
+		<zType>TEXT_EVENTEDITOR_STORY_NAME_BASE_DESC</zType>
+		<French>Un nom de base UNIQUE pour cette histoire d'évènement (event story), telle que FAMILY_SQUABBLE.Ne PAS inclure EVENTSTORY_ dans ce nom.
+
+Le nom de base se verra automatiquement attribuer un préfixe comme EVENTSTORY_ et EVENTOPTION_ pour créer des zTypes (=ID).</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTEDITOR_OPTION_NAME_BASES_DESC</zType>
+		<French><![CDATA[Les noms de base pour les options de cette histoire. Ils seront ajoutez aux zTypes des options après le nom de base de l'histoire.<br><br>Si vous avez l'intention d'ajouter des options existantes ou dont le nom n'est pas calculé par la même nature, ajoutez simplement des objets vides ici]]></French>
+	</Entry>
+	<!-- Other -->
+	<Entry>
+		<zType>TEXT_EVENTEDITOR_GROUP_DESC</zType>
+		<French><![CDATA[LE goupe auquel cette entrée appartient. Cela permet de les trier dans le navigateur/xml]]></French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTEDITOR_SHOW_REFERENCES_DESC</zType>
+		<French><![CDATA[Affiche une liste de tags d'informations qui font directement référence à cette entrée]]></French>
+	</Entry>
+    <Entry>
+        <zType>TEXT_EVENTEDITOR_SHOW_EVENT_ROOTS_DESC</zType>
+        <French><![CDATA[Affiche une liste d'évènement qui références cette entrée quelquepart dans la hiérarchie]]></French>
+    </Entry>
+</Root>
