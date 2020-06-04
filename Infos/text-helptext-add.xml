@@ -1251,84 +1251,84 @@
 	<!--Link Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_HELP_ALLIANCE_BARB</zType>
-		<French><![CDATA[Can move et attack avec the Unités of this Tribe.<br>Can found cities near their settlements.<br>Will share your Diplomatic state avec other Tribes.<br>Can only have an Alliance avec one Tribe.<br>Alliance will last until the end of the current Leader's reign.]]></French>
+		<French><![CDATA[Peut bouger et attaquer avec les Unités de cette Tribu.<br>Peut trouver des villes près de leurs colonies.<br>Partagera votre état diplomatique avec d'autres tribus.<br>Ne peut avoir qu'une Alliance avec une tribu.<br>L'alliance durera jusqu'à la fin du règne actuel du chef.]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_HELP_ALLIANCE_PLAYER</zType>
-		<French><![CDATA[Can only have an Alliance avec one other Player.<br>An Ally will aupourmatically declare War on another Player that declares War on their Ally.]]></French>
+		<French><![CDATA[Ne peut avoir qu'une alliance avec un autre Joueur.<br>Un llié déclarera aupourmatiquement la guerre à un autre joueur qui déclare la guerre à son Allié.]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_AMBITION</zType>
-		<French>Ambition is the Opinion change from Population ({0_value} per).</French>
+		<French>L'ambition est le changement d'opinion par rapport à Population ({0_value} par).</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_BUY_TILE</zType>
-		<French>Can Buy Let Tiles adjacent pour your territoire.</French>
+		<French>Peut acheter des tuiles adjacentes pour votre territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_BARBARIAN_IMPROVEMENT</zType>
-		<French>Upgrades pour {0_improvement} in {1_numTurns}</French>
+		<French>Mises à jour pour {0_improvement} dans {1_numTurns}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_BARBARIAN_IMPROVEMENT_NO_UPGRADE</zType>
-		<French>Does not Upgrade</French>
+		<French>Ne met pas à Niveau</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_BARBARIAN_UNITS</zType>
-		<French>Special Unités:</French>
+		<French>Unités Special:</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_BARBARIAN_INVADE</zType>
-		<French>The Tribe will send unités pour Pillage your Cities</French>
+		<French>La Tribu enverra des Unités pour Piller vos Villes</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CITY_CAPTURE</zType>
-		<French>{0_player} will capture {1_city} in {2_turns} moue année(s).
-(Must keep a Military Unité in the Ville.)</French>
+		<French>{0_player} capturera  {1_city} dans  {2_turns} année (s) en plus.
+(Doit garder une Unité Militaire dans la Ville.)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CITY_GOVERNOR_IS_LEADER</zType>
-		<French>{0_yield}: King/Queen is Gouverneur</French>
+		<French>{0_yield}: Le roi / la reine est Gouverneur</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CITY_FOREIGN_POPULATION</zType>
-		<French>{0_yield}: Foueign Population ({1_nation})</French>
+		<French>{0_yield}: Population étrangère ({1_nation})</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CITY_CAPITAL_DISTANCE_YIELD</zType>
-		<French>{0_yield}: Distance from {1_capitalVille}</French>
+		<French>{0_yield}: Distance de {1_capitalVille}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CITY_FAMILY_MILITARY</zType>
-		<French>{0_yield}: Defending Family Military Unités</French>
+		<French>{0_yield}: Défendre les Unités Militaires Familiales</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CITY_MILITARY</zType>
-		<French>{0_yield}: Defending Military Unités</French>
+		<French>{0_yield}: Défendre les Unités Militaires</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CITY_NEED_MORE_URBAN_TILES</zType>
-		<French>{0_yield}: Need moue {1_urbanLink} Tiles</French>
+		<French>{0_yield}: Besoin de plus {1_urbanLink} Tuiles</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CITY_DAMAGE_YIELD_MODIFIER</zType>
-		<French>{0_yield}: from Damage ({1_hp}/{2_maxHP})</French>
+		<French>{0_yield}: de dommages ({1_hp}/{2_maxHP})</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CITY_ASSIMILATE_YIELD_MODIFIER</zType>
-		<French>{0_yield}: from Assimilation</French>
+		<French>{0_yield}: de l'assimilation</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CULTURE_EVENT</zType>
-		<French>Culture Events occur whenever the Ville's Culture bar hits the next threshold.</French>
+		<French>Les événements culturels se produisent chaque fois que la barre Culture de la Ville atteint le seuil suivant.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CONDUCT_TRADE_MISSION</zType>
-		<French>Create a great deal of revenue par travelling pour a distant city</French>
+		<French>Créez beaucoup de revenus par voyage pour une ville lointaine</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CRITICAL_HIT</zType>
-		<French>Critical Hits deal double damage</French>
+		<French>Les coups critiques infligent deux fois plus de dégâts</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_CULTURE_LEVEL</zType>
@@ -1336,11 +1336,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DEFENSE</zType>
-		<French>Modifier pour Defense Strength</French>
+		<French>Modifier pour Force de défense</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DISCONTENT</zType>
-		<French>{0_city} Discontent:</French>
+		<French>{0_city} Mécontentement:</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DISCONTENT_FAMILY_OPINION</zType>
@@ -1350,53 +1350,53 @@
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_PEACE_BARBARIAN</zType>
 		<French>
-You cannot attack chaque other.
-Peace will last until the end of the current Leader's reign.
-Their unités are less likely pour declare War ou send Raiders against you.
-They can enter et heal in your territoire.</French>
+Vous ne pouvez pas attaquer chaque autre.
+La paix durera jusqu'à la fin du règne actuel du chef.
+Leurs unités sont moins susceptibles de déclarer la guerre ou d'envoyer des pillards contre vous.
+Ils peuvent entrer et guérir dans votre territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_PEACE_PLAYER</zType>
 		<French>
-You cannot attack chaque other.
-They are less likely pour declare War against you.
-You can enter et heal in chaque other's territoire.</French>
+Vous ne pouvez pas attaquer chaque autre.
+Ils sont moins susceptibles de déclarer la guerre contre vous.
+Vous pouvez entrer et guérir dans le territoire de chaque autre.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_TRUCE</zType>
-		<French>You cannot attack chaque other.</French>
+		<French>Vous ne pouvez pas attaquer chaque autre.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DIPLOMACY_WAR</zType>
-		<French>You can attack chaque other freely.</French>
+		<French>Vous pouvez Attaquer chaque autre librement.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_DISLOYALTY</zType>
-		<French>Disloyalty is the annéely Opinion change from {0_discontentIcon} Level.</French>
+		<French>La déloyauté est le changement d'opinion {0_discontentIcon} Niveau.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_ENVY</zType>
-		<French>Families avec less Cities than the others have higher Envy.</French>
+		<French>Les Familles avec moins de Villes que les autres ont une envie plus élevée.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_CITIES</zType>
-		<French>{0_family} Cities:</French>
+		<French>{0_family} Villes:</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_MEMBERS</zType>
-		<French>{0_family} Family Members:</French>
+		<French>{0_family} Membres de la Famille:</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_MILITARY_ALL</zType>
-		<French>Military Unité(s)</French>
+		<French>Unité(s) Militaire</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_POPULATION_ALL</zType>
-		<French>Total Population</French>
+		<French>Population Total</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_SEAT</zType>
-		<French>First {0_family} Ville Founded:</French>
+		<French>Première {0_family} Ville Fondée:</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_UNITS</zType>
@@ -1404,7 +1404,7 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_FRESH_WATER</zType>
-		<French>Fresh Water</French>
+		<French>Eau Fraiche</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_FRESH_WATER_EFFECTCITY</zType>
@@ -1412,11 +1412,11 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_HARVEST_RESOURCE</zType>
-		<French><![CDATA[Can Harvest a Resource pour a quick supply of Goods.<br>The Resource cannot be Harvested again until it retomly recharges.]]></French>
+		<French><![CDATA[Peut récolter une ressource pour un approvisionnement rapide en marchandises.<br>La ressource ne peut pas être récoltée à nouveau tant qu'elle ne se recharge pas.]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_HEIGHT_BUILD</zType>
-		<French>{0} Build An(s)</French>
+		<French>{0} Construire un (des)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_HEIGHT_ADJACENT</zType>
@@ -1424,159 +1424,159 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_HEIGHT_DEFENDING_VS_IF</zType>
-		<French>Defending vs. {0_unitéTriat} (if {1}): {2_value}</French>
+		<French>Défendre vs. {0_unitéTriat} (si {1}): {2_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_GENERAL</zType>
-		<French>A General can boost the stats of a Unités. (Requiert Level 2)</French>
+		<French>Un Général peut augmenter les statistiques d'une unité. (Niveau requis 2)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_GOVERNOR</zType>
-		<French>A Gouverneur can boost the yields of a Ville. (Requiert a Garrison)</French>
+		<French>Un Gouverneur peut booster les rendements d'une Ville. (Requiert une garnison)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_IDLE</zType>
-		<French>Idle Unités can have moved but must not have a Cooldown. (Attack, Promotion, Upgrade, etc.)</French>
+		<French>Les unités inactives peuvent avoir bougé mais ne doivent pas avoir de temps de recharge. (Attaque, promotion, mise à niveau, etc.)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_IGNORES_ZOC</zType>
-		<French>Ignoues the link(CONCEPT_ZOC) of enemy unités.</French>
+		<French>Ignore le lien(CONCEPT_ZOC) d'unités ennemies.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_IMPROVEMENT_KEY</zType>
-		<French>Maintenez [{0_key}] pour hide all Improvements.</French>
+		<French>Maintenez [{0_key}] pour masquer toutes les améliorations.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_JOIN_COURT</zType>
-		<French><![CDATA[Will join your court as {0,1_tupourrLink} pour your Family's children.<br>Can also be a {1_general}, a {2_governou}, ou a Spouse.]]></French>
+		<French><![CDATA[Rejoindra votre tribunal {0,1_tupourrLink} aux enfants de votre famille.<br>Peut également être un {1_general}, un {2_governor}, ou un Époux.]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_LAUNCH_OFFENSIVE</zType>
-		<French><![CDATA[Reduces the Cooldown of the <singular_0>closest<plural>{0} closest<end> eligible <singular_0>Unité<plural>Unités<end>]]></French>
+		<French><![CDATA[Réduit le temps de recharge du <singular_0>le plus proche<plural>{0} le plus proche<end> éligible <singular_0>Unité<plural>Unités<end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_LEGITIMACY_OPINIONS</zType>
-		<French>{0_value}: Family Opinions</French>
+		<French>{0_value}: Avis de famille</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_LOCATION</zType>
-		<French>Cliquez pour look at...</French>
+		<French>Cliquez pour Regardez à...</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_LUXURY</zType>
-		<French>Can be Traded pour other Families et Empires pour improve their opinion.</French>
+		<French>Peut être échangé pour d'autres familles et empires pour améliorer leur opinion.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_LUXURY_EXCESS</zType>
-		<French><![CDATA[(Excess luxuries add {0_iconList} pour your Capital<true_1>, {1_capital}<false><end>.)]]></French>
+		<French><![CDATA[(Les Produits de Luxes excédentaires ajoutent {0_iconList} pour votre Capital<true_1>, {1_capital}<false><end>.)]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_MEMORY_TURNS_LEFT</zType>
-		<French><![CDATA[{0_value}: {1_turns} <singular_1>An<plural>Ans<end> Left]]></French>
+		<French><![CDATA[{0_value}: {1_turns} <singular_1>un<plural>des<end> gauche]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_MEMORY_INFINITE</zType>
-		<French><![CDATA[{0_value}: Infinite]]></French>
+		<French><![CDATA[{0_value}: Infini]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_MOVEMENT</zType>
-		<French>Extra Move(s) par Ordericon(YIELD_ORDERS)</French>
+		<French>Déplacement supplémentaire par Icône d'Ordre(YIELD_ORDERS)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_NEXT_UNIT</zType>
-		<French><![CDATA[Will produce a new unité in {0} <singular_0>An<plural>Ans<end>]]></French>
+		<French><![CDATA[Produira une nouvelle unité à {0} <singular_0>un<plural>des<end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_PILLAGED</zType>
-		<French>Repair the {0_improvement}, ou it will be destroyed in {1_turns} année(s).</French>
+		<French>Réparer le {0_improvement}, ou il sera détruit en {1_turns} année(s).</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_PROJECT_INFO</zType>
-		<French>Projects exist only inside a Ville.</French>
+		<French>Les Projets n'existent qu'à l'intérieur d'une Ville.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_RAISE_IMPROVEMENTS</zType>
-		<French>Upgrade an Improvement pour the next level (pour example, link(IMPROVEMENT_THEATER_1) pour link(IMPROVEMENT_THEATER_2)).</French>
+		<French>Mettre à niveau une amélioration pour le niveau suivant (pour exemple, link(IMPROVEMENT_THEATER_1) pour link(IMPROVEMENT_THEATER_2)).</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_REBEL</zType>
-		<French>A Rebel Unité will appear et will attack your Unité et Cities.</French>
+		<French>Une Unité Rebelle apparaîtra et attaquera vos Unité et Villes.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_RIVER_BLOCKS_ZOC</zType>
-		<French>Blocks {0_ZOCLink}</French>
+		<French>Blocs {0_ZOCLink}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_RIVER_FRESH_WATER</zType>
-		<French>{0_freshWaterLink} Access</French>
+		<French>{0_freshWaterLink} Accès</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_ROAD</zType>
-		<French>Roads extend your Commerce Netwouk et improve Unité Movement.</French>
+		<French>Les routes étendent votre réseau de commerce et améliorent le mouvement des unités.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_ROUT</zType>
-		<French>When killing Unités, advances et can attack again</French>
+		<French>En tuant l'Unités, avance et peut attaquer à nouveau</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_SELECT_BARBARIAN</zType>
-		<French>Cliquez pour Select Barbarian</French>
+		<French>Cliquez pour Sélectionner Barbare</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_SELECT_CHARACTER</zType>
-		<French>Cliquez pour Select Character</French>
+		<French>Cliquez pour Sélectionner Personnage</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_SELECT_CITY</zType>
-		<French>Cliquez pour Select Ville</French>
+		<French>Cliquez pour Sélectionner Ville</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_SELECT_FAMILY</zType>
-		<French>Cliquez pour Select Family</French>
+		<French>Cliquez pour Sélectionner Famille</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_SELECT_UNIT</zType>
-		<French>Cliquez pour Select Unité</French>
+		<French>Cliquez pour Sélectionner Unité</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_SETTLEMENT</zType>
-		<French>Settlement tiles include Cities et Barbarian Sites</French>
+		<French>Les Tuiles de Peuplement incluent les Sites de Villes et Barbares</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_STRENGTH</zType>
-		<French>Modifier pour Combat Strength</French>
+		<French>Modificateur de la force de combat</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_TERRAIN_NO_ROADS</zType>
-		<French>Cannot have a {0_link}</French>
+		<French>Ne peut pas avoir de {0_link}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_TUTORS</zType>
-		<French><![CDATA[Will improve the ratings of descendants of the current Leader (must be a child older than {0_age})<br>Actuel Student(s):]]></French>
+		<French><![CDATA[Améliorera le classement des descendants du leader actuel (doit être un enfant de plus de {0_age})<br>Actuellement Étudiant(s):]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CYCLE_KEY</zType>
-		<French>Press [{0_key}] pour Parcourir Untis.</French>
+		<French>Appuyez [{0_key}] pour Parcourir les Unités.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CENTER_KEY</zType>
-		<French>Press [{0_key}] pour Center Camera on Unité.</French>
+		<French>Appuyez [{0_key}] pour centrer la Camera sur Unité.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_HIDE_KEY</zType>
-		<French>Maintenez [{0_key}] pour hide all Unités.</French>
+		<French>Maintenez [{0_key}] pour cacher tout les Unités.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CONSUMES</zType>
-		<French>Base Consumption: {0_list}</French>
+		<French>Consommation de Base: {0_list}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CONSUMES_OUTSIDE_BORDERS</zType>
-		<French>(Outside Borders: {0_value})</French>
+		<French>(Frontières Extérieures: {0_value})</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CONSUMPTION_OUTSIDE</zType>
-		<French>Potential Outside Consumption:</French>
+		<French>Consommation Extérieure Potentielle:</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_UNIT_CYCLE</zType>
@@ -1584,80 +1584,80 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_UPKEEP</zType>
-		<French>Actuel Upkeep:</French>
+		<French>Entretien Actuel:</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_URBAN</zType>
-		<French>Urban tiles can only have Urban Improvements</French>
+		<French>Les tuiles Urbaines ne peuvent avoir que des Améliorations Urbaines</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_URBAN_SPREADS_BORDERS</zType>
-		<French>Spreads Borders</French>
+		<French>Écarte les Frontières</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_URBAN_RURAL_POPULATION</zType>
-		<French>Chaque Urban Tile suppouts {0_value} {1_populationEffect}</French>
+		<French>Chaque Tuile Urbaine prend en charge {0_value} {1_populationEffect}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_URBAN_ATTACK_INTO</zType>
-		<French>{0_unitéTrait} (Attacking Inpour): {1_value}</French>
+		<French>{0_unitéTrait} (Attaquer dans): {1_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_URBAN_ATTACK_FROM</zType>
-		<French>{0_unitéTrait} (Defending From): {1_value}</French>
+		<French>{0_unitéTrait} (Défendre De): {1_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_VEGETATION_DEFEND</zType>
-		<French>Defending vs. {0_unitéTrait}: {1_value}</French>
+		<French>Défendre vs. {0_unitéTrait}: {1_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_VEGETATION_HOTKEY</zType>
-		<French>Maintenez [{0_key}] pour hide all {1_vegetation} art.</French>
+		<French>Maintenez [{0_key}] pour tout cacher {1_vegetation} l'artifice.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_VICTORY</zType>
-		<French>If any of your opponents rchaque {0_points} points, the game ends!</French>
+		<French>Si l'un de vos adversaires atteint {0_points} points, la parti est fini!</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_LINK_HELP_ZOC</zType>
-		<French><![CDATA[A unité's Zone-of-Control extends pour all adjacent tiles (except across a {0_riverLink}).<br>et prevents enemy unités from moving from one ZOC tile pour another.<br>Maintenez [{1_key}] pour see Unité ZOCs.]]></French>
+		<French><![CDATA[La zone de contrôle d'une unité s'étend pour toutes les tuiles adjacentes (sauf à travers un {0_riverLink}).<br>et empêche les unités ennemies de se déplacer d'une tuile ZOC pour une autre.<br>Maintenez [{1_key}] pour voir Unité ZOCs.]]></French>
 	</Entry>
 	<!--Improvement Requiert Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_PREFIX</zType>
-		<French>Requiert {0}</French>
+		<French>Nécessite {0}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_WARN_HARVESTED</zType>
-		<French>Cannot build on a Harvested tile</French>
+		<French>Impossible de construire sur une tuile récoltée</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_NO_VEGETATION</zType>
-		<French>Does not remove Vegetation</French>
+		<French>N'élimine pas la  Vegetation</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_TECH</zType>
-		<French>Requiert Tech: {0_techLink}</French>
+		<French>Nécessite Tech: {0_techLink}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_HOLY_CITY</zType>
-		<French>Requiert Holy Ville</French>
+		<French>Nécessite Ville Sainte</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_COAST</zType>
-		<French>Coast</French>
+		<French>Côte</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_WATER_COAST</zType>
-		<French>Coastal Water</French>
+		<French>Eaux Côtières</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_ADJACENT_CITY</zType>
-		<French>Adjacent Ville</French>
+		<French>Ville Adjacente</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_HOLY_CITY_ANY</zType>
-		<French>Holy Ville (Any Religion)</French>
+		<French>Ville Sainte(Any Religion)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_ADJACENT_HEIGHT</zType>
@@ -1665,35 +1665,35 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_INVALID_TERRAIN</zType>
-		<French>Cannot be built on {0_terrain}</French>
+		<French>Ne peut pas être construit sur {0_terrain}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_TEAM</zType>
-		<French>Cannot be built outside own territoire</French>
+		<French>Ne peut pas être construit en dehors de son propre territoire</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_URBAN</zType>
-		<French><![CDATA[Must be Adjacent pour Ville ou at least <true_0>one<false>two<end> other {1_urbanLink} tiles]]></French>
+		<French><![CDATA[Doit être Adjacent à la Ville ou au moins <true_0>un<false>deux<end> autre {1_urbanLink} tuiles]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_NO_ADJACENT</zType>
-		<French>Cannot be Adjacent pour another {0_improvementClass}</French>
+		<French>Ne peut pas être adjacent pour un autre {0_improvementClass}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_NO_ADJACENT_RELIGION</zType>
-		<French>Cannot be Adjacent pour another Religion</French>
+		<French>Ne peut pas être adjacent pour une autre Religion</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_CULTURE</zType>
-		<French>Requiert Culture: {0_link}</French>
+		<French>Culture Requise: {0_link}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_IMPROVEMENT</zType>
-		<French>Requiert Improvement: {0_link}</French>
+		<French>Amélioration Requise: {0_link}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_ADJACENT_IMPROVEMENT_CLASS</zType>
-		<French>Requiert Adjacent Improvement: {0_link}</French>
+		<French>Amélioration Adjacente Requise: {0_link}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_CITY_IMPROVEMENT_COUNT</zType>
@@ -1701,7 +1701,7 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_FAMILY_IMPROVEMENT_COUNT</zType>
-		<French>{0_maxValue} par Family</French>
+		<French>{0_maxValue} par Famille</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_REQUIRES_NATION_IMPROVEMENT_COUNT</zType>
@@ -1718,31 +1718,31 @@ You can enter et heal in chaque other's territoire.</French>
 	<!--Tech Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_TECH_DISCOVER_BONUS</zType>
-		<French>Discover Bonus: </French>
+		<French>Découvrez le Bonus: </French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TECH_UNLOCKS_GENERIC</zType>
-		<French>Unlocks {0_item}</French>
+		<French>Déverrouille {0_item}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TECH_UNLOCKS_PROJECT</zType>
-		<French>Unlocks {0_project} Project:</French>
+		<French>Déverrouille {0_project} Project:</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TECH_UNLOCKS_UNIT</zType>
-		<French>Unlocks {0_unité} Unité:</French>
+		<French>Déverrouille {0_unité} Unité:</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TECH_UNLOCKS_IMPROVEMENT_CLASS</zType>
-		<French>Unlocks {0_improvemntClass} Improvements:</French>
+		<French>Déverrouille {0_improvemntClass} Améliorations:</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TECH_UNLOCKS_NEW_LAWS</zType>
-		<French>Unlocks New Laws:</French>
+		<French>Débloque de Nouvelles Lois:</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TECH_TRASHED_WHEN_DISCARDED</zType>
-		<French>Permanently trashed when discarded</French>
+		<French>Mis à la Poubelle de Façon Permanente lorsqu'il est Jeté</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TECH_WITH</zType>
@@ -1750,11 +1750,11 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TECH_LEADS_TO</zType>
-		<French>Leads pour {0_list}</French>
+		<French>Pistes pour {0_list}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_TECH_BONUS_CARDS</zType>
-		<French><![CDATA[Bonus <singular_0>Card<plural>Cards<end>: {0_list}]]></French>
+		<French><![CDATA[Bonus <singular_0>Carte<plural>Cartes<end>: {0_list}]]></French>
 	</Entry>
 	<!--Unité Type Help-->
 	<Entry>
@@ -1795,55 +1795,55 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_ATTACKS</zType>
-		<French>Attacks {0_list}</French>
+		<French>Attaques {0_list}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_VS</zType>
-		<French>{0_value} Strength vs. {1_unitéTrait}</French>
+		<French>{0_value} Force vs. {1_unitéTrait}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_ATTACKING_VS</zType>
-		<French>{0_value} Strength when attacking vs. {1_unitéTrait}</French>
+		<French>{0_value} Force en Attaquant vs. {1_unitéTrait}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_DEFENDING_VS</zType>
-		<French>{0_value} Strength when defending vs. {1_unitéTrait}</French>
+		<French>{0_value} Force en Défendant vs. {1_unitéTrait}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STRENGTH_MELEE_VS</zType>
-		<French>{0_value} Strength in melee combat vs. {1_unitéTrait}</French>
+		<French>{0_value} Force en Combat de Mêlée vs. {1_unitéTrait}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_SPREADS_RELIGION</zType>
-		<French>Spreads {0_religion}</French>
+		<French>Se propage {0_religion}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_CAN_ESTABLISH_THEOLOGY</zType>
-		<French>Can Establish Theology</French>
+		<French>Peut établir la Theology</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_CAN_HARVEST_RESOURCE</zType>
-		<French>Can {0_harvestLink}</French>
+		<French>Peut {0_harvestLink}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_CAN_BUILD_IMPROVEMENTS</zType>
-		<French>Can Build Improvements</French>
+		<French>Peut générer des améliorations</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_CAN_BUILD_RELIGION_IMPROVEMENT</zType>
-		<French>Can Build: </French>
+		<French>Peut Construire: </French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_HAS_ZOC</zType>
-		<French>Has {0_zocLink}</French>
+		<French>A {0_zocLink}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_CAN_TESTUDO</zType>
-		<French>Can Testudo (Bonus vs Ranged)</French>
+		<French>Peut Testudo (Bonus vs à distance)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_START_LEVELS</zType>
-		<French><![CDATA[{0} <singular_0>Level<plural>Levels<end>]]></French>
+		<French><![CDATA[{0} <singular_0>Niveau<plural>Niveaux<end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_START_XP</zType>
@@ -1851,66 +1851,66 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_STARTS_WITH</zType>
-		<French>Starts avec {0_list}</French>
+		<French>Commence avec {0_list}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_CONSUMES</zType>
-		<French>Consumes {0_list}</French>
+		<French>Consomme {0_list}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_NO_TRAIN_OR_PROMOTE</zType>
-		<French>Cannot Train ou Earn XP</French>
+		<French>Impossible de s'entraîner ou de gagner de l'XP</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_POPULATION_COST</zType>
-		<French><![CDATA[Costs {0_value} <singular_0>{1_citizenLink}<plural>{1,2_citizenLink}<end>]]></French>
+		<French><![CDATA[Frais {0_value} <singular_0>{1_citizenLink}<plural>{1,2_citizenLink}<end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_PRODUCTION</zType>
-		<French>Build: {0} {1_yield}</French>
+		<French>Construire: {0} {1_yield}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_UPGRADES_TO</zType>
-		<French>Upgrades pour {0_list}</French>
+		<French>Améliorer pour {0_list}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_REQUIRES_TECH</zType>
-		<French>Requiert Tech: {0_tech}</French>
+		<French>Nécessite Tech: {0_tech}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_REQUIRES_CULTURE</zType>
-		<French>Requiert {0_cultureType} Culture</French>
+		<French>Nécessite {0_cultureType} Culture</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_UNIT_TYPE_REQUIRES_STATE_RELIGION</zType>
-		<French>State Religion</French>
+		<French>Religion d'État</French>
 	</Entry>
 	<!--Improvement Set Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_REMOVES_RESOURCE</zType>
-		<French>Removes the {0_resourceLink}</French>
+		<French>Supprime le {0_resourceLink}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_REMOVES_VEGETATION</zType>
-		<French>Removes the {0_vegetationLink}</French>
+		<French>Supprime le {0_vegetationLink}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_SAME_IMPROVEMENT</zType>
-		<French>Already contains {0_improvement}</French>
+		<French>Contient déjà {0_improvement}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_REPLACES_IMPROVEMENT</zType>
-		<French><![CDATA[Replaces the {0_improvement} (Maintenez <TEXT_HOTKEY_CTRL>)]]></French>
+		<French><![CDATA[Remplace le {0_improvement} (Maintenez <TEXT_HOTKEY_CTRL>)]]></French>
 	</Entry>
 	<!--Resource Harvest Help Variable-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_RESOURCE_HARVEST_HELP_VARIABLE</zType>
-		<French>{0} (in {1_city}, {2_value}/{3_pourtal} {4_icon})</French>
+		<French>{0} (dans {1_city}, {2_value}/{3_pourtal} {4_icon})</French>
 	</Entry>
 	<!--Effect Unité Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_STRENGTH</zType>
-		<French>Strength: {0_value}</French>
+		<French>Force: {0_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_DEFENSE</zType>
@@ -1918,11 +1918,11 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_MOVEMENT</zType>
-		<French>Movement: {0_value}</French>
+		<French>Mouvement: {0_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_FATIGUE_LIMIT</zType>
-		<French>Fatigue Limit: {0_value}</French>
+		<French>Limite de Fatigue: {0_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VISION</zType>
@@ -1930,39 +1930,39 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_RANGE</zType>
-		<French>Range: {0_value}</French>
+		<French>Portée: {0_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_CRITICAL_CHANCE</zType>
-		<French>Critical Chance: {1_value}</French>
+		<French>Chance de Critique: {1_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ATTACK_ACROSS_RIVER</zType>
-		<French>Attack across {0_riverLink}: {1_value}</French>
+		<French>Attaque à travers {0_riverLink}: {1_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ATTACK_INTO</zType>
-		<French>Attacking inpour {0_tileLink}: {1_value}</French>
+		<French>Attaquer dans {0_tileLink}: {1_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_FIGHT_FROM</zType>
-		<French>Fighting from {0_tileLink}: {1_value}</French>
+		<French>Se Battre contre {0_tileLink}: {1_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_DAMAGED</zType>
-		<French>Vs. Damaged Unités: {0_value}</French>
+		<French>Vs. Unités Endommagées: {0_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_BARBARIANS</zType>
-		<French>Vs. Tribes/Barbarians: {0_value}</French>
+		<French>Vs. Tribus/Barbares: {0_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_ADJACENT_UNIT_EFFECT_DEFENSE</zType>
-		<French>When defending avec {0_effectUnité} unité adjacent: {1_value}</French>
+		<French>En Défendant avec {0_effectUnité} unité adjacente: {1_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_HEAL_EXTRA</zType>
-		<French>Heal Action: {0_value} HP</French>
+		<French>Action de Guérir: {0_value} HP</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_HEAL_ALWAYS</zType>
@@ -1970,15 +1970,15 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_CAN_ROUT</zType>
-		<French>Can {0_routLink} after Combat</French>
+		<French>Pouvez {0_routLink} après le combat Combat</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_IGNORES_DISTANCE</zType>
-		<French>Ignoues Distance Modifier ({0_distanceModifier}% par Tile)</French>
+		<French>Ignore le Modificateur de Distance ({0_distanceModifier}% par Tuiles)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_LAUNCH_OFFENSIVE</zType>
-		<French>Can Launch Offensive</French>
+		<French>Peut Lancer une Offensive</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_VS_UNIT_TRAIT</zType>
@@ -1986,11 +1986,11 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_WHEN_ATTACKING_VS</zType>
-		<French>When attacking vs. {0_unitéTrait}: {1_value}</French>
+		<French>En Attaquant vs. {0_unitéTrait}: {1_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_WHEN_DEFENDING_VS</zType>
-		<French>When defending vs. {0_unitéTrait}: {1_value}</French>
+		<French>En Défendant vs. {0_unitéTrait}: {1_value}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_IN_MELEE_VS</zType>
@@ -1998,28 +1998,28 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_INVISIBLE_IN</zType>
-		<French>Invisible in {0_vegetation}</French>
+		<French>Invisible dans {0_vegetation}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_UNIT_HELP_EXCEPT_HOSTILE_TERRITORY</zType>
-		<French>(except in Hostile Terripourry)</French>
+		<French>(sauf en Territoire Hostile)</French>
 	</Entry>
 	<!--Effect Ville Help No Yields-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNLOCKS</zType>
-		<French>Unlocks {0_effectVille}</French>
+		<French>Déverrouille {0_effectVille}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_MAX_HP</zType>
-		<French>{0_value} Max HP pour Ville</French>
+		<French>{0_value} Max HP pour la Ville</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_NEW_UNIT_XP</zType>
-		<French>{0_value} XP pour New Unités</French>
+		<French>{0_value} XP pour une Nouvelles Unités</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_NEW_UNIT_LEVEL</zType>
-		<French><![CDATA[{0_value} <singular_0>Level<plural>Levels<end> pour New Unités]]></French>
+		<French><![CDATA[{0_value} <singular_0>Niveau<plural>Niveaux<end> pour une Nouvelles Unités]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_HEAL</zType>
@@ -2027,51 +2027,51 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_RANGE</zType>
-		<French>{0_value} Unité Range</French>
+		<French>{0_value} Unité à distance</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_CITY_STRENGTH</zType>
-		<French>{0_value} Ville Defense</French>
+		<French>{0_value}Defense de Ville</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_RANDOM_PROMOTIONS</zType>
-		<French><![CDATA[{0_value} Retom <singular_0>Promotion<plural>Promotions<end> pour New Unités]]></French>
+		<French><![CDATA[{0_value}<singular_0>Promotion Aléatoire<plural>Promotions Aléatoire<end> pour une nouvelle Unités]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_SPECIALIST_COST</zType>
-		<French>{0_value} Specialist Cost</French>
+		<French>{0_value} Coût Specialiste</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_RURAL_SPECIALIST_TRAIN_TIME</zType>
-		<French>{0_value} {1_specialist} Train Time</French>
+		<French>{0_value} {1_specialist} Temps pour Former</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_URBAN_SPECIALIST_COST</zType>
-		<French>{0_value} {1_specialist} Cost</French>
+		<French>{0_value} {1_specialist} Coût</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_URBAN_SPECIALIST_TRAIN_TIME</zType>
-		<French>{0_value} {1_specialist} Train Time</French>
+		<French>{0_value} {1_specialist} Temps pour Former</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_DISCIPLE_TRAIN_TIME</zType>
-		<French>{0_value} Disciple Train Time</French>
+		<French>{0_value} Temps pour Former Disciple</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_URBAN_BUILD_TURNS</zType>
-		<French><![CDATA[{0_value} <singular_0>An<plural>Ans<end> pour Build Urban Improvements]]></French>
+		<French><![CDATA[{0_value} <singular_0>Un<plural>Des<end> pour Construire des Améliorations Urbaines]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_FAMILY_OPINION</zType>
-		<French><![CDATA[{0_value} Family Opinion<true_1> ({2_familyLink})<false><end>]]></French>
+		<French><![CDATA[{0_value} Opinion de Famille<true_1> ({2_familyLink})<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_REBEL_PROBABILITY</zType>
-		<French>{0_value} Chance/An of {1_rebel} Unités</French>
+		<French>{0_value} Chance/D'une Unités {1_rebel}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_ADDS_LUXURY</zType>
-		<French>Adds {0,0_luxuryLink}</French>
+		<French>Ajouts {0,0_luxuryLink}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_LUXURY_MISSING_OPINION</zType>
@@ -2079,35 +2079,35 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_NO_HURRY</zType>
-		<French>Cannot Dépêchez Production</French>
+		<French>Ne peut pas Accélérer la Production</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_CIVICS</zType>
-		<French><![CDATA[Can Dépêchez Ville Production avec <TEXT_YIELD_CIVICS>]]></French>
+		<French><![CDATA[Peut accélérer la production de la ville avec <TEXT_YIELD_CIVICS>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_TRAINING</zType>
-		<French><![CDATA[Can Dépêchez Ville Production avec <TEXT_YIELD_TRAINING>]]></French>
+		<French><![CDATA[Peut accélérer la production de la ville avec <TEXT_YIELD_TRAINING>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_MONEY</zType>
-		<French><![CDATA[Can Dépêchez Ville Production avec <TEXT_YIELD_MONEY>]]></French>
+		<French><![CDATA[Peut accélérer la production de la ville avec <TEXT_YIELD_MONEY>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_HURRY_POPULATION</zType>
-		<French>Can Dépêchez Ville Production avec Population</French>
+		<French>Peut accélérer la production de la ville avec la Population</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_ENABLES_GOVERNOR</zType>
-		<French>Enables Ville {0_governou}</French>
+		<French>Permet à la Ville {0_governou}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_ALWAYS_CONNECTED</zType>
-		<French>Cities Always {0_connectedLink}</French>
+		<French>Villes toujours {0_connectedLink}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_STATE_RELIGION_IMPROVEMENTS</zType>
-		<French>Can build State Religion Improvements</French>
+		<French>Peut construire des Améliorations de la Religion d'État</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_COST_MODIFIER</zType>
@@ -2115,47 +2115,47 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIN_MODIFIER</zType>
-		<French>{0_value} Train Time pour {1,2_unité}</French>
+		<French>{0_value} Temps pour Former pour {1,2_unité}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_XP</zType>
-		<French>{0_value} XP pour new {1_unitéTrait} Unités</French>
+		<French>{0_value} XP pour Nouvelles {1_unitéTrait} Unités</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_LEVEL</zType>
-		<French><![CDATA[{0_value} <singular_0>Level<plural>Levels<end> pour new {1_unitéTrait} Unités]]></French>
+		<French><![CDATA[{0_value} <singular_0>Niveau<plural>Niveaux<end> pour Nouvelles {1_unitéTrait} Unités]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_COST_MODIFIER</zType>
-		<French>{0_value} Cost pour {1_unitéTrait} Unités</French>
+		<French>{0_value} Coût pour {1_unitéTrait} Unités</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_TRAIN_MODIFIER</zType>
-		<French>{0_value} Train Time pour {1_unitéTrait} Unités</French>
+		<French>{0_value}  Temps pour Former {1_unitéTrait} Unités</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_IMPROVEMENT_UPGRADE_TURNS</zType>
-		<French>{0_value} Upgrade Turns pour {1_improvement} Improvements</French>
+		<French>{0_value} La mise à niveau devient {1_improvement} Améliorations</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_NO_IMPROVEMENT_CLASS_MAX</zType>
-		<French>Can Build Unlimited {0_improvementClass,2}</French>
+		<French>Peut Construire Illimité {0_improvementClass,2}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_FREE_PROMOTIONS</zType>
-		<French>All new Unités start avec {0_promotion}</French>
+		<French>Toutes les Nouvelles Unités Commencent  avec {0_promotion}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNIT_TRAIT_FREE_PROMOTIONS</zType>
-		<French>All new {0_unitéTrait} Unités start avec {1_promotion}</French>
+		<French>Toutes les Nouvelles {0_unitéTrait} Unités Commencent avec {1_promotion}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_FREE_UNIT_EFFECT_CITY</zType>
-		<French>Can build Unités that require </French>
+		<French>Peut construire des Unités qui nécessitent </French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_UNLOCKS_PROJECT</zType>
-		<French>Unlocks Project: {0_project}</French>
+		<French>Déverrouille le projet: {0_project}</French>
 	</Entry>
 	<!--Effect Ville Help Yields-->
 	<Entry>
@@ -2172,19 +2172,19 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_YIELD_RATE_PER_FAMILY_OPINION</zType>
-		<French>{0_yield} par Family Opinion Level</French>
+		<French>{0_yield} par Niveau d'opinion de la Famille</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_YIELD_RATE_PER_MILITARY_IN_CITY</zType>
-		<French>{0_yield} par Military Unité in Terripourry</French>
+		<French>{0_yield} par Unité Militaire dans le Territoire</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_YIELD_RATE_PER_SPECIALIST</zType>
-		<French>{0_yield} par Specialist</French>
+		<French>{0_yield} par Spécialiste</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_YIELD_RATE_PER_CULTURE_GROWTH</zType>
-		<French>{0_yield} par link(CONCEPT_CULTURE_EVENT)</French>
+		<French>{0_yield} par lien(CONCEPT_CULTURE_EVENT)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_YIELD_RATE_PER_RELIGION</zType>
@@ -2192,11 +2192,11 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_YIELD_RATE_PER_RELIGION_WORLD</zType>
-		<French><![CDATA[{0_yield} par Would {1,1_religion} Cities/Improvements<true_2> ({2_religionYield})<false><end>]]></French>
+		<French><![CDATA[{0_yield} par Monde {1,1_religion} Villes/Améliorations<true_2> ({2_religionYield})<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_YIELD_RATE_FROM_EFFECT_CITY</zType>
-		<French><![CDATA[{0_yield} from {1_effectVille}<true_2> (x{2_count})<false><end>]]></French>
+		<French><![CDATA[{0_yield} de {1_effectVille}<true_2> (x{2_count})<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_EFFECT_CITY_YIELD_MODIFIER</zType>
@@ -2204,15 +2204,15 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_IMPROVEMENT_MODIFIER_YIELD</zType>
-		<French>{0,2_improvementList}: {1_value} Output</French>
+		<French>{0,2_improvementList}: {1_value} Production</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_IMPROVEMENT_RIVER_MODIFIER</zType>
-		<French>{0_value} from {1_improvement} on {2_riverLink}</French>
+		<French>{0_value} de {1_improvement} sur {2_riverLink}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_IMPROVEMENT_CLASS_MODIFIER_YIELD</zType>
-		<French>{0,2_improvementClassList}: {1_value} Output</French>
+		<French>{0,2_improvementClassList}: {1_value} Production</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_YIELDS_IMPROVEMENT_CLASS_YIELD</zType>
@@ -2225,15 +2225,15 @@ You can enter et heal in chaque other's territoire.</French>
 	<!--Improvement Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_PRODUCES_BARBARIAN_UNITS</zType>
-		<French>Produces {0,2_barbarianAdjective} Unités</French>
+		<French>Produit {0,2_barbarianAdjective} Unités</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_PRODUCES_GENERIC_BARBARIAN_UNITS</zType>
-		<French>Produces Barbarian Unités</French>
+		<French>Produit des Unités Barbares</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_BONUS</zType>
-		<French>Gives Bonus upon entering Tile</French>
+		<French>Donne un Bonus à l'Entrée de la Tuile</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_ADJACENT_HEIGHT_MODIFIER</zType>
@@ -2245,15 +2245,15 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_HEALS_UNIT</zType>
-		<French>Heals {0_value} HP pour {1_idle} Unités</French>
+		<French>Guérit {0_value} HP pour {1_idle} Unités</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_LEGITIMACY</zType>
-		<French>{0_value} Legitimacyicon(YIELD_LEGITIMACY)</French>
+		<French>{0_value} Icône de Légitimité(YIELD_LEGITIMACY)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_UNIT_TRAIT_HEALS_UNIT</zType>
-		<French>Heals {0_value} HP pour {1_idle} {2_traitList} Unités</French>
+		<French>Guérit {0_value} HP pour {1_idle} {2_traitList} Unités</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_UNIT_TRAIT_XP</zType>
@@ -2261,7 +2261,7 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_ENABLES</zType>
-		<French>Enables {0_link}</French>
+		<French>Permet {0_link}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_URBAN_BUILDING</zType>
@@ -2269,27 +2269,27 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_URBAN_BUILDING_ANYWHERE</zType>
-		<French> (Ignoues Adjacency Requirements)</French>
+		<French> (Ignore les Exigences d'Adjacence)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_SPREADS_BORDERS</zType>
-		<French>Spreads Borders</French>
+		<French>Écarte les Frontières</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_TRADE_NETWORK</zType>
-		<French>Extends Commerce Netwouk</French>
+		<French>Étend le Réseau de Commerce</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_FRESH_WATER_SOURCE</zType>
-		<French>Source of {0_link}</French>
+		<French>Source de {0_link}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_PREVENTS_BARBARIAN_RESPAWNING</zType>
-		<French>Prevents Barbarian Respawning</French>
+		<French>Empêche la Réapparition Barbare</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_BONUS_ALL_CITIES</zType>
-		<French>[All Cities] </French>
+		<French>[Toutes les Villes] </French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_DEFENSE_MODIFIER</zType>
@@ -2297,45 +2297,45 @@ You can enter et heal in chaque other's territoire.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_UNLOCKS_UNIT</zType>
-		<French>Unlock {0_unité}</French>
+		<French>Ouvrir {0_unité}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_CREATES_UNITS</zType>
-		<French><![CDATA[Creates {0,1_unitéList} every <singular_1>An<plural>{1_number}Ans<end>]]></French>
+		<French><![CDATA[Crée {0,1_unitéList} chaque <singular_1>un<plural>{1_number}des<end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_UPGRADE_TURNS</zType>
-		<French><![CDATA[Upgrades pour {0_improvement} in {1_number} <singular_1>An<plural>Ans<end>]]></French>
+		<French><![CDATA[Mises à niveau vers {0_improvement} dans {1_number} <singular_1>un<plural>des<end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_UPGRADE_TURNS_RANDOM</zType>
-		<French>Upgrades pour {0_improvement} in {1_number} - {2_number} Turns</French>
+		<French>Mises à niveau vers {0_improvement} dans {1_number} - {2_number} Tour</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_IMPROVEMENT_HELP_BUILT_BY_RELIGIOUS_UNITS</zType>
-		<French>Built par Religious Unités</French>
+		<French>Construit par une Unités Religieuse</French>
 	</Entry>
 	<!--Ville Connected Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_CONNECTED</zType>
-		<French><![CDATA[A Ville is connected pour its {0_capital}.<br>Effects of being Connected:]]></French>
+		<French><![CDATA[Une Ville est connectée pour son {0_capital}.<br>Effets d'être Connecté:]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_CONNECTED_HOTKEY</zType>
-		<French>Maintenez [{0_key}] pour see tiles connected pour your {1_capital}.</French>
+		<French>Maintenez [{0_key}] pour voir les tuiles connectées à votre {1_capital}.</French>
 	</Entry>
 	<!--Ville Actuel Citizens Help-->
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_CURRENT_CITIZENS</zType>
-		<French><![CDATA[Citizens: <true_0>{0_num}<false><end>]]></French>
+		<French><![CDATA[Citoyen: <true_0>{0_num}<false><end>]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_CURRENT_CITIZENS_NEXT</zType>
-		<French><![CDATA[Next Citizen in {0_years} <singular_0>année<plural>années<end><br>Citizens can be used pour create new Specialists]]></French>
+		<French><![CDATA[Prochain Citoyen dans {0_years} <singular_0>année<plural>années<end><br>Les Citoyens peuvent être utilisés pour créer de nouveaux Spécialistes]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_HELPTEXT_CITY_MIN_CITIZENS</zType>
-		<French>Cities must always have {0_num} {1_citizenLink}</French>
+		<French>Les Villes doivent toujours avoir {0_num} {1_citizenLink}</French>
 	</Entry>
 	<!--Effect Player Help-->
 	<Entry>
