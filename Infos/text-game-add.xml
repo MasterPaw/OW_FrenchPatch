@@ -269,8 +269,12 @@
 		<French>{0_tribute} Tribut avec {1_barbarian}</French>
 	</Entry>
 	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_ADOPT_RELIGION</zType>
+		<French>Adopte {0_religion} comme Religion d'État</French>
+	</Entry>
+	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_STATE_RELIGION</zType>
-		<French>Adopte {0_religion} comme religion d'État</French>
+		<French>Adopte {0_religion} comme Religion d'État</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_SPREAD_RELIGION</zType>
@@ -349,6 +353,10 @@
 		<French>Désirs {0}</French>
 	</Entry>
 	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_RANDOM_TRAIT</zType>
+		<French>{0_character} devient {1_trait}</French>
+	</Entry>
+	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_GAINS</zType>
 		<French>Devient {0}</French>
 	</Entry>
@@ -365,17 +373,17 @@
 		<French>Commence la mission: {0_mission}</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GAME_DO_BONUS_MAKE_COUNCIL</zType>
-		<French>Faire un conseil: {0_council}</French>
-	</Entry>
-	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_NICKNAME</zType>
 		<French>Devient connu sous le nom de {0_nickname}</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
-		<French>{0_player}: Début {1_law}</French>
-	</Entry>
+    <zType>TEXT_GAME_DO_BONUS_PLAYER_START_LAW</zType>
+    <French>{0_player}: Début {1_law}</French>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_PLAYER_END_LAW</zType>
+    <French>{0_player}: Fin {1_law}</French>
+  </Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_PLAYER_FREE_LAW</zType>
 		<French>{0_player}: débloquer {1_law}</French>
@@ -395,6 +403,10 @@
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_MAKE_GENERAL</zType>
 		<French>Général de {0_unit}</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_GAME_DO_BONUS_SEIZE_THRONE</zType>
+		<French>Dirigeant de {0_player}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_RELEASE_GENERAL_UNIT</zType>
@@ -419,10 +431,6 @@
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_ABDICATES</zType>
 		<French>Abdique</French>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GAME_DO_BONUS_SEIZES_THRONE</zType>
-		<French>Saisit le trône</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_CHOSEN_HEIR</zType>
@@ -481,7 +489,7 @@
 		<French>{0_vegetation} de {1_tile}</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_GAME_DO_BONUS_ADOPT_STATE_RELIGION</zType>
+		<zType>TEXT_GAME_DO_BONUS_PLAYER_ADOPT_RELIGION</zType>
 		<French>{0_player}: Adopte {1_religion} comme religion d'État</French>
 	</Entry>
 	<Entry>
@@ -502,7 +510,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_POPUP_BONUS_TECH</zType>
-		<French>Vous avez découvert une nouvelle technologie: {0_tech}.</French>
+		<French>{0_player} découvre une nouvelle technologie: {1_tech}.</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_GAME_DO_BONUS_LOG_DATA</zType>
