@@ -87,10 +87,6 @@
 		<French>Mécènes</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_PATRONS_SEAT</zType>
-		<French>Mécènes</French>
-	</Entry>
-	<Entry>
 		<zType>TEXT_EFFECTCITY_FAMILY_CLASS_CLERICS</zType>
 		<French>Clercs</French>
 	</Entry>
@@ -327,6 +323,10 @@
 		<French>La grande ziggourat</French>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_IMPROVEMENT_GREAT_ZIGGURAT_ALL</zType>
+		<French>Le Grand Ziggurat</French>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_IMPROVEMENT_ORACLE</zType>
 		<French>L'Oracle</French>
 	</Entry>
@@ -499,6 +499,10 @@
 		<French>Armée professionnelle</French>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_VOLUNTEERS</zType>
+		<French>Bénévoles</French>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_TOLERANCE</zType>
 		<French>Tolerance</French>
 	</Entry>
@@ -531,10 +535,6 @@
 		<French>Isolationnisme</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_LAW_TRADE_LEAGUE</zType>
-		<French>Ligue commerciale</French>
-	</Entry>
-	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_ASCETICISM</zType>
 		<French>Ascétisme</French>
 	</Entry>
@@ -553,6 +553,10 @@
 	<Entry>
 		<zType>TEXT_EFFECTCITY_LAW_COIN_DEBASEMENT</zType>
 		<French>Dégradation monétaire</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_LAW_MONETARY_REFORM</zType>
+		<French>Réforme Monétaire</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_NATION_ASSYRIA</zType>
@@ -891,12 +895,16 @@
 		<French>Tribunaux consulaires</French>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_PROJECT_CONFUCIANISM</zType>
+		<French>Confucianisme</French>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_JUDAISM</zType>
-		<French>Judaism</French>
+		<French>Judaïsme</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_JUDAISM_STATE</zType>
-		<French>Judaism</French>
+		<French>Judaïsme</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_RELIGION_ZOROASTRIANISM</zType>
@@ -1131,8 +1139,12 @@
 		<French>Ancien Spécialiste</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
+		<zType>TEXT_EFFECTCITY_TRAIT_JUDGE_ARCHETYPE_ALL</zType>
 		<French>Chef orateur</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
+		<French>Juge Chef</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</zType>
@@ -1259,6 +1271,10 @@
 		<French>Berger</French>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_DEALMAKER</zType>
+		<French>Négociateur</French>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_MISERABLE</zType>
 		<French>Miserable</French>
 	</Entry>
@@ -1271,12 +1287,16 @@
 		<French>Soldat</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_UNIT_CARAVAN</zType>
-		<French>Caravane</French>
+		<zType>TEXT_EFFECTCITY_TRAIT_FAMOUNS</zType>
+		<French>Célèbre</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ENEMY_OF_THE_STATE</zType>
 		<French>Ennemi d'État</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_UNIT_CARAVAN</zType>
+		<French>Caravane</French>
 	</Entry>
 	<!--Source-->
 	<Entry>
