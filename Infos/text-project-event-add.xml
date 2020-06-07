@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<!--Assets/GameAssets/Resources/Infos/improvement.xml-->
@@ -150,5 +149,9 @@
 	<Entry>
 		<zType>TEXT_PROJECT_CONSULAR_TRIBUNES</zType>
 		<French>Tribunaux Consulaires</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_PROJECT_CONFUCIANISM</zType>
+		<French>Confucianisme</French>
 	</Entry>
 </Root>
