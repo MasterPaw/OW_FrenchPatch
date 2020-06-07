@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2020 (x64) (http://www.altova.com) by Andrew Auseon (Private) -->
 <Root>
 	<!--Assets/GameAssets/Resources/Infos/trait.xml-->
@@ -159,6 +158,10 @@
 		<French>Berger</French>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_DEALMAKER</zType>
+		<French>Négociateur</French>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_TRACKER</zType>
 		<French>Traqueur</French>
 	</Entry>
@@ -193,6 +196,10 @@
 	<Entry>
 		<zType>TEXT_TRAIT_BLOODTHIRSTY</zType>
 		<French>Sanguinaire</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HECKLER</zType>
+		<French>Siffleur</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_STEADFAST</zType>
@@ -285,6 +292,10 @@
 	<Entry>
 		<zType>TEXT_TRAIT_HONEST</zType>
 		<French>Honnête</French>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DISHONEST</zType>
+		<French>Malhonnête</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PIOUS</zType>
@@ -399,6 +410,10 @@
 		<French>Fugitif</French>
 	</Entry>
 	<Entry>
+		<zType>TEXT_TRAIT_MISSING</zType>
+		<French>Absent</French>
+	</Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_HIDING_ABROAD</zType>
 		<French>Se cacher à l'étranger</French>
 	</Entry>
@@ -443,10 +458,6 @@
 		<French>Adopté</French>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_BYPASSED_HEIR</zType>
-		<French>Héritier contourné</French>
-	</Entry>
-	<Entry>
 		<zType>TEXT_TRAIT_ABDICATED</zType>
 		<French>Abdiquer</French>
 	</Entry>
@@ -477,10 +488,6 @@
 	<Entry>
 		<zType>TEXT_TRAIT_MOURNING</zType>
 		<French>Deuil</French>
-	</Entry>
-	<Entry>
-		<zType>TEXT_TRAIT_DEALMAKER</zType>
-		<French>Négociateur</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ARCHON</zType>
@@ -523,3 +530,4 @@
 		<French>Ennemi d'État</French>
 	</Entry>
 </Root>
+
