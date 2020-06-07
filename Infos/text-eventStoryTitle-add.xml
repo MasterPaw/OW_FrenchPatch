@@ -600,123 +600,123 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECURING_PEACE_RETURNING_EMISSARY_THANKS_TITLE</zType>
-		<French>Returning Emissary</French>
+		<French>Emissaire de retour</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECURING_PEACE_RETURNING_EMISSARY_MISUNDERSTANDING_TITLE</zType>
-		<French>Returning Emissary</French>
+		<French>Emissaire de retour</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_TITLE</zType>
-		<French>Player Peace</French>
+		<French>Joueur de Paix</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_BUILDING_TRUST_TITLE</zType>
-		<French>Building Trust</French>
+		<French>Construire de la Confiance</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PAUSE_IN_HOSTILITIES_TITLE</zType>
-		<French>Pause in Hostilities</French>
+		<French>Pause dans les Hostilités</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_TITLE</zType>
-		<French>Assassination of Monarch</French>
+		<French>Assassinat du Monarque</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_STALL_TITLE</zType>
-		<French>Assassination of Monarch</French>
+		<French>Assassinat du Monarque</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_ACCEPT_TITLE</zType>
-		<French>Assassination of Monarch</French>
+		<French>Assassinat du Monarque</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_STALL_AGAIN_TITLE</zType>
-		<French>Assassination of Monarch</French>
+		<French>Assassinat du Monarque</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_HOLE_TITLE</zType>
-		<French>Assassination of Monarch</French>
+		<French>Assassinat du Monarque</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ASSASSINATION_OF_MONARCH_SUCCESS_TITLE</zType>
-		<French>Assassination of Monarch</French>
+		<French>Assassinat du Monarque</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ALLIANCE_PROPOSAL_TITLE</zType>
-		<French>Alliance Proposal</French>
+		<French>Proposition d'Alliance</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PEACE_PROPOSAL_TITLE</zType>
-		<French>Peace Proposal</French>
+		<French>Proposition de Paix</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRUCE_PROPOSAL_TITLE</zType>
-		<French>Truce Proposal</French>
+		<French>Proposition de Trêve</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CITY_CAPTURED_TRUCE_TITLE</zType>
-		<French><![CDATA[City Captured]]></French>
+		<French><![CDATA[Ville capturée]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BOASTFUL_HEIR_TITLE</zType>
-		<French><![CDATA[Boastful Heir]]></French>
+		<French><![CDATA[Héritier vantard]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SEEKING_KNOWLEDGE_TITLE</zType>
-		<French><![CDATA[Seeking Knowledge]]></French>
+		<French><![CDATA[Recherche de connaissances]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WALLS_TITLE</zType>
-		<French><![CDATA[Walls]]></French>
+		<French><![CDATA[Des Murs]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AN_UPGRADE_TITLE</zType>
-		<French><![CDATA[An Upgrade]]></French>
+		<French><![CDATA[Une mise à niveau]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CITIZENSHIP_TITLE</zType>
-		<French><![CDATA[Citizenship]]></French>
+		<French><![CDATA[Citoyenneté]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_FRIEND_IN_NEED_TITLE</zType>
-		<French><![CDATA[A Friend In Need]]></French>
+		<French><![CDATA[Un ami dans le besoin]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ROAD_TO_HEAVEN_TITLE</zType>
-		<French><![CDATA[Road to Heaven]]></French>
+		<French><![CDATA[Route vers le ciel]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_TINY_FAVOR_TITLE</zType>
-		<French><![CDATA[A Tiny Favor]]></French>
+		<French><![CDATA[Une petite faveur]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MARTIAL_CODE_TITLE</zType>
-		<French><![CDATA[Martial Code]]></French>
+		<French><![CDATA[Code Martial]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TIT_FOR_TAT_TITLE</zType>
-		<French><![CDATA[Tit for Tat]]></French>
+		<French><![CDATA[Un prêté pour un rendu!]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WINDMILLS_AND_CATAPULTS_TITLE</zType>
-		<French><![CDATA[Windmills and Catapults]]></French>
+		<French><![CDATA[Moulins à vent et catapultes]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RETURNING_A_FAVOR_TITLE</zType>
-		<French><![CDATA[Returning a Favor]]></French>
+		<French><![CDATA[Rendre une faveur]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_SOLID_FOUNDATION_TITLE</zType>
-		<French><![CDATA[Solid Foundation]]></French>
+		<French><![CDATA[Fondation Solide]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_DISTANT_EMPIRE_THREATENS_TITLE</zType>
-		<French><![CDATA[Distant Empire Threatens]]></French>
+		<French><![CDATA[L'Empire lointain menace]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AT_PEACE_HUNTING_GROUNDS_DISPUTE_TITLE</zType>
-		<French><![CDATA[Hunting Grounds Dispute]]></French>
+		<French><![CDATA[Différend sur les terrains de chasse]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_AT_PEACE_PROBLEM_TITLE</zType>
@@ -724,175 +724,175 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_AT_PEACE_INCIDENT_TITLE</zType>
-		<French>Foreign Offenses</French>
+		<French>Infractions étrangères</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_AT_TRUCE_PROBLEM_TITLE</zType>
-		<French>Rabble Rousers</French>
+		<French>Pantalons de Canaille</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_AT_TRUCE_INCIDENT_TITLE</zType>
-		<French>Diplomatic Scandal</French>
+		<French>Scandale Diplomatique</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_TITLE</zType>
-		<French><![CDATA[Agitated Nation]]></French>
+		<French><![CDATA[Nation agitée]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRADE_MISSION_TITLE</zType>
-		<French>Trade Mission</French>
+		<French>Mission Commerciale</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRADE_OFFER_TITLE</zType>
-		<French>Trade Offer</French>
+		<French>Offre Commerciale</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CANCEL_TRADE_DEMAND_TITLE</zType>
-		<French>Cancel Trade</French>
+		<French>Annuler Commerce</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DECLARE_WAR_DEMAND_TITLE</zType>
-		<French>War Demand</French>
+		<French>Demande de guerre</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DECLARE_WAR_DEMAND_BARBARIAN_TITLE</zType>
-		<French>War Demand</French>
+		<French>Demande de guerre</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_TITLE</zType>
-		<French><![CDATA[Grievances]]></French>
+		<French><![CDATA[Griefs]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_DELAY_TITLE</zType>
-		<French><![CDATA[No More Delays]]></French>
+		<French><![CDATA[Plus de retards]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_UPSET_TITLE</zType>
-		<French><![CDATA[Crimes in {PLAYER-0}]]></French>
+		<French><![CDATA[Crimes en {PLAYER-0}]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_PLEASED_TITLE</zType>
-		<French><![CDATA[Avoiding Tensions]]></French>
+		<French><![CDATA[Éviter les tensions]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_TITLE</zType>
-		<French><![CDATA[Talk of War]]></French>
+		<French><![CDATA[Parler de guerre]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_GIFT_TITLE</zType>
-		<French><![CDATA[Raising the Stakes]]></French>
+		<French><![CDATA[Augmenter les enjeux]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_TRADE_TITLE</zType>
-		<French><![CDATA[Making Connections]]></French>
+		<French><![CDATA[Établir des connexions]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_PREPARE_TITLE</zType>
-		<French><![CDATA[Shadow of War]]></French>
+		<French><![CDATA[Ombre de guerre]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_CAUTIOUS_LEADER4_TITLE</zType>
-		<French><![CDATA[War on the Horizon]]></French>
+		<French><![CDATA[Guerre à l'horizon]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHOLAR_ARCHETYPE_UPSET_TITLE</zType>
-		<French><![CDATA[Wealth or War?]]></French>
+		<French><![CDATA[Richesse ou guerre?]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_AMBITION_CAPTURE_PLAYER_CITIES_TITLE</zType>
-		<French>Drums of War</French>
+		<French>Tambours de guerre</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR_OR_INVASION_TITLE</zType>
-		<French>The Coming Tide</French>
+		<French>La marée montante</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_CHOOSE_WAR_TITLE</zType>
-		<French>Choosing Sides</French>
+		<French>Choix des côtés</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR_STRONGER_TITLE</zType>
-		<French>On the March</French>
+		<French>En mars</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_INVASION_DISTANT_TITLE</zType>
-		<French>Distant Threats</French>
+		<French>Menaces éloignées</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARBARIAN_WAR_AMBITION_TITLE</zType>
-		<French>A Strong Message</French>
+		<French>Un message fort</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_PLEASED_TITLE</zType>
-		<French><![CDATA[Food for Peace]]></French>
+		<French><![CDATA[Nourriture pour la paix]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_TITLE</zType>
-		<French><![CDATA[Repairing Ties]]></French>
+		<French><![CDATA[Réparation des liens]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_LEADER4_TITLE</zType>
-		<French><![CDATA[Still Time]]></French>
+		<French><![CDATA[Encore du temps]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_LEADER4_WAR_TITLE</zType>
-		<French><![CDATA[Proof]]></French>
+		<French><![CDATA[Preuve]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_BUILDER_ARCHETYPE_CAUTIOUS_LEADER4_INTIMIDATED_TITLE</zType>
-		<French><![CDATA[A Peaceful Plea]]></French>
+		<French><![CDATA[Un appel pacifique]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_COMMANDER_ARCHETYPE_ANGRY_TITLE</zType>
-		<French><![CDATA[Anger Erupts]]></French>
+		<French><![CDATA[La colère éclate]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_COMMANDER_ARCHETYPE_ANGRY_LEADER4_TITLE</zType>
-		<French><![CDATA[Rally the Nation]]></French>
+		<French><![CDATA[Rassembler la Nation]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_LUXURY_TITLE</zType>
-		<French><![CDATA[Gifts by Swordpoint]]></French>
+		<French><![CDATA[Cadeaux par épée]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ARCHETYPE_ANGRY_TITLE</zType>
-		<French><![CDATA[Making Amends]]></French>
+		<French><![CDATA[Faire amende honorable]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_DIPLOMAT_ARCHETYPE_UPSET_TITLE</zType>
-		<French><![CDATA[An Opening]]></French>
+		<French><![CDATA[Une ouverture]]></French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_ZEALOT_CAUTIOUS_OR_BETTER_TITLE</zType>
-		<French>Divine Mission</French>
+		<French>Mission Divine</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_HERO_ARCHETYPE_ANGRY_TITLE</zType>
-		<French>A Hero Rises</French>
+		<French>Un héros se lève</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHEMER_ARCHETYPE_ANGRY_TITLE</zType>
-		<French>War of Schemes</French>
+		<French>Régimes des Guerre</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_SCHEMER_ARCHETYPE_PLEASED_TITLE</zType>
-		<French>Misidrection</French>
+		<French>Mauvaise direction</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_DECLARE_TITLE</zType>
-		<French>Declaration of link(DIPLOMACY_WAR)</French>
+		<French>Déclaration de lien(DIPLOMACY_WAR)</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_END_TITLE</zType>
-		<French>Our link(DIPLOMACY_PEACE) is Over</French>
+		<French>Notre lien(DIPLOMACY_PEACE) est fini</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_DIPLO_MARRIAGE_TITLE</zType>
-		<French>Diplomatic Match</French>
+		<French>Match diplomatique</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WAR_OFFER_RELIGION_STATE_TITLE</zType>
-		<French>Immortal Peril</French>
+		<French>Péril immortel</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WAR_OFFER_STRONGER_TITLE</zType>
@@ -904,23 +904,23 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_RELIGION_SPREAD_TITLE</zType>
-		<French>Funds for the Faith</French>
+		<French>Fonds pour la foi</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_TITLE</zType>
-		<French>A Humble Request</French>
+		<French>Une humble demande</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_FAMILY_RELIGION_WAR_TITLE</zType>
-		<French>Wrath of the {FAMILY-2,1}</French>
+		<French>Colère de {FAMILY-2,1}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_FAMILY_LAW_WAR_TITLE</zType>
-		<French>Unlawful</French>
+		<French>Illicite</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WORLD_TOUR_TITLE</zType>
-		<French>World Tour</French>
+		<French>Tour du monde</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_OOPS_TITLE</zType>
@@ -928,39 +928,39 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DINNER_WITH_A_RIVAL_TITLE</zType>
-		<French>Dinner with a Rival</French>
+		<French>Dîner avec un rival</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DINNER_WITH_RIVALS_TITLE</zType>
-		<French>Dinner with Rivals</French>
+		<French>Dîner avec des rivaux</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BETWEEN_US_TITLE</zType>
-		<French>Between Us</French>
+		<French>Entre nous</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TOKEN_OF_GOODWILL_TITLE</zType>
-		<French>Token of Goodwill</French>
+		<French>Jeton de bonne volonté</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EXCHANGE_OF_IDEAS_TITLE</zType>
-		<French>Exchange of Ideas</French>
+		<French>Échange d'idées</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BATTERED_TITLE</zType>
-		<French>Battered</French>
+		<French>Battu</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SHARING_THE_LOOT_TITLE</zType>
-		<French>Sharing the Loot</French>
+		<French>Partager le butin</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNDER_NATION_TITLE</zType>
-		<French>Under {PLAYER-1}</French>
+		<French>En dessous de {PLAYER-1}</French>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SUSPECTED_SPY_TITLE</zType>
-		<French>Suspected Spy</French>
+		<French>Espion suspect</French>
 	</Entry>
 	<Entry beginGroup="Combat">
 		<zType>TEXT_EVENTSTORY_LEADER_SMITING_FOES_TITLE</zType>
